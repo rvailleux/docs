@@ -1,0 +1,48 @@
+﻿- title: Getting started with video calls in Salesforce
+  file: MD/send-an-invitation.md
+- title: Getting started with video calls in Agentforce
+  file: MD/getting-started-with-video-calls-in-agentforce.md
+- title: Install Apizee on your Salesforce instance
+  children:
+    - title: Install and deploy on a sandbox environment
+      file: MD/install-deploy-on-a-sandbox-environment.md
+    - title: Install and deploy on your production environment
+      file: MD/install-deploy-on-your-production-environment.md
+    - title: Configure your environment
+      file: MD/configure-your-salesforce-environment.md
+    - title: Uninstall Apizee from your instance
+      file: MD/uninstall-apizee-from-your-instance.md
+- title: Install Apizee for Agentforce
+  file: MD/install-apizee-for-agentforce.md
+  children:
+    - title: Install and deploy on a production environment
+      file: MD/install-and-deploy-on-a-production-environment.md
+    - title: Configure Apizee for Agentforce
+      file: MD/configure-apizee-for-agentforce.md
+    - title: Uninstall Apizee for Agentforce
+      file: MD/uninstall-apizee-for-agentforce.md
+- title: Video call actions
+  file: MD/video-call-actions.md
+  children:
+    - title: Configure the interaction template
+      file: MD/configure-interaction-template.md
+    - title: 'Enable and disabled the microphone and camera '
+      file: MD/enable-and-disabled-microphone-and-camera.md
+    - title: Take a picture
+      file: MD/take-a-picture.md
+    - title: Change camera
+      file: MD/change-camera.md
+    - title: Share the pointer
+      file: MD/share-pointer.md
+    - title: Share a screen
+      file: MD/share-screen.md
+    - title: Turn on the guest flashlight
+      file: MD/turn-on-guest-flashlight.md
+    - title: Configure the video settings
+      file: MD/configure-video-settings.md
+    - title: Leave a video session
+      file: MD/leave-video-session.md
+    - title: Start and stop Transcription
+      file: MD/start-stop-transcription.md
+- title: Watch the events
+  file: MD/watch-the-events.md

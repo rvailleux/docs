@@ -1,0 +1,43 @@
+﻿- title: About Apizee solutions
+  file: MD/about-apizee-solutions.md
+- title: About Apizee for Customer engagement
+  file: MD/about-apizee-customer-engagement.md
+- title: Log in to the Apizee portal for the first time
+  file: MD/log-in-to-the-apizee-portal-for-the-first-time.md
+- title: Start a conversation and actions during the session
+  file: MD/start-a-conversation-and-actions-during-the-session.md
+  children:
+    - title: Start a video or audio call
+      file: MD/start-a-video-or-audio-call.md
+    - title: Share a file
+      file: MD/share-a-file.md
+    - title: Share a screen
+      file: MD/share-a-screen.md
+    - title: Take a picture and draw on it
+      file: MD/take-a-picture-and-draw-on-it.md
+    - title: Share the pointer
+      file: MD/share-the-pointer.md
+    - title: Record the session
+      file: MD/record-the-session.md
+    - title: Configure my chat box settings
+      file: MD/configure-my-chat-box-settings.md
+    - title: Transfer a conversation to a coworker
+      file: MD/transfer-a-conversation-to-a-coworker.md
+- title: Follow-up on the portal
+  children:
+    - title: Follow the conversations history
+      file: MD/follow-the-conversations-history.md
+    - title: Check the offline messages
+      file: MD/check-the-offline-messages.md
+- title: Configure my account
+  children:
+    - title: Change my information
+      file: MD/change-my-information.md
+    - title: Change my language
+      file: MD/portal-change-my-language.md
+    - title: Change password
+      file: MD/portal-change-password.md
+    - title: Change my status
+      file: MD/change-my-status.md
+    - title: Choose my portal dashboard
+      file: MD/choose-my-portal-dashboard.md

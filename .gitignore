@@ -1,0 +1,7 @@
+# Migration tooling artifacts (not part of published docs)
+INVENTAIRE.csv
+redirects.csv
+RAPPORT-migration.md
+decision.md
+test_*.csv
+.gitkeep
