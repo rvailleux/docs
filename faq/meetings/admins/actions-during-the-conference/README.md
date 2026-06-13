@@ -1,0 +1,18 @@
+# Actions during the conference
+
+* [Activate and turn off the microphone and camera](activate-and-turn-off-the-microphone-and-camera.md)
+* [Choose the screen display mode](choose-the-screen-display-mode.md)
+* [Share a screen](share-a-screen.md)
+* [Take a picture and draw on it](take-a-picture-and-draw-on-it.md)
+* [Draw on a video](draw-on-a-video.md)
+* [Share and download files](https://github.com/rvailleux/docs/tree/master/faq/meetings/admins/actions-during-the-conference/share-and-download-files.md)
+* [Switch camera](switch-camera.md)
+* [Share an additional camera](share-an-additional-camera.md)
+* [Share the pointer](share-the-pointer.md)
+* [Invite a new participant to join the ongoing video conference](invite-new-participant-join-ongoing-video-coneference.md)
+* [Turn off a participant audio](turn-off-participant-audio.md)
+* [Hide a participant video](hide-a-participant-video.md)
+* [Record the session](record-the-session.md)
+* [Respond to the satisfaction survey](respond-to-the-satisfcation-survey.md)
+* [Allow the organizer to remotely access my computer](allow-organizer-to-remotely-access-my-computer.md)
+* [Trigger a custom action](trigger-a-custom-action.md)

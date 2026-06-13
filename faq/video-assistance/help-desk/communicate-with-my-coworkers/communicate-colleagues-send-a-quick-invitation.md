@@ -1,0 +1,49 @@
+# communicate-colleagues-send-a-quick-invitation
+
+## Create a conversation with a single person
+
+1. On the portal dashboard, find your company **Directory**.
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory.png)
+
+```
+| ![](../../.gitbook/assets/ok.png) | The contacts display. |
+| --- | --- |
+```
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory-user-status.png)
+
+```
+| a. | Available |
+| --- | --- |
+| b. | Busy |
+| c. | Unavailable |
+```
+
+2\. Filter the list by **group**. 3. Search a contact in the **search** **bar** with a name or an email address.
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory-filter-users.png) 4. Click a contact thumbnail to open the conversation window.
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory-open-conversation-window.png) 5. Share messages. 6. Click **Video** call or **Audio** call only to start a call.
+
+![](<../../../.gitbook/assets/EN-portal-dashboard-directory-start-video-audio-call (1).png>)
+
+{% hint style="success" %}
+The call starts.
+{% endhint %}
+
+![](<../../../.gitbook/assets/EN-portal-video-call-with-coworker (1).png>)
+
+## Create a group conversation
+
+1. In the **Directory**, click **Invitation**.
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory-invite-group-conversation.png) 2. Tick the **box** of the contacts you want to include in the conversation. 3. Click **Chat**.
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory-invite-group-conversation-choose-participants.png)
+
+{% hint style="success" %}
+The conversation window opens at the bottom of your screen.
+{% endhint %}
+
+![](../../../.gitbook/assets/EN-portal-dashboard-directory-group-conversation-starts.png)

@@ -1,0 +1,58 @@
+# create-a-new-teleconsultation-appointment
+
+{% hint style="info" %}
+You are logged in to your account.
+{% endhint %}
+
+1. On the left-hand menu, click **Teleconsultation**.
+2.  Click **New**. ![](../../../.gitbook/assets/EN-portal-teleconsultation-agenda-view-week-zoom-new.png)
+
+    |   | To change the view mode, click **Day**, **Week**, **Month**or **List**. |
+    | - | ----------------------------------------------------------------------- |
+
+```
+| ![](../../.gitbook/assets/ok.png) | This window displays. The following steps may be different whether you are an organizer or an assistant: |
+| --- | --- |
+
+| **Organizer** | **Assistant** |
+| --- | --- |
+|  -  You are the one who runs the session.    -  Check that your name displays under the **Organizer** title.  -  Enter the guest email address (2), or type the name of someone who is in the **Directory **(2a or 2b).   -  Enter the phone number, if necessary.   -  Click **Next**.   |  -  You do not run the session.   -  You want to entrust the organization to someone else.    -  Click **Change organizer**&#160;(1) and enter the name of the organizer in the search bar (1a).   -  Enter the guest email address (2), or type the name of someone who is in the **Directory **(2a or 2b).   -  Enter the phone number, if necessary.   -  Click **Next**.   |
+```
+
+&#x20;3\. Select a **Duration**, a **Start time** and**End time** **Day** and **Hour**. 4. Choose a **Reminder**, if you want it. 5. Click **Next**.
+
+&#x20;6\. Select a **template**.
+
+```
+| ![Information](../../.gitbook/assets/info.png) | If you did not create your own template, select the default template. |
+| --- | --- |
+```
+
+7\. Select a **language**. 8. Click **Next.** 9. Give a name to the teleconsultation , if you want it. 10. If you chose to send this invitation by email, add a personal message.
+
+```
+| ![](../../.gitbook/assets/ok.png) | The message will display in the email. |
+| --- | --- |
+```
+
+![](../../../.gitbook/assets/EN-teleconsultation-portal-create-session-finalize.png) 11. Click **Finalize**.
+
+```
+| ![](../../.gitbook/assets/ok.png) | The invitation is sent. |
+| --- | --- |
+```
+
+![](../../../.gitbook/assets/EN-portal-page-info-t├йl├йconsultation.png)
+
+```
+| ![](../../.gitbook/assets/ok.png) | The guest receives a message with a link to join the session. |
+| --- | --- |
+```
+
+![](../../../.gitbook/assets/EN-teleconsultation-message-invitation.png)
+
+***
+
+**Watch the tutorial**
+
+[More tutorials](../tutorials-health.md)

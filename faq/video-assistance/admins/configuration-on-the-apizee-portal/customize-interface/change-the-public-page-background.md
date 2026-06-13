@@ -1,0 +1,18 @@
+# change-the-public-page-background
+
+1. In the left-hand menu, click **Customization** then, **Graphic theme**.
+2.  In the **Common** tab, click **Choose File** to change the public page background.
+
+    \| ![Information](<../../../../.gitbook/assets/info (2).png>) |
+
+* The file has to be a\*\* .jpg\*\*- The size has to be at least **1024\*680 pixels**. | | --- | --- |
+
+3. Click **Save**.
+
+![](../../../../.gitbook/assets/EN-Diag-customize-public-page-background.png)
+
+{% hint style="success" %}
+The background displays in the public page as follow:
+{% endhint %}
+
+![](../../../../.gitbook/assets/EN-Diag-customize-public-page-background-result.png)

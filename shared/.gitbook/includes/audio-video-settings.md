@@ -1,3 +1,7 @@
+---
+title: audio-video-settings
+---
+
 {% hint style="info" %}
 You are about to start a session or you are already in an ongoing session and you need to configure your peripherals.
 {% endhint %}
@@ -6,7 +10,7 @@ You are about to start a session or you are already in an ongoing session and yo
 2. Click **Audio & video**.
 3. Choose in the drop-down menus the **camera**, the **microphone** and **audio** item you want to use for the session.
 
-![](../assets/EN-conf-audio-and-video-settings.png)
+![](<../../../faq/.gitbook/assets/EN-conf-audio-and-video-settings (1).png>)
 
 {% hint style="success" %}
 The session reloads with the new settings you applied.

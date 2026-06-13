@@ -1,0 +1,24 @@
+# health-faq
+
+Here are all the **Frequently Asked Questions** about: **Apizee Health**
+
+* [The teleconsultations are they confidential?](the-teleconsultations-are-they-confidential.md)
+* [Where are the servers](where-are-the-servers.md)
+* [How to check my microphone and camera before an appointment?](how-to-check-my-microphone-and-camera-before-an-appointment.md)
+* [What language is available](what-language-is-available.md)
+* [How can I transfer the teleconsultation from my mobile to my computer?](how-can-i-transfer-the-teleconsultation-from-my-mobile-to-my-computer.md)
+* [How can I switch from dark to light mode?](health-how-can-i-switch-from-dark-to-light-mode.md)
+* [I do not manage to join the teleconsultation](i-do-not-manage-to-join-the-teleconsultation.md)
+* [People cannot see me](people-cannot-see-me.md)
+* [People cannot hear me](people-cannot-hear-me.md)
+* [The video and the audio cut off](the-video-and-the-audio-cut-off.md)
+* [The audio is strange](the-audio-is-strange.md)
+* [I do not have the sound notifications](i-do-not-have-the-sound-notifications.md)
+* [I forgot my password, can I reset it?](i-forgot-my-password-can-i-reset-it.md)
+* [Allow the Web browser to access the camera and the microphone on my computer](allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
+* [I cannot bill for the teleconsultation](i-cannot-bill-for-the-teleconsultation.md)
+* [When will the patient pay for the teleconsultation?](when-will-the-patient-pay-for-the-teleconsultation.md)
+* [The patient did not pay yet, how can I remind him?](the-patient-did-not-pay-yet-how-can-i-remind-him.md)
+* [I want to change my subsciption](i-want-to-change-my-subsciption.md)
+* [I cannot add a new user to my company](i-cannot-add-a-new-user-to-my-company.md)
+* [How to contact the Support Team and follow my requests?](how-to-contact-the-support-team-and-follow-my-requests.md)
