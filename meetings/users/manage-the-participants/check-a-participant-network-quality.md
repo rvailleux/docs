@@ -2,8 +2,6 @@
 You want to check the quality state of a participant video or audio.
 {% endhint %}
 
-# 
-
 On the top left of the participant video, click the **network**symbol. 
  
  ![](../../.gitbook/assets/EN-conf-network-quality-participant.png)

@@ -1,4 +1,3 @@
-##  
 
 # Get all video calls attached to a Case or an Incident
 

@@ -1,5 +1,3 @@
-# 
-
 # How to turn on the guest flashlight
 
 {% hint style="info" %}

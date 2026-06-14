@@ -2,7 +2,7 @@
 
 Here are all the **Frequently Asked Questions** about:
  **Apizee Meeting** 
-* [The conferences are they confidential?](the-conferences-are-they-confidential.md)
+* [Are the conferences confidential?](the-conferences-are-they-confidential.md)
 * [Where are the servers?](where-are-the-servers.md)
 * [How to check my microphone and camera before an appointment?](how-to-check-my-microphone-and-camera-before-an-appointment.md)
 * [What language is available?](what-language-is-available.md)

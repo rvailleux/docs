@@ -3,7 +3,7 @@
 Here are all the **Frequently Asked Questions** about:
  **Diag Help Desk**
 
-* [The conferences are they confidential?](the-conference-are-they-confidential.md)
+* [Are the conferences confidential?](the-conference-are-they-confidential.md)
 * [Where are the servers?](where-are-the-servers.md)
 * [What language is available?](what-language-is-available.md)
 * [I do not manage to join the video assistance](i-do-not-manage-to-join-the-video-assistance.md)

@@ -8,8 +8,6 @@
 
 * * *
 
-## 
-
 Apizee
 
 Espace Corinne Erhel
@@ -32,8 +30,6 @@ Email: info@apizee.com
 
 * * *
 
-## 
-
 Michel L’Hostis
 
 Email: communication@apizee.com
@@ -41,8 +37,6 @@ Email: communication@apizee.com
 ## Photo credits
 
 * * *
-
-## 
 
 Apizee SAS
 
@@ -55,7 +49,5 @@ Apizee SAS
 ##  Terms and conditions
 
 * * *
-
-## 
 
 [Read the Terms & conditions](https://www.apizee.com/terms-and-conditions/)

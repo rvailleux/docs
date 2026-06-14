@@ -1,5 +1,3 @@
-# 
-
 # How to share your screen
 
 {% hint style="info" %}

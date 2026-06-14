@@ -17,4 +17,4 @@ The statistics menu gives you an overview on the key figures about:
 {% endhint %}
 * [Statistics - Sessions](statistics-sessions.md)
 * [Statistics - Survey](statistics-survey.md)
-* [Statistiques - Assistance](statistiques-assistance.md)
+* [Statistics - Assistance](statistiques-assistance.md)

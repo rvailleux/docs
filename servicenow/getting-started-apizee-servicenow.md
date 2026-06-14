@@ -1,4 +1,4 @@
-## 
+# Getting started with Apizee for ServiceNow
 
 The Apizee connector is an add-on for ServiceNow. It helps customer support personnel start video sessions inside ServiceNow.
 

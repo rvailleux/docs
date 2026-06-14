@@ -1,6 +1,4 @@
-# 
-
-#  Join the session
+# Join the session
 
 {% hint style="info" %}
 You are logged in to your account.

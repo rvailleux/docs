@@ -17,8 +17,6 @@ Someone shared a file with you.
  
  ![](../../../.gitbook/assets/EN-Diag-portal-agent-download-file-messages-tab.png)
 
-#  
-
 ## After the session
 
 {% hint style="info" %}

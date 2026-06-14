@@ -4,7 +4,7 @@
 
 * [Welcome to the FAQ](general/welcome-to-the-faq.md)
 * [About Apizee solutions](general/faq-about-apizee-solutions.md)
-* [The conferences are they confidential?](general/the-conferences-are-they-confidential.md)
+* [Are the conferences confidential?](general/the-conferences-are-they-confidential.md)
 * [Where are the servers?](general/where-are-the-servers.md)
 * [How to check my microphone and camera before an appointment?](general/how-to-check-my-microphone-and-camera-before-an-appointment.md)
 * [What language is available?](general/what-language-is-available.md)

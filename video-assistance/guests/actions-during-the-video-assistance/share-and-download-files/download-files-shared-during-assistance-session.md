@@ -18,8 +18,6 @@ Someone shared a file with you.
  
  ![](../../../.gitbook/assets/Diag-Guest-download-file-messages-tab.png)
 
-#  
-
 ## After the session
 
 {% hint style="info" %}
