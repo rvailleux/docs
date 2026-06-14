@@ -5,9 +5,11 @@ To uninstall Apizee package, all setup performed after its installation need to 
 * Unassign Apizee permission set.
 * Unassign Apizee page layout (if assigned) or remove the Apizee lightning component from layouts.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | If dependencies need to be removed, you will be invited to remove these dependencies before preceeding to the uninstallation. |
-| --- | --- |
+{% hint style="info" %}
 
+If dependencies need to be removed, you will be invited to remove these dependencies before preceeding to the uninstallation.
+
+{% endhint %}
 ## Uninstall the Apizee package
 
 1. Connect to the target environment as a **System Administrator.**
@@ -20,5 +22,8 @@ To uninstall Apizee package, all setup performed after its installation need to 
 
 ![A white background with black text  Description automatically generated](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0032.png)
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Apizee app is now removed from your Salesforce environement. |
-| --- | --- |
+{% hint style="success" %}
+
+The Apizee app is now removed from your Salesforce environement.
+
+{% endhint %}

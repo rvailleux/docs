@@ -37,14 +37,19 @@ If you want to, you can download those same files on another device. Interested?
  
  ![](../../.gitbook/assets/EN-conf-end-of-session-page-download-files-on-another-device-enter-address.png)
 
-    | ![](../../.gitbook/assets/ok.png) | A new message is sent on your email address |
-    | --- | --- |
+    {% hint style="success" %}
+
+    A new message is sent on your email address
+
+    {% endhint %}
 3. From the other device, open the new message you have been sent on the email address given below.
 4. Click the link in the message. 
 
-    | ![](../../.gitbook/assets/ok.png) | The end of session page opens with the shared files on the right. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The end of session page opens with the shared files on the right.
+
+    {% endhint %}
 ## After the session in the portal
 
 {% hint style="info" %}
@@ -55,6 +60,9 @@ You are the organizer of the session from which the files are from. Or, you are 
 1. On the left-hand menu, click the service you want.
 2. In the list, find the session you want and click ![](../../.gitbook/assets/button-edit.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The page displays. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The page displays.
+
+    {% endhint %}
 3. Under **Shared files**, select the file you want and click **Download**.

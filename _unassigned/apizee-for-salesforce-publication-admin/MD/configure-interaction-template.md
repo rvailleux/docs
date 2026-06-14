@@ -9,9 +9,11 @@ You edit the interactionTemplate on the **Flow** page of the Admin portal.
 1. Log in to the Admin portal.
 2. Click **Flow** in the left navigation.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Flow page opens with a JSON editor showing the current configuration. |
-| --- | --- |
+{% hint style="success" %}
 
+The Flow page opens with a JSON editor showing the current configuration.
+
+{% endhint %}
 * * *
 
 ##
@@ -55,9 +57,11 @@ Each step has the following fields:
 | `options` | object | No | Step-level display options. |
 | `functions` | array | No | List of features to configure for this step. |
 
-| ![Information](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/info.png) | Features defined in functions apply globally, not only during the step they are declared in. You can declare all features on the same step for clarity.<br>The application adds an error step automatically if it is absent from the list. |
-| --- | --- |
+{% hint style="info" %}
 
+Features defined in functions apply globally, not only during the step they are declared in. You can declare all features on the same step for clarity.<br>The application adds an error step automatically if it is absent from the list.
+
+{% endhint %}
 ### **Agent steps**
 
 Valid `key` values for the `agent` section:
@@ -81,9 +85,11 @@ Valid `key` values for the `guest` section:
 | `end` | End-of-call screen. |
 | `error` | Error screen. Added automatically if absent. |
 
-| ![Information](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/info.png) | To skip, for example, the consent step, set initialStep to device and remove consent from the steps list.<br>To enable the moderation waiting room, include waiting as a step and set it as the target of entry. |
-| --- | --- |
+{% hint style="info" %}
 
+To skip, for example, the consent step, set initialStep to device and remove consent from the steps list.<br>To enable the moderation waiting room, include waiting as a step and set it as the target of entry.
+
+{% endhint %}
 ## Features reference
 
 Features configure which buttons and behaviors are available during the call. Declare them in the `functions` array of any step.
@@ -129,9 +135,11 @@ These features control button visibility and default state.
 * `isActive: true` — the feature starts automatically (camera on, mic on, transcription running).
 * `isActive: false` — the feature is off by default. The user must activate it manually.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/warning.png) | isActive has no effect when isVisible is false.<br>If camera is hidden, snapshot, laser, and torch are also hidden automatically for the agent. |
-| --- | --- |
+{% hint style="warning" %}
 
+isActive has no effect when isVisible is false.<br>If camera is hidden, snapshot, laser, and torch are also hidden automatically for the agent.
+
+{% endhint %}
 ### **Value features**
 
 These features accept a specific value instead of `isVisible` / `isActive`.
@@ -193,28 +201,36 @@ Step options configure display behavior for a specific step.
 1. Edit the JSON in the editor.
 2. Click **Save**.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The new configuration applies to all future calls. |
-| --- | --- |
+{% hint style="success" %}
 
+The new configuration applies to all future calls.
+
+{% endhint %}
 **To cancel unsaved changes:**
 
 1. Click **Cancel**.
 2. Confirm in the dialog.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The editor reverts to the last saved configuration. |
-| --- | --- |
+{% hint style="success" %}
 
+The editor reverts to the last saved configuration.
+
+{% endhint %}
 **To reset to defaults:**
 
 1. Click **Reset**.
 2. Confirm in the dialog.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The flow is deleted. The application uses the default settings. |
-| --- | --- |
+{% hint style="success" %}
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/warning.png) | The JSON must be valid before you can save. The editor shows an error indicator if the format is incorrect. |
-| --- | --- |
+The flow is deleted. The application uses the default settings.
 
+{% endhint %}
+{% hint style="warning" %}
+
+The JSON must be valid before you can save. The editor shows an error indicator if the format is incorrect.
+
+{% endhint %}
 > 
 
 ## Complete example

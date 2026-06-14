@@ -44,8 +44,11 @@ The default speakers of your device are correctly set up.
 The settings of your computer allow the browser to access your microphone.
 Sometimes you need to go into your device settings to let your browser use the microphone and the camera.
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**[Allow the Web browser to access the camera and the microphone on my computer](allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also**[Allow the Web browser to access the camera and the microphone on my computer](allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
+
+{% endhint %}
 {% endhint %}
 {% hint style="info" %}
 Still having an issue?

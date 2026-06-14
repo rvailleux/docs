@@ -2,12 +2,20 @@
  
  ![](../Storage/customer-engagement-user-en/Diag-portal-agent-record-session.png) 
 
-    | ![](../Storage/customer-engagement-user-en/project-content-reuse/tip.png) | The session reloads and starts again automatically. |
-    | --- | --- |
+    {% hint style="info" %}
 
-    | ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The recording starts and the participant is notified. |
-    | --- | --- |
+    The session reloads and starts again automatically.
+
+    {% endhint %}
+    {% hint style="success" %}
+
+    The recording starts and the participant is notified.
+
+    {% endhint %}
 2. Click the **red dot** again to stop recording. 
 
-    | ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The recording is available on your Apizee account, in the **Messages** menu, in the [Session details](follow-the-conversations-history.md) ![](../Storage/customer-engagement-user-en/project-content-reuse/Cloud-detail-icon.png) |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The recording is available on your Apizee account, in the **Messages** menu, in the [Session details](follow-the-conversations-history.md) ![](../Storage/customer-engagement-user-en/project-content-reuse/Cloud-detail-icon.png)
+
+    {% endhint %}

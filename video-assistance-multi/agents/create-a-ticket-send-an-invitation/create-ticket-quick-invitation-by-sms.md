@@ -9,7 +9,9 @@ You [chose the dashboard](../video-assistance/agents/configuration-on-the-apizee
  ![](../../.gitbook/assets/EN-Diag-portal-quick-invitation-sms.png)
 2. Click **Send invitation**. 
 
-    | ![](../../.gitbook/assets/ok.png) | The message is sent to the requester. You are directed to the **Ticket page**. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The message is sent to the requester. You are directed to the **Ticket page**.
+
+    {% endhint %}
  ![](../../.gitbook/assets/EN-Diag-portal-quick-invitation-sms-result-ticket-page.png)

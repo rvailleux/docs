@@ -8,9 +8,11 @@
 
  ![A screenshot of a computer  Description automatically generated](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0006.png)
 
-    | ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Apizee app is now installed on your sandbox. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The Apizee app is now installed on your sandbox.
+
+    {% endhint %}
  ![A white rectangular object with a line  Description automatically generated with medium confidence](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0007.png)
 
 ![A screenshot of a computer  Description automatically generated](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0008.png)

@@ -11,15 +11,20 @@ The guest can **[draw on the picture](take-picture-and-draw-on-it.md#picture-ope
  
  ![izeeconf taking a picture](../../.gitbook/assets/conf-taking-a-picture.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The picture is taken. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The picture is taken.
+
+    {% endhint %}
 2. If you want to open the picture in the whiteboard in order to draw on it, click ![](../../.gitbook/assets/button-draw-whiteboard.png) 
  
  ![izeeconf taking a picture notification draw whiteboard](../../.gitbook/assets/EN-taking-picture-notification-draw-whiteboard-button.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The picture opens in the whiteboard. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The picture opens in the whiteboard.
+
+    {% endhint %}
  ![izeeconf whiteboard draw on picture](../../.gitbook/assets/EN-conf-whiteboard-draw-on-picture.PNG)
 3. Choose a **color** and a shape (**pen**, **arrow**, **circle**, **rectangle**) and draw on the picture. 
 You can also annotate it with **Text**.

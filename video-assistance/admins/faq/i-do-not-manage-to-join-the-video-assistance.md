@@ -45,8 +45,11 @@ You are connected to the portal with your account and your profile is **Availabl
 If your profile is **Busy** or **Unavailable**, change it into **Available** status.
   -  On the portal, on&#160;the top right, click on your **profile **thumbnail.  -  In the status drop-down menu, click **Available**.  -  Refresh the page.  -  Try to join the session again.   
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**  [Change my status](../configuration-on-the-apizee-portal/configure-my-account/change-my-status.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also**  [Change my status](../configuration-on-the-apizee-portal/configure-my-account/change-my-status.md)
+
+{% endhint %}
 {% endhint %}
 {% hint style="success" %}
 You are connected to the portal with your account and you clicked **Join**.

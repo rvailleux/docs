@@ -39,20 +39,28 @@ You are the organizer of the session from which the files are from. Or, you are 
  
  ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The page displays. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The page displays.
+
+    {% endhint %}
 3. Under **Shared files**, choose the files and click **Share**. 
  
  ![](../../.gitbook/assets/EN-Diag-portal-ticket-page-share-file-after-session.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | A window opens. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    A window opens.
+
+    {% endhint %}
 4. Enter en email address.
 5. Click **Send**. 
 
-    | ![](../../.gitbook/assets/ok.png) | The persons to whom you shared the files receive a message with a new download link. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The persons to whom you shared the files receive a message with a new download link.
+
+    {% endhint %}
  ![](../../.gitbook/assets/EN-conf-message-files-shared-again.png)
 
 * * *

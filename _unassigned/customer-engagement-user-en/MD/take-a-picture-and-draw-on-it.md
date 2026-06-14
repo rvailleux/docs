@@ -4,16 +4,20 @@
  
  ![](../Storage/customer-engagement-user-en/EN-Diag-portal-agent-local-shared-annotation-open-whiteboard.png) 
 
-    | ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The picture displays in the whiteboard. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The picture displays in the whiteboard.
+
+    {% endhint %}
  ![](../Storage/customer-engagement-user-en/Diag-portal-agent-whiteboard.png)
 4. Choose a **color**and a shape (**pen**, **arrow**, **circle**, **rectangle**) and draw on the picture. 
 You can also annotate it with **Text**. 
 
-    | ![](../Storage/customer-engagement-user-en/project-content-reuse/tip.png) | Do not forget to **Save** your work. Click ![](../Storage/customer-engagement-user-en/project-content-reuse/button-save.png) |
-    | --- | --- |
+    {% hint style="info" %}
 
+    Do not forget to **Save** your work. Click ![](../Storage/customer-engagement-user-en/project-content-reuse/button-save.png)
+
+    {% endhint %}
  ![](../Storage/customer-engagement-user-en/EN-Diag-whiteboard-options.png)
 
 | a. | Move around the picture |

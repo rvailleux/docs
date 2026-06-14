@@ -10,13 +10,18 @@ That will help you find faster the session you are looking for.
 
  ![](../../.gitbook/assets/EN-portal-conf-edit-conference-page.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The page of the session displays. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The page of the session displays.
+
+    {% endhint %}
 4. Under **Shared files**, move your mouse over the file you are intersted in and click ![](../../.gitbook/assets/Button-file-information.png). 
  
  ![](../../.gitbook/assets/EN-portal-sessions-page-shared-files.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The information display. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The information display.
+
+    {% endhint %}
  ![](../../.gitbook/assets/EN-portail-geoloc-info-image.png)

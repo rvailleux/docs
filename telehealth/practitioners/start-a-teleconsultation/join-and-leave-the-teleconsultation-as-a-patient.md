@@ -15,8 +15,11 @@ You received a text message or an email with a link to join the session.
  
  ![](../../.gitbook/assets/EN-teleconsultation-join-with-security-code.png) 
 
-    | ![Information](../../.gitbook/assets/info.png) | If no code is asked to you then, follow the next step. |
-    | --- | --- |
+    {% hint style="info" %}
+
+    If no code is asked to you then, follow the next step.
+
+    {% endhint %}
 3. Tick the boxes to agree to the terms then, click **Confirm.**
 
 ![](../../.gitbook/assets/EN-teleconsultation-join-session-consent-optin-confirm-click.png)
@@ -30,9 +33,9 @@ If you do not allow, the participants will not hear you and see you.
 ![](../../.gitbook/assets/EN-teleconsultation-join-session-check-peripherals.png)
 
 ![](../../.gitbook/assets/apizee-background.png)**Want to change your background?**
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md) |
-| --- | --- |
-
+{% hint style="info" %}
+*See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md)
+{% endhint %}
 {% hint style="success" %}
 You are in the waiting room.
 {% endhint %}

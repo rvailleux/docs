@@ -11,8 +11,11 @@ You want to customize what is displayed on the [PDF export](../../follow-up-the-
 ![](../../../.gitbook/assets/EN-diag-export-pdf-template.png)
 3. Tick the boxes in front of the information you want to be displayed.
 
-    | ![](../../../.gitbook/assets/ok.png) | The **Preview** on the right automatically loads your changes. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The **Preview** on the right automatically loads your changes.
+
+    {% endhint %}
 4. Click **Save**.
 
 {% hint style="success" %}

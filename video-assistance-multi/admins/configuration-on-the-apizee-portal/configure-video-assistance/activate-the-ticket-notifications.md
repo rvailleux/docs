@@ -55,8 +55,11 @@ The agent sent an invitation for an assistance. For some reason, the assistance 
 - In the assistance list, the agent clicked **Cancel**.
 or- In the assistance page, the agent clicked **Cancel session**.
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Cancel a session](../video-assistance/agents/follow-up-the-assistances-on-the-portal/cancel-a-session.md) |
-| --- | --- | | Canceled |
+{% hint style="info" %}
+
+*See also** [Cancel a session](../video-assistance/agents/follow-up-the-assistances-on-the-portal/cancel-a-session.md)
+
+{% endhint %}
 | Ticket rejected | Notify the requester that the assistance request is rejected. | Agent | Requester | Prerequisite:
  
 Subscribe to the **DIAG - Enterprise** offer

@@ -6,8 +6,11 @@ You received a text message.
 
 1. In the message, tap the link.
 
-    | ![Information](../../.gitbook/assets/info.png) | *The guest app opens in their browser.* |
-    | --- | --- |
+    {% hint style="info" %}
+
+    The guest app opens in their browser.
+
+    {% endhint %}
 2. Tick the boxes to Agree to the legal terms.
 3. Click **Continue**.
 4. Allow the Web browser to use the microphone and camera.

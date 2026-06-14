@@ -1,8 +1,11 @@
 1. Select the **Session** tab.
 2. In the list, click the session you want.
 
-    | ![](../../.gitbook/assets/ok.png) | The session details display. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The session details display.
+
+    {% endhint %}
 3. Go to the **Files** section.
 
 # Download one file

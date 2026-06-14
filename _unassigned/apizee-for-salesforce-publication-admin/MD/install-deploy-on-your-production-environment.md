@@ -5,8 +5,11 @@
 5. Check the details.
 6. Click **Confirm and Install.** ![](../Storage/apizee-for-salesforce-publication-admin/install-apizee-on-your-salesforce-production-environment/install-apizee-on-your-salesforce-production-environment-2025-03-11-1.png)
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Apizee app is now installed on your production instance. |
-| :--- | :--- |
+{% hint style="success" %}
+
+The Apizee app is now installed on your production instance.
+
+{% endhint %}
 
 ![A screenshot of a computer  Description automatically generated](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0008.png)
 

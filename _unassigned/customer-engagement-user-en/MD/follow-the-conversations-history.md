@@ -7,8 +7,11 @@
 OR
     * Choose a **starting date** then, an **ending date** in the calendar.
 
-        | ![Information](../Storage/customer-engagement-user-en/project-content-reuse/info.png) | You can display the results for a maximum time of 3 months. |
-        | --- | --- |
+        {% hint style="info" %}
+
+        You can display the results for a maximum time of 3 months.
+
+        {% endhint %}
 3. Choose to display the result for a specific **service** (Website) or **organizer** (agent).
 4. In the drop-down menu, choose **All services** or one in particular.
 5. Click **Display**.

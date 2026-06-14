@@ -8,8 +8,14 @@
 
 ![A screenshot of a computer  Description automatically generated](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0008.png)
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Apizee app is now installed on your production instance. |
-| :--- | :--- |
+{% hint style="success" %}
 
-| ![Information](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/info.png) | To continue the installation, [configure Apizee for Agentforce on your environment](configure-apizee-for-agentforce.md "Follow up with Agentforce configuration"). |
-| --- | --- |
+The Apizee app is now installed on your production instance.
+
+{% endhint %}
+
+{% hint style="info" %}
+
+To continue the installation, [configure Apizee for Agentforce on your environment](configure-apizee-for-agentforce.md "Follow up with Agentforce configuration").
+
+{% endhint %}

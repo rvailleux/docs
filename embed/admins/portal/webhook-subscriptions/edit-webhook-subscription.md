@@ -1,8 +1,11 @@
 1. Select the **Information** tab.
 2. In the **Webhook subscriptions** section, click the row of the subscription you want to edit. 
 
-    | ![](../../../.gitbook/assets/ok.png) | The subscription details display. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The subscription details display.
+
+    {% endhint %}
 3. Edit the fields as needed:
     * For text fields (Name, URL, headers): click the field, type your changes, then click the **confirm** icon to save or the **cancel** icon to discard.
     * For the method: select a value from the dropdown.

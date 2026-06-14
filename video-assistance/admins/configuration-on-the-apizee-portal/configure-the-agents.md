@@ -43,9 +43,11 @@ The call is directed first to the agents categorized in the high priority, then 
 
 ![](../../.gitbook/assets/portal-prioritize-agents-availability.gif)
 
-    | ![](../../.gitbook/assets/ok.png) | The configuration is automatically saved. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The configuration is automatically saved.
+
+    {% endhint %}
 ## Create a user group
 
 Each user belongs to one (the **default**one) or several groups.
@@ -71,5 +73,8 @@ The users can be grouped according to their skills, their roles or any other cha
 
 ![](../../.gitbook/assets/EN-portal-add-group-select-role.png)
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md)
+
+{% endhint %}

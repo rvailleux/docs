@@ -7,8 +7,11 @@ You want to log in to your account but you forgot your password.
 3. Tick the box **I'm not a robot**.
 4. Click **Reset**. 
 
-    | ![](../.gitbook/assets/ok.png) | An email is sent with a reset password link. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    An email is sent with a reset password link.
+
+    {% endhint %}
 5. Click the link in the email.
 6. Choose a new password and enter it again to confirm it. 
  

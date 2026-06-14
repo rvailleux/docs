@@ -5,7 +5,9 @@
 
 ![](../Storage/customer-engagement-user-en/project-diag-help-desk/EN-portal-dashboard-directory-start-video-audio-call.png)
 
-| ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The call starts. |
-| --- | --- |
+{% hint style="success" %}
 
+The call starts.
+
+{% endhint %}
 ![](../Storage/customer-engagement-user-en/project-diag-help-desk/EN-portal-video-call-with-coworker.png)

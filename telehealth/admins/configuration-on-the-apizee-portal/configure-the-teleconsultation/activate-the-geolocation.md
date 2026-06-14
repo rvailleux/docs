@@ -21,5 +21,8 @@ If the guest **allows**, then the location information is available in the**shar
 
 ![](../../../.gitbook/assets/EN-portail-geoloc-info-image.png)
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Check the files information](../../follow-up-the-teleconsultations-on-the-portal/check-the-files-information.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Check the files information](../../follow-up-the-teleconsultations-on-the-portal/check-the-files-information.md)
+
+{% endhint %}

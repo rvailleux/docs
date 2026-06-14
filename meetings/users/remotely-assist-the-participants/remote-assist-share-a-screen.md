@@ -1,6 +1,6 @@
-| ![](../../.gitbook/assets/icon-device-computer.png) | Available if the participant is following the session with a **computer only**. |
-| --- | --- |
-
+{% hint style="info" %}
+Available if the participant is following the session with a **computer only**.
+{% endhint %}
 {% hint style="info" %}
 You are the organizer of the session and you want to help a participant to share his screen.
 {% endhint %}
@@ -14,14 +14,21 @@ You are the organizer of the session and you want to help a participant to share
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-screen.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | An invitation is sent to the participant and displays on his screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    An invitation is sent to the participant and displays on his screen as follow:
+
+    {% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-screen.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | When accepted, you can see the screen he shares. |
-    | --- | --- |
+    {% hint style="success" %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | The participant can do this action by himself.  **See also** [Share a screen](../actions-during-the-conference/share-a-screen.md) |
-| --- | --- |
+    When accepted, you can see the screen he shares.
+
+    {% endhint %}
+{% hint style="info" %}
+
+The participant can do this action by himself.  **See also** [Share a screen](../actions-during-the-conference/share-a-screen.md)
+
+{% endhint %}

@@ -1,8 +1,11 @@
 1. Select the **Information** tab.
 2. In the **Webhook subscriptions** section, click the row of the subscription you want to delete. 
 
-    | ![](../../../.gitbook/assets/ok.png) | The subscription details display. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The subscription details display.
+
+    {% endhint %}
 3. Click **Delete**.
 4. In the confirmation dialog, click **Delete** to confirm.
 

@@ -2,9 +2,11 @@
 
 1. Go to the [Apizee Support Center](https://apizee.atlassian.net/servicedesk/customer/portals).
 
-    | ![](../.gitbook/assets/ok.png) | You are directed to the Apizee Support Website. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    You are directed to the Apizee Support Website.
+
+    {% endhint %}
 # Create an Apizee support account
 
 1. To create a free account, click **Sign up**.

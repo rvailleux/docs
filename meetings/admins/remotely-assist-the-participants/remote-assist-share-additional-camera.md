@@ -1,6 +1,6 @@
-| ![](../../.gitbook/assets/icon-device-several-cameras.png) | Available only if the participant has **several cameras** on his device. |
-| --- | --- |
-
+{% hint style="info" %}
+Available only if the participant has **several cameras** on his device.
+{% endhint %}
 {% hint style="info" %}
 You are the organizer of the session and you want to help a participant to share another camera in addition to the one that is already used.
 {% endhint %}
@@ -14,14 +14,21 @@ You are the organizer of the session and you want to help a participant to share
  
 ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-additional-video.png)
 
-    | ![](../../.gitbook/assets/ok.png) | An invitation is sent to the participant and displays on his screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    An invitation is sent to the participant and displays on his screen as follow:
+
+    {% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-additional-video.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | When accepted, a new video displays on the screen in addition to the one that was already displayed. |
-    | --- | --- |
+    {% hint style="success" %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | The participant can do this action by himself.**See also** [Share an additional camera](../actions-during-the-conference/share-an-additional-camera.md) |
-| --- | --- |
+    When accepted, a new video displays on the screen in addition to the one that was already displayed.
+
+    {% endhint %}
+{% hint style="info" %}
+
+The participant can do this action by himself.**See also** [Share an additional camera](../actions-during-the-conference/share-an-additional-camera.md)
+
+{% endhint %}

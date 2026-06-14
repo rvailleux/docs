@@ -18,8 +18,11 @@ The page of the ticket displays. You can find the following information:
 | b. | When | Date and time set for the assistance. |  |
 | c. | Assignement |  -  Person in charge of the ticket.  -  Assistance report.   |  -  Click the **Assign to** drop-down menu to assign the ticket to another person.  -  Click **Choose File**&#160;to upload the assistance report.   
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Attach a report to the ticket](attach-a-report-to-the-ticket.md) |
-| --- | --- | |
+{% hint style="info" %}
+
+*See also** [Attach a report to the ticket](attach-a-report-to-the-ticket.md)
+
+{% endhint %}
 | d. | Shared media | Files shared during the assistance.
  
 

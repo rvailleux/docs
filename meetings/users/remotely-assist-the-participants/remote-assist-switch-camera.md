@@ -1,6 +1,6 @@
-| ![](../../.gitbook/assets/icon-device-several-cameras.png) | Available only if the participant has **several cameras** on his device. |
-| --- | --- |
-
+{% hint style="info" %}
+Available only if the participant has **several cameras** on his device.
+{% endhint %}
 {% hint style="info" %}
 You are the organizer of the session and you want to help a participant to change his camera.
 {% endhint %}
@@ -14,14 +14,21 @@ You are the organizer of the session and you want to help a participant to chang
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-switch-camera.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | An invitation is sent to the participant and displays on his screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    An invitation is sent to the participant and displays on his screen as follow:
+
+    {% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-switch-camera.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | When accepted, the video of a different camera displays. |
-    | --- | --- |
+    {% hint style="success" %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | The participant can do this action by himself.**See also** [Switch camera](../actions-during-the-conference/switch-camera.md) |
-| --- | --- |
+    When accepted, the video of a different camera displays.
+
+    {% endhint %}
+{% hint style="info" %}
+
+The participant can do this action by himself.**See also** [Switch camera](../actions-during-the-conference/switch-camera.md)
+
+{% endhint %}

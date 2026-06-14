@@ -9,22 +9,33 @@
 
 ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png)
 
-    | ![](../../.gitbook/assets/ok.png) | The page of the ticket displays. |
-    | --- | --- |
+    {% hint style="success" %}
 
-    | ![Information](../../.gitbook/assets/info.png) | As you already [exported the session information into PDF](export-session-information-into-pdf.md), the file is available in the shared files. |
-    | --- | --- |
+    The page of the ticket displays.
+
+    {% endhint %}
+    {% hint style="info" %}
+
+    As you already [exported the session information into PDF](export-session-information-into-pdf.md), the file is available in the shared files.
+
+    {% endhint %}
 3. Tick the box to select the PDF file
 4. Click **Share**.
 5. Enter an email adress
 6. Click **Send**.
 
-    | ![](../../.gitbook/assets/ok.png) | An email is sent with a link. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    An email is sent with a link.
+
+    {% endhint %}
 7. The receiver clicks the link.
 
-    | ![](../../.gitbook/assets/ok.png) | A new window opens on his device. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    A new window opens on his device.
+
+    {% endhint %}
 8. The receiver clicks the download link.
 
 {% hint style="success" %}

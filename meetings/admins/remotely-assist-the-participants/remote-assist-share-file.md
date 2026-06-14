@@ -11,9 +11,11 @@ You are the organizer of the session and you want to help a participant to share
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-file.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | An invitation is sent to the participant and displays on his screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    An invitation is sent to the participant and displays on his screen as follow:
+
+    {% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-file.png) 
 
@@ -22,5 +24,8 @@ He needs to choose a file and click **Open**.
 Once downloaded, the files displays in the **Messages** tab. |
     | --- | --- |
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | The participant can do this action by himself.**See also** [Share a file](../actions-during-the-conference/share-and-download-files/share-a-file.md) |
-| --- | --- |
+{% hint style="info" %}
+
+The participant can do this action by himself.**See also** [Share a file](../actions-during-the-conference/share-and-download-files/share-a-file.md)
+
+{% endhint %}

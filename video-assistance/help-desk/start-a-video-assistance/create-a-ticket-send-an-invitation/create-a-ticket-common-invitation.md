@@ -10,8 +10,11 @@
  
  ![](../../../.gitbook/assets/EN-Diag-portal-create-ticket-common-invitation-enter-ticket-information.png) 
 
-    | ![Information](../../../.gitbook/assets/info.png) | The ticket is automatically assigned to the agent that creates it (When a supervisor creates a ticket, the supervisor has to choose who will be in charge of the ticket). |
-    | --- | --- |
+    {% hint style="info" %}
+
+    The ticket is automatically assigned to the agent that creates it (When a supervisor creates a ticket, the supervisor has to choose who will be in charge of the ticket).
+
+    {% endhint %}
 8. Choose an invitation **template**. 
 If you did not create a template, choose **Template by default (Apizee)**.
 9. Choose a language.

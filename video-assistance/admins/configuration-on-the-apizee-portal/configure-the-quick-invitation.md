@@ -13,5 +13,8 @@ If you have several services in the left-hand menu, note that you can configure 
 
 ![](../../.gitbook/assets/Portal-quick-invitation-conference-or-video-assistance.png)
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Send a quick invitation by email and/or SMS](../start-a-video-assistance/create-a-ticket-send-an-invitation/create-a-ticket-quick-invitation-by-email-and-or-sms.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Send a quick invitation by email and/or SMS](../start-a-video-assistance/create-a-ticket-send-an-invitation/create-a-ticket-quick-invitation-by-email-and-or-sms.md)
+
+{% endhint %}

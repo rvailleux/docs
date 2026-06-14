@@ -11,13 +11,17 @@ You are the organizer of the session and you want to help a participant to open 
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-files.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | An invitation is sent to the participant and displays on his screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    An invitation is sent to the participant and displays on his screen as follow:
+
+    {% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-open-files.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | When accepted, the **Shared files library** opens on the pariticpant screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    When accepted, the **Shared files library** opens on the pariticpant screen as follow:
+
+    {% endhint %}
  ![](../../.gitbook/assets/EN-conf-guest-shared-files-library-opened.png)

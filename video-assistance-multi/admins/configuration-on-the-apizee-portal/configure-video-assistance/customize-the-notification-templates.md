@@ -26,8 +26,17 @@ We recommend to **Add a new template**, and define it as a default template.
 
  
 
-| ![](../../../.gitbook/assets/warning.png) | Avoid special characters as they increase the number of SMS.  - Here is an example of special characters: | ^ € { } [ ] ~  - French special characters that reduce the SMS length to 70 characters: &#226;, &#234;, &#238;, &#244;, &#251;, &#231;, œ   |
-| --- | --- | |
+{% hint style="warning" %}
+ 
+
+ 
+
+Avoid special characters as they increase the number of SMS.  - Here is an example of special characters: | ^ € { } [ ] ~  - French special characters that reduce the SMS length to 70 characters: &#226;, &#234;, &#238;, &#244;, &#251;, &#231;, œ
+ 
+
+ 
+
+{% endhint %}
 | --- | --- |
 | b. | Choose a new picture that displays as a header in the message. |
 | c. | Choose the language of the notification template. |
@@ -35,11 +44,13 @@ We recommend to **Add a new template**, and define it as a default template.
 Insert **Tags**to add specific information about the session.
  
 
-| ![](../../../.gitbook/assets/tip.png) | Move the mouse over the tag for more information about what it displays. |
-| --- | --- |
-
+{% hint style="info" %}
  
 
+Move the mouse over the tag for more information about what it displays.
+ 
+
+{% endhint %}
 -  **Ticket ref.**: ticket reference given by the company when the ticket is created.  -  **Ticket ID**: ID or ticket number.  -  **Ticket title**: title given by the requester when he fills the assistance request form or the title given by the agent when the ticket is created.  -  **Ticket description**: description given by the requester when he fills the assistance request form or the title given by the agent when the ticket is created.  -  **Ticket priority**: the priority given by the company supervisor.  -  **Requester details**: information given by the requester in the assistance request form.  -  **Current date**: date of the current day.  -  **Current time**: hour at the time of the action.   |
 | e. | This logo is customizable under the name of **Rectangular logo**:
  
@@ -49,5 +60,12 @@ Insert **Tags**to add specific information about the session.
 
   
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Customize the interface](../customize-interface.md) |
-| --- | --- | |
+{% hint style="info" %}
+
+  
+
+*See also** [Customize the interface](../customize-interface.md)
+
+  
+
+{% endhint %}

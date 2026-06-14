@@ -5,8 +5,11 @@
  
 ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png)
 
-    | ![](../../.gitbook/assets/ok.png) | The ticket page displays. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The ticket page displays.
+
+    {% endhint %}
 3. Go to the **Assignment** menu, in **Attach report**. 
 
     | ![](../../.gitbook/assets/tip.png) | If your company configured a report template, this message displays: **You can download a report template**
@@ -25,5 +28,8 @@
 The report is attached and display at the bottom of the **Ticket request** menu.
 {% endhint %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Configure a report template](https://doc.apizee.com/smart/project-diag-help-desk/configure-a-report-template) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Configure a report template](https://doc.apizee.com/smart/project-diag-help-desk/configure-a-report-template)
+
+{% endhint %}

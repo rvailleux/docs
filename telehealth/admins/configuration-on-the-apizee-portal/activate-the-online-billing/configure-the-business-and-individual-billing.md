@@ -10,7 +10,9 @@ If a practitioner works for both a structure and his/her own account, you can ac
 2. Configure the [business billing](configure-the-business-billing.md).
 3. Tell the practitioner to configure the [individual billing](configure-the-individual-billing.md) on his/her user account. 
 
-    | ![](../../../.gitbook/assets/ok.png) | The practitioner will be able to choose the recipient account during the online billing. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The practitioner will be able to choose the recipient account during the online billing.
+
+    {% endhint %}
  ![](../../../.gitbook/assets/EN-teleconsultation-bill-patient-choose-receiving-account.png)

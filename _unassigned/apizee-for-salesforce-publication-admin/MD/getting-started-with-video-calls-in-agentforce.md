@@ -1,8 +1,10 @@
 ﻿# How it works
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | Make sure that Agentforce is configured in your Salesforce environment by following the guidance on how to install our Apizee extension. |
-| --- | --- |
+{% hint style="info" %}
 
+Make sure that Agentforce is configured in your Salesforce environment by following the guidance on how to install our Apizee extension.
+
+{% endhint %}
 During a discussion between a customer and the Agentforce chatbot, there are several ways to escalate to a video call with an advisor:
 
 1. The client requests it.
@@ -20,5 +22,8 @@ With this information, Agentforce will:
 2. Create a new case.
 3. Flag this case to ensure that the advisor will use a video call to contact the customer.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | *Once the case is created, you are ready to launch a video call with the customer.* |
-| --- | --- |
+{% hint style="success" %}
+
+Once the case is created, you are ready to launch a video call with the customer.
+
+{% endhint %}

@@ -2,8 +2,11 @@
 
 ##  
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | You need to have completed the installation on a [sandbox](install-deploy-on-a-sandbox-environment.md)or on a [production](install-deploy-on-your-production-environment.md) environment before configuring your environment. |
-| :--- | :--- |
+{% hint style="info" %}
+
+You need to have completed the installation on a [sandbox](install-deploy-on-a-sandbox-environment.md)or on a [production](install-deploy-on-your-production-environment.md) environment before configuring your environment.
+
+{% endhint %}
 
 In this guide, you will:
 * [Assign permission sets to end users](configure-your-salesforce-environment.md#h2_2046225501)
@@ -36,14 +39,19 @@ Description automatically generated](../Storage/apizee-for-salesforce-publicatio
 8. Click **Next.**
 9. Click **Assign.**
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The permission sets are now assigneed to the users |
-| :--- | :--- |
+{% hint style="success" %}
+
+The permission sets are now assigneed to the users
+
+{% endhint %}
 
 ## Enable video call statistics
 
-| ![Information](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/info.png) | For some reason, the Apizee User permission set can't be installed with read/write access to Tasks&gt;Type field.<br><br>Follow the steps below to fix this anomaly. |
-| --- | --- |
+{% hint style="info" %}
 
+For some reason, the Apizee User permission set can't be installed with read/write access to Tasks&gt;Type field.<br><br>Follow the steps below to fix this anomaly.
+
+{% endhint %}
 1. Open Salesforce and go to the **Permission Sets** section.
 2. Select the **Apizee User** permission set.
 3. Check if the **Task object** has read and write access to the **Type field**.
@@ -55,9 +63,11 @@ Description automatically generated](../Storage/apizee-for-salesforce-publicatio
     5. Save the changes.
 5. Assign the new permission set to the applicable users.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | *The users have access to the Type field in the Task object.* |
-| --- | --- |
+{% hint style="success" %}
 
+The users have access to the Type field in the Task object.
+
+{% endhint %}
 ## Enable Trusted URL 
 
 1. Open the **Setup** console.
@@ -91,8 +101,11 @@ Description automatically generated](../Storage/apizee-for-salesforce-publicatio
  ![Une image contenant texte, Police, nombre, capture d’écran  Description générée automatiquement](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0028.png)
 10. Click **Save**
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The URLs are now declared as Trusted URLs |
-| :--- | :--- |
+{% hint style="success" %}
+
+The URLs are now declared as Trusted URLs
+
+{% endhint %}
 
 ## 
 
@@ -124,8 +137,11 @@ In the following example, the **webAgent** component is placed in the right colu
 7. *(op* *tional) If an error is displayed in the properties panel of the webAgent component, simply clear the **Object Name** field from any value and leave it blank.*
 8. Click **Save**.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Apizee component is now visible in the Contact or Case detail page. |
-| :--- | :--- |
+{% hint style="success" %}
+
+The Apizee component is now visible in the Contact or Case detail page.
+
+{% endhint %}
 
 Repeat the operation for both Case and Contact Layouts.
 
@@ -138,10 +154,16 @@ Repeat the operation for both Case and Contact Layouts.
  ![](../Storage/apizee-for-salesforce-publication-admin/configure-your-salesforce-environment/configure-your-salesforce-environment-2025-11-14.png)
 5. Fill in the **Identification Key** field with your tenant's identification key.
 
-| ![Information](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/info.png) | Apizee Identification Key is provided by Apizee representatives or can be found on the [Apizee Embed portal](https://portal.apizee.com/). |
-| :--- | :--- |
+{% hint style="info" %}
+
+Apizee Identification Key is provided by Apizee representatives or can be found on the [Apizee Embed portal](https://portal.apizee.com/).
+
+{% endhint %}
 
 The default information for the fields **Log Level** and **Advanced Option** can be kept unless instructed otherwise.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The Apizee service is now configured to work in your Salesforce environement. |
-| :--- | :--- |
+{% hint style="success" %}
+
+The Apizee service is now configured to work in your Salesforce environement.
+
+{% endhint %}

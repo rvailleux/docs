@@ -2,8 +2,11 @@
 2. Click **My account**.
 ![](../../../.gitbook/assets/EN-portal-user-thombnail-profile.png)
 
-    | ![](../../../.gitbook/assets/ok.png) | The **User account** displays on the **Personal information** tab. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The **User account** displays on the **Personal information** tab.
+
+    {% endhint %}
 3. Change your information: **email**, **names**, **title** (your role in the company) and the **phone numbers**.
 4. Click **Save**.
 

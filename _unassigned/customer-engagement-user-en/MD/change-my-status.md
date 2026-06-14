@@ -7,8 +7,13 @@
  
  ![](../Storage/customer-engagement-user-en/project-content-reuse/EN-portal-change-status.gif)
 
-| ![Information](../Storage/customer-engagement-user-en/project-content-reuse/info.png) | The directory and the communication features are deactivated when the status is **Unavailable**. |
-| --- | --- |
+{% hint style="info" %}
 
-| ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The page reloads with the new selected status. |
-| --- | --- |
+The directory and the communication features are deactivated when the status is **Unavailable**.
+
+{% endhint %}
+{% hint style="success" %}
+
+The page reloads with the new selected status.
+
+{% endhint %}

@@ -12,8 +12,11 @@
  
  ![](../../../.gitbook/assets/EN-Diag-portal-create-new-session-common-invitation-enter-ticket-information.png) 
 
-    | ![Information](../../../.gitbook/assets/info.png) | The ticket is automatically assigned to the agent that creates it (When a supervisor creates a ticket, the supervisor has to choose who will be in charge of the ticket). |
-    | --- | --- |
+    {% hint style="info" %}
+
+    The ticket is automatically assigned to the agent that creates it (When a supervisor creates a ticket, the supervisor has to choose who will be in charge of the ticket).
+
+    {% endhint %}
 8. If you entered the guest email address and the phone number, choose whether you want to send the invitation by **email** and/or by **SMS**.
 9. Choose an invitation **template**. 
 If you did not create a template, choose **Template by default (Apizee)**.

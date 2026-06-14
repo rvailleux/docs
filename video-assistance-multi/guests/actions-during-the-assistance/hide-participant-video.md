@@ -9,6 +9,9 @@ Someone's video is bothering you and you want to hide it, but just for you.
 
 ![](../../.gitbook/assets/EN-conf-dots-participant-option-turn-off-video-guest-view.png)
 
-    | ![](../../.gitbook/assets/ok.png) | You do not see anymore the participant. But the other participants still see that person. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    You do not see anymore the participant. But the other participants still see that person.
+
+    {% endhint %}
 3. Click the button again to activate the participant video.

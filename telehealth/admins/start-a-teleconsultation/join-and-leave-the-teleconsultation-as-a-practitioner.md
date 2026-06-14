@@ -25,9 +25,11 @@ You will be able to turn off the microphone and the camera during the session.
 
  ![](../../.gitbook/assets/apizee-background.png)**Want to change your background?**   
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md) |
-| --- | --- |
+{% hint style="info" %}
 
+*See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md)
+
+{% endhint %}
 {% hint style="success" %}
 Wait for the guest to connect to the session.
 {% endhint %}

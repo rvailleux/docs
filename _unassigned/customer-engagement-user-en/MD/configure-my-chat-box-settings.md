@@ -14,7 +14,9 @@
  
  ![](../Storage/customer-engagement-user-en/EN-Diag-portal-agent-setting-desktop-notifications.png)
 
-| ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The settings are saved. |
-| --- | --- |
+{% hint style="success" %}
 
+The settings are saved.
+
+{% endhint %}
 * * *

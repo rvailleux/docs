@@ -3,8 +3,11 @@
   
  ![](../../../.gitbook/assets/EN-portal-user-thombnail-profile.png)
 
-    | ![](../../../.gitbook/assets/ok.png) | The **User account** displays on the **Personal information tab**. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The **User account** displays on the **Personal information tab**.
+
+    {% endhint %}
 3. Click **Change my password**. 
  
  ![](../../../.gitbook/assets/EN-portal-user-account-change-password.png) 

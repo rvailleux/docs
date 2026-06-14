@@ -14,12 +14,20 @@ You are an organizer and you want to record the ongoing session.
  ![](../../.gitbook/assets/EN-conf-menu-action-organizer-choose-video-record.png)
 5. Choose the videos and click **Start record**. 
 
-    | ![](../../.gitbook/assets/tip.png) | The audio of all the participants will be recorded by default. |
-    | --- | --- |
+    {% hint style="info" %}
+
+    The audio of all the participants will be recorded by default.
+
+    {% endhint %}
 6. Click **Stop recording** when you are done. 
 
-    | ![](../../.gitbook/assets/ok.png) | The recording is available on your Apizee account. |
-    | --- | --- |
+    {% hint style="success" %}
 
- | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Download the files - After the session in the portal](share-and-download-files/download-the-files-shared-during-the-conference.md) |
-| --- | --- |
+    The recording is available on your Apizee account.
+
+    {% endhint %}
+ {% hint style="info" %}
+
+ *See also** [Download the files - After the session in the portal](share-and-download-files/download-the-files-shared-during-the-conference.md)
+
+ {% endhint %}

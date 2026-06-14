@@ -2,9 +2,11 @@
 
 ![](../../.gitbook/assets/EN-portal-menu-directory-tab.png)
 
-    | ![](../../.gitbook/assets/ok.png) | The contacts display. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The contacts display.
+
+    {% endhint %}
 ![](../../.gitbook/assets/EN-portal-menu-directory-user-status.png)
 
     | a. | Available |

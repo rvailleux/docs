@@ -6,21 +6,35 @@ You are an agent and you want to record the ongoing session.
  
  ![](../../.gitbook/assets/Diag-portal-agent-record-session.png) 
 
-    | ![](../../.gitbook/assets/tip.png) | The session reloads and starts again automatically. |
-    | --- | --- |
+    {% hint style="info" %}
 
-    | ![](../../.gitbook/assets/ok.png) | The recording starts and the participant is notified. |
-    | --- | --- |
+    The session reloads and starts again automatically.
+
+    {% endhint %}
+    {% hint style="success" %}
+
+    The recording starts and the participant is notified.
+
+    {% endhint %}
 2. Click the **red dot** again to stop recording. 
 
-    | ![](../../.gitbook/assets/ok.png) | The recording is available on your Apizee account, in the ticket page, under [Shared files](share-and-download-files/download-files-shared-during-assistance-session.md). |
-    | --- | --- |
+    {% hint style="success" %}
 
-    | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Share a file with the requester](share-and-download-files/share-a-file-with-a-requester.md) |
-    | --- | --- |
+    The recording is available on your Apizee account, in the ticket page, under [Shared files](share-and-download-files/download-files-shared-during-assistance-session.md).
 
-    | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Download the files shared during the session](share-and-download-files/download-files-shared-during-assistance-session.md) |
-    | --- | --- |
+    {% endhint %}
+    {% hint style="info" %}
 
-    | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**[Attach a report to the ticket](../follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)****attach-a-report-to-the-ticket.md |
-    | --- | --- |
+    *See also** [Share a file with the requester](share-and-download-files/share-a-file-with-a-requester.md)
+
+    {% endhint %}
+    {% hint style="info" %}
+
+    *See also** [Download the files shared during the session](share-and-download-files/download-files-shared-during-assistance-session.md)
+
+    {% endhint %}
+    {% hint style="info" %}
+
+    *See also**[Attach a report to the ticket](../follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)****attach-a-report-to-the-ticket.md
+
+    {% endhint %}

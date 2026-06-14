@@ -18,5 +18,8 @@ Still having an issue?
 Please, contact the [Support Team](https://apizee.atlassian.net/servicedesk/customer/portals). |
 {% endhint %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Activate the online billing](../telehealth/practitioners/configuration-on-the-apizee-portal/activate-the-online-billing/README.md). |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Activate the online billing](../telehealth/practitioners/configuration-on-the-apizee-portal/activate-the-online-billing/README.md).
+
+{% endhint %}

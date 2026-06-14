@@ -24,9 +24,11 @@ Now, the guests of each session will receivea message when the session ends.
 
 Of course, this automatic message is completely customizable from the **Notification templates** tab. You can choose whether you want to add more information or change the style.
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**  [Customize the notification templates](customize-the-notification-templates.md) |
-| --- | --- |
+{% hint style="info" %}
 
+*See also**  [Customize the notification templates](customize-the-notification-templates.md)
+
+{% endhint %}
 #  
  
 ## 
@@ -47,8 +49,13 @@ This is really helpful for the participants as they can download the files here 
 Tick the box **Access to the end of session page with a security code**.
  
 
-    | ![](../../../.gitbook/assets/ok.png) | The participant will receive a message with the code and will be asked to enter it before accessing the end of session page. |
-    | --- | --- | |
+    {% hint style="success" %}
+ 
+
+    The participant will receive a message with the code and will be asked to enter it before accessing the end of session page.
+ 
+
+    {% endhint %}
     | --- | --- |
 5. Click **Save**.
 
@@ -76,8 +83,13 @@ After **Confirming**, the participant accesses the end of session page.
 Tick the box **Access to the download page with a security code**.
  
 
-    | ![](../../../.gitbook/assets/ok.png) | The participant will receive a message with the code and will be asked to enter it before accessing the download page. |
-    | --- | --- | |
+    {% hint style="success" %}
+ 
+
+    The participant will receive a message with the code and will be asked to enter it before accessing the download page.
+ 
+
+    {% endhint %}
     | --- | --- |
 4. Click **Save**. 
  
@@ -87,5 +99,8 @@ Tick the box **Access to the download page with a security code**.
 From the conference page on the portal, the organizer will be able to send a download link to the participants.
 {% endhint %}
 
- | ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Share a file - after the session in the portal](../../actions-during-the-conference/share-and-download-files/share-a-file.md) |
-| --- | --- |
+ {% hint style="info" %}
+
+ *See also** [Share a file - after the session in the portal](../../actions-during-the-conference/share-and-download-files/share-a-file.md)
+
+ {% endhint %}

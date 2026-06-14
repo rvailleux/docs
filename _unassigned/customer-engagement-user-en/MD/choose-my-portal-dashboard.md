@@ -8,5 +8,8 @@
  
  ![](../Storage/customer-engagement-user-en/project-content-reuse/EN-portal-change-homepage.gif)
 
-| ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The dashboard is updated. |
-| --- | --- |
+{% hint style="success" %}
+
+The dashboard is updated.
+
+{% endhint %}

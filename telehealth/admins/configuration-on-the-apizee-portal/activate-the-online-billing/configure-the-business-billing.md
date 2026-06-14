@@ -16,9 +16,11 @@ Stripe is a securized payment platform.
  
  ![](../../../.gitbook/assets/EN-portal-activate-online-billing-transfer-business-account-create-stripe-profile-button.png) 
 
-    | ![](../../../.gitbook/assets/ok.png) | You are being directed to **Stripe** Website. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    You are being directed to **Stripe** Website.
+
+    {% endhint %}
 ##  Business details
 
 * * *
@@ -39,9 +41,11 @@ Stripe is a securized payment platform.
  
  ![](../../../.gitbook/assets/EN-stripe-activate-online-billing-business-representative.png) 
 
-    | ![](../../../.gitbook/assets/ok.png) | The information is being verified. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The information is being verified.
+
+    {% endhint %}
  ![](../../../.gitbook/assets/EN-stripe-activate-individual-online-billing-pending-verification.png)
 
 Stripe can randomly ask for more information to verify the identity of the business representative.

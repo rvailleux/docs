@@ -11,7 +11,9 @@
 
 ![](../Storage/customer-engagement-user-en/EN-portal-transfer-message-click-transfer.png)
 
-| ![](../Storage/customer-engagement-user-en/project-content-reuse/ok.png) | The coworker receives a notification and accepts the transfer.<br><br>This message displays once the transfer is accepted: **Another agent is viewing this chat**. |
-| --- | --- |
+{% hint style="success" %}
 
+The coworker receives a notification and accepts the transfer.<br><br>This message displays once the transfer is accepted: **Another agent is viewing this chat**.
+
+{% endhint %}
 ![](../Storage/customer-engagement-user-en/EN-portail-transfer-message-result.png)

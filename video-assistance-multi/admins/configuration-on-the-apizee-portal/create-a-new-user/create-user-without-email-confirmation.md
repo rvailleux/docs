@@ -9,5 +9,8 @@
 The account is created.
 {% endhint %}
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Log in to the Apizee portal for the first time - login and password](../../log-in-to-the-apizee-portal-for-the-first-time.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Log in to the Apizee portal for the first time - login and password](../../log-in-to-the-apizee-portal-for-the-first-time.md)
+
+{% endhint %}

@@ -20,5 +20,8 @@ You can add up to 8 questions.
 The survey is activated.
 {% endhint %}
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Respond to the satisfaction survey](../../actions-during-the-teleconsultation/respond-to-the-satisfaction-survey.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Respond to the satisfaction survey](../../actions-during-the-teleconsultation/respond-to-the-satisfaction-survey.md)
+
+{% endhint %}

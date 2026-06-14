@@ -11,9 +11,11 @@ The statistics menu gives you an overview on the key figures about:
 * All the **surveys** responses
 * The **agents** performance to answer to the requests
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** |
-| --- | --- |
+{% hint style="info" %}
 
+*See also*
+
+{% endhint %}
 * [Statistics - Sessions](statistics-sessions.md)
 * [Statistics - Survey](statistics-survey.md)
 * [Statistics - Assistance](statistics-assistance.md)

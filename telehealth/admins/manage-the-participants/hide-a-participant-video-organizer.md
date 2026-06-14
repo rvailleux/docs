@@ -11,6 +11,9 @@ You are the organizer of the session and you want to turn off the video of parti
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-turn-off-participant-video.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The participant video is cut just for the organizer. The other participants still see that person. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The participant video is cut just for the organizer. The other participants still see that person.
+
+    {% endhint %}
 5. Click the button again to activate the participant video.

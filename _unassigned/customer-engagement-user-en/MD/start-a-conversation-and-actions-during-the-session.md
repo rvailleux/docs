@@ -1,8 +1,10 @@
 ﻿![](../Storage/customer-engagement-user-en/Apizee-chatbox-conversation.png)
 
-| ![](../Storage/customer-engagement-user-en/project-content-reuse/prerequis.png) | You are an agent and you are logged in to your account. |
-| --- | --- |
+{% hint style="info" %}
 
+You are an agent and you are logged in to your account.
+
+{% endhint %}
 Read the articles below to discover the features that you can use in the chat box.
 
 * [Start a video or audio call](start-a-video-or-audio-call.md)

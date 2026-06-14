@@ -4,8 +4,11 @@ You are an administrator.
 
 1. In the left-hand menu, click the assistance service type for which you want to configure the options. 
 
-    | ![](../../../.gitbook/assets/tip.png) | The assistance services have this pictogram before their name: ![](../../../.gitbook/assets/ticket-picto.png) |
-    | --- | --- |
+    {% hint style="info" %}
+
+    The assistance services have this pictogram before their name: ![](../../../.gitbook/assets/ticket-picto.png)
+
+    {% endhint %}
 2. Click the **Configuration** tab. 
  
  ![](../../../.gitbook/assets/EN-portal-service-configuration-tab.png)
@@ -36,8 +39,15 @@ The test is visible for the agent only. |
 
  
 
-| ![](../../../.gitbook/assets/warning.png) | This option is not available if [Quickly join the session](customize-the-tickets.md#quickly-join-session) is activated. |
-| --- | --- | |
+{% hint style="warning" %}
+
+ 
+
+This option is not available if [Quickly join the session](customize-the-tickets.md#quickly-join-session) is activated.
+
+ 
+
+{% endhint %}
 | Join without microphone | Enter the assistance session without audio (micro muted for the agent and the requester). |
 | Agent joins without camera | The agent will join the session without camera. It is possible to activate it during the session. |
 | Quickly join the session | Usually, when the requester clicks on the link in the assistance invitation message, a window opens with: -   The legal terms to accept then,  -  a new window displays with a button&#160;**Call an agent**.  -  Once the button is clicked, the call starts.   
@@ -51,8 +61,13 @@ The picture that was taken displays in the messages.
 The picture taken with the mobile camera has a better quality than a remote snapshot that could have been taken by the agent.
  
 
-| ![](../../../.gitbook/assets/warning.png) | This feature is available on mobile phone and tablet only. |
-| --- | --- | |
+{% hint style="warning" %}
+ 
+
+This feature is available on mobile phone and tablet only.
+ 
+
+{% endhint %}
 | Change status to **Expired** | If the requester does not click on the link in the assistance invitation message, then the ticket is **Expired**.
  
 The agent still can invite the requester again if the expiration time is over 0. |

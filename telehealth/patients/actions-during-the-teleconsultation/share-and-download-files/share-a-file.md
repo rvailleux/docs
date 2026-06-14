@@ -7,15 +7,19 @@
 1. On the right, clique the **Messages**tab ![](../../../.gitbook/assets/message-button.png)
 2. At the bottom, next to the message field, click the **paper clip** button ![](../../../.gitbook/assets/paper-clip-button.png)
 
-    | ![](../../../.gitbook/assets/ok.png) | The file explorer opens on your screen. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The file explorer opens on your screen.
+
+    {% endhint %}
 ![](../../../.gitbook/assets/EN-conf-messages-tab-share-file-button.png)
 3. Choose a file and click **Open**. 
 
-    | ![](../../../.gitbook/assets/ok.png) | When the file is uploaded, it displays in the **Messages**. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    When the file is uploaded, it displays in the **Messages**.
+
+    {% endhint %}
  ![](../../../.gitbook/assets/EN-conf-guest-messages-tab-file-shared.png)
 
 {% hint style="success" %}

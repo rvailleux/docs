@@ -8,12 +8,16 @@
 2. In Apizee widget, fill in the contact's mobile phone number.
 3. Click **Invite**.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The invitation is sent by text message. The guest receives a link to join the video assistance. |
-| --- | --- |
+{% hint style="success" %}
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled. |
-| --- | --- |
+The invitation is sent by text message. The guest receives a link to join the video assistance.
 
+{% endhint %}
+{% hint style="info" %}
+
+If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled.
+
+{% endhint %}
 ## From Cases tab
 
 1. In the list click the Case number.
@@ -22,8 +26,13 @@
 2. In Apizee widget, fill in the contact's mobile phone number.
 3. Click **Invite**.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The invitation is sent by text message. The guest receives a link to join the video assistance. |
-| --- | --- |
+{% hint style="success" %}
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled. |
-| --- | --- |
+The invitation is sent by text message. The guest receives a link to join the video assistance.
+
+{% endhint %}
+{% hint style="info" %}
+
+If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled.
+
+{% endhint %}

@@ -4,8 +4,11 @@
 4. Select an HTTP method.
 5. Enter the destination URL. 
 
-    | ![](../../../.gitbook/assets/ok.png) | The URL must start with **https://**. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The URL must start with **https://**.
+
+    {% endhint %}
 6. Under **Trigger events**, select at least one event.
 7. Optional: add one or more headers as name/value pairs.
 8. Click **Create**.

@@ -16,11 +16,16 @@ You want to help the participant to turn on the flashlight on the back of his ph
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-turn-on-light.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | An invitation is sent to the participant and displays on his screen as follow: |
-    | --- | --- |
+    {% hint style="success" %}
 
+    An invitation is sent to the participant and displays on his screen as follow:
+
+    {% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-mobile-turn-on-light.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | When accepted, the flashlight of his mobile phone is on. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    When accepted, the flashlight of his mobile phone is on.
+
+    {% endhint %}

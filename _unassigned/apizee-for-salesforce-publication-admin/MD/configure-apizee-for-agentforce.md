@@ -2,8 +2,11 @@
 
 ## 
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | You need to have completed the installation on a [production](install-deploy-on-your-production-environment.md) environment before configuring your environment. |
-| :--- | :--- |
+{% hint style="info" %}
+
+You need to have completed the installation on a [production](install-deploy-on-your-production-environment.md) environment before configuring your environment.
+
+{% endhint %}
 
 ## 
 
@@ -13,9 +16,11 @@ This article describes the installation and configuration of the Apizee Agentfor
  
 ## Prerequisites
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | <ul> <li>You have System Administrator access to Salesforce. </li> <li>Messaging is on in <b>Setup &gt; Messaging Settings</b>. </li> <li>Einstein is on in <b>Setup &gt; Einstein Setup</b>. </li> <li>Agentforce is on in <b>Setup &gt; Agent Studio &gt; Agents</b>. </li> </ul> |
-| --- | --- |
+{% hint style="info" %}
 
+<ul> <li>You have System Administrator access to Salesforce. </li> <li>Messaging is on in <b>Setup &gt; Messaging Settings</b>. </li> <li>Einstein is on in <b>Setup &gt; Einstein Setup</b>. </li> <li>Agentforce is on in <b>Setup &gt; Agent Studio &gt; Agents</b>. </li> </ul>
+
+{% endhint %}
 The package installs Salesforce flows. These flows are available as Agentforce actions. You can use them in an existing agent or in a new agent.
  
 ## Configure a New Agent
@@ -113,5 +118,8 @@ Example:
 3. Start a conversation with the agent.
 4. Confirm that the agent can answer questions and escalate to a human agent.
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | *The Agentforce agent is configured and available.*<br> <br>The AI agent can answer customer questions and escalate the conversation to a human agent when necessary. |
-| --- | --- |
+{% hint style="success" %}
+
+The Agentforce agent is configured and available.*<br> <br>The AI agent can answer customer questions and escalate the conversation to a human agent when necessary.
+
+{% endhint %}

@@ -12,8 +12,11 @@ You received a text message or an email with a link to join the session.
  
  ![](../.gitbook/assets/EN-conf-join-session-free-access.png) 
 
-    | ![Information](../.gitbook/assets/info.png) | If you have an Apizee account, click **Log in**. |
-    | --- | --- |
+    {% hint style="info" %}
+
+    If you have an Apizee account, click **Log in**.
+
+    {% endhint %}
 2. Tick the boxes to agree to the terms then, click **Confirm**. 
  
  ![](../.gitbook/assets/EN-conf-join-session-consent-optin-confirm.png)
@@ -28,9 +31,11 @@ You received a text message or an email with a link to join the session.
 
  ![](../.gitbook/assets/apizee-background.png)**Want to change your background?**   
 
-| ![](../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Change the virtual background](../video-assistance-multi/agents/configure-my-assistance-settings/change-the-virtual-background.md) |
-| --- | --- |
- 
+{% hint style="info" %}
+
+*See also** [Change the virtual background](../video-assistance-multi/agents/configure-my-assistance-settings/change-the-virtual-background.md)
+
+{% endhint %}
  [+] [Show More](javascript:void%280%29)
  [-] [Hide](javascript:void%280%29)
  | ![Information](../.gitbook/assets/info.png) | If you want to join the conference with a phone or by QR code, click **More**.  

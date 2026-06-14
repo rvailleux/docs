@@ -14,9 +14,11 @@ Each time you start a video call from a Case or an Incident details page, an "Ap
 2. Click on the "Apizee Sessions" in the upper tabs menu.
     ![](.gitbook/assets/Click-on-tab-menu_.png)
 
-    | ![Information](.gitbook/assets/info.png) | The "Apizee Sessions" can be hidden by default. Click on the arrow located at the end of the upper tabs menu to make it appear. |
-    | --- | --- |
+    {% hint style="info" %}
 
+    The "Apizee Sessions" can be hidden by default. Click on the arrow located at the end of the upper tabs menu to make it appear.
+
+    {% endhint %}
 ![](.gitbook/assets/Logs-1.png)
 
 {% hint style="success" %}

@@ -11,8 +11,11 @@ This option may depend on your Web browser.
 6. Click **Request screen sharing** if you want your interlocutor to share his screen. 
 A sharing request is sent to the participant. The participant screen displays when the request is accepted. 
 
-    | ![](../../.gitbook/assets/tip.png) | This option is available on computers only. |
-    | --- | --- |
+    {% hint style="info" %}
+
+    This option is available on computers only.
+
+    {% endhint %}
 7. To stop the screen sharing, click the **Screen sharing** button again.
 
 * * *

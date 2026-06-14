@@ -9,5 +9,8 @@ The account is created.
 An email is sent to the new user with a validation link and a login.
 {% endhint %}
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Log in to Apizee portal for the first time - validation link and login](../../log-in-to-the-apizee-portal-for-the-first-time.md#A%20validation%20link%20and%20a%20login) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Log in to Apizee portal for the first time - validation link and login](../../log-in-to-the-apizee-portal-for-the-first-time.md#A%20validation%20link%20and%20a%20login)
+
+{% endhint %}

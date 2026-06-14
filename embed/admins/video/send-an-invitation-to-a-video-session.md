@@ -8,8 +8,11 @@ If the phone number is correct, click **Invite and start** to start the video se
 1. To add another guest, enter a phone number or an email address in the invitation field.
 2. Click **Add**. 
 
-    | ![](../../.gitbook/assets/warning.png) | You can invite only the maximum permitted number of participants to the video session. |
-    | --- | --- |
+    {% hint style="warning" %}
+
+    You can invite only the maximum permitted number of participants to the video session.
+
+    {% endhint %}
 3. When all contact details are entered, click **Invite and start**.
 
 {% hint style="success" %}

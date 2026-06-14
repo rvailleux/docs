@@ -27,5 +27,8 @@ The consent configuration is saved and displays on the user interface.
 
 ![](../../../.gitbook/assets/EN-consent-configuration-result.png)
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Receive an assistance invitation & call an agent](../../start-a-video-assistance/receive-an-assistance-invitation-and-call-an-agent.md) |
-| --- | --- |
+{% hint style="info" %}
+
+*See also** [Receive an assistance invitation & call an agent](../../start-a-video-assistance/receive-an-assistance-invitation-and-call-an-agent.md)
+
+{% endhint %}

@@ -12,6 +12,9 @@ You are the organizer of the session and you want to turn off everyone's camera.
  
  ![](../../.gitbook/assets/EN-conf-menu-action-organizer-all-camera-off.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | The camera of all the participants are turned off. The organizer is the only one that can be seen. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    The camera of all the participants are turned off. The organizer is the only one that can be seen.
+
+    {% endhint %}
 4. Click the button again to activate the all the cameras.

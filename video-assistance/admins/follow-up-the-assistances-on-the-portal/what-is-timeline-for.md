@@ -10,9 +10,11 @@ You are an agent and you need to:
 
 ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png)
 
-    | ![](../../.gitbook/assets/ok.png) | The assistance page dipslays. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The assistance page dipslays.
+
+    {% endhint %}
 ![](../../.gitbook/assets/EN-portal-assistance-page-timeline-location.png)
 3. On the right hand side, under **Timeline**, check the different events.
 
@@ -24,22 +26,22 @@ You are an agent and you need to:
 | ![](../../.gitbook/assets/Icon=Clock.png) | Invitation link not clicked | The guest did not click the link in the assistance invitation.
 
 ![](../../.gitbook/assets/EN-diag-guest-invitation-not-clicked.png) | 27 |
-| ![](../../.gitbook/assets/Icon=Calendar-off.png) | Invitation declined | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only. |
-| --- | --- |
-
+{% hint style="info" %}
+Invitation declined | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only.
+{% endhint %}
 The guest clicked the **More information** link in the invitation, then, **declined** the invitation. 
 The agent can still invite the guest again on another date and time that suits best.
 
 ![](../../.gitbook/assets/EN-diag-guest-decline-invitation.png) | 5 |
-| ![](../../.gitbook/assets/Icon=Calendar.png) | Invitation accepted | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only. |
-| --- | --- |
-
+{% hint style="info" %}
+Invitation accepted | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only.
+{% endhint %}
 The guest **accepted** the invitation to the assistance.
 
 ![](../../.gitbook/assets/EN-diag-guest-accept-invitation.png) | 6 |
-| ![](../../.gitbook/assets/Icon-Ticket.png) | Priority of the session changed into "scheduled" | | ![Information](../../.gitbook/assets/info.png) | [Scheduling](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#schedule-feature-description) option has to be activated. |
-| --- | --- |
-
+{% hint style="info" %}
+Priority of the session changed into "scheduled" | | ![Information](../../.gitbook/assets/info.png) | [Scheduling](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#schedule-feature-description) option has to be activated.
+{% endhint %}
 The video assistance was immediate and has been changed to be scheduled on another moment. | 18 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | Appointment canceled | The agent [canceled the video assistance appointment](cancel-a-session.md).
 
@@ -109,11 +111,14 @@ In this case the guest **blocked** it. | 25 |
 ![](../../.gitbook/assets/EN-Diag-Requester-end-session-page-close-button-clicked.png) | 11 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | System changed the session status into "completed" | The status of the session automatically changed into "completed" because the **[End transfer notification delay (min)](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#end-transfer-notification-delay)** trigger is exceeded.
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**[Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md) |
-| --- | --- |
+{% hint style="info" %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**[What status for my ticket?](video-assistance-ticket-status.md) |
-| --- | --- | | 11 |
+*See also**[Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
+
+{% endhint %}
+{% hint style="info" %}
+*See also**[What status for my ticket?](video-assistance-ticket-status.md)
+{% endhint %}
 | ![](../../.gitbook/assets/image-20231011-143535.png) | Guest responded to the survey | After the session, the guest [responded to the satisfaction survey](../respond-to-the-satisfaction-survey.md) and clicked **Send**.
 
 ![](../../.gitbook/assets/EN-Diag-requester-survey.png) | 40 |
@@ -122,11 +127,14 @@ In this case the guest **blocked** it. | 25 |
 ![](../../.gitbook/assets/EN-portal-assistance-page-close-session-button.png) | 8 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | The system changed the session status into “closed” | The status of the session automatically changed into "closed" because the **[Max expiration time (min)](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#max-expiration-time)** trigger is exceeded.
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md) |
-| --- | --- |
+{% hint style="info" %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](video-assistance-ticket-status.md) |
-| --- | --- | | 8 |
+*See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
+
+{% endhint %}
+{% hint style="info" %}
+*See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](video-assistance-ticket-status.md)
+{% endhint %}
 
 {% hint style="info" %}
 \* **Event ID** is only for users who use the APIs.

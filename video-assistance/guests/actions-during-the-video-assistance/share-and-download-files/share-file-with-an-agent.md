@@ -28,16 +28,21 @@ The agent receives the documents.
 
 ![](../../../.gitbook/assets/Diag-requester-mobile-take-picture-with-mobile-camera.png)
 
-    | ![](../../../.gitbook/assets/ok.png) | Your mobile phone camera opens. |
-    | --- | --- |
+    {% hint style="success" %}
+
+    Your mobile phone camera opens.
+
+    {% endhint %}
 2. Take a picture then, click **OK**.
 3. Allow to share your geolocation.
 
 ![](../../../.gitbook/assets/EN-Diag-guest-allow-geolocation.png)
 
-    | ![](../../../.gitbook/assets/ok.png) | The file charges and displays in the **Messages** tab. |
-    | --- | --- |
+    {% hint style="success" %}
 
+    The file charges and displays in the **Messages** tab.
+
+    {% endhint %}
 ![](../../../.gitbook/assets/Diag-requester-mobile-take-picture-displays-messages-tab.png)
 
 ## After a call
@@ -47,12 +52,16 @@ The agent receives the documents.
 ![](../../../.gitbook/assets/EN-Diag-guest-share-file-after-session-click-share-media.png)
 2. Choose your document and click **Open**.
 
-    | ![](../../../.gitbook/assets/ok.png) | The document charges. |
-    | --- | --- |
+    {% hint style="success" %}
 
-    | ![](../../../.gitbook/assets/ok.png) | The document displays in the messages. |
-    | --- | --- |
+    The document charges.
 
+    {% endhint %}
+    {% hint style="success" %}
+
+    The document displays in the messages.
+
+    {% endhint %}
 ![](../../../.gitbook/assets/EN-Diag-guest-share-file-after-session-result.png.png)
 
 {% hint style="info" %}
