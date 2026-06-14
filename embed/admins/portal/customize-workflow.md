@@ -49,4 +49,3 @@ Refresh the video tool to see the new workflow.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

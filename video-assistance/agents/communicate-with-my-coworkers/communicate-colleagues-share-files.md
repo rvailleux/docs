@@ -43,7 +43,7 @@ You are the organizer of the session from which the files are from. Or, you are 
     | --- | --- |
 3. Under **Shared files**, choose the files and click **Share**. 
  
- ![](../../.gitbook/assets/EN-Diag-portal-ticket-page-share-file-after session.png) 
+ ![](../../.gitbook/assets/EN-Diag-portal-ticket-page-share-file-after-session.png) 
 
     | ![](../../.gitbook/assets/ok.png) | A window opens. |
     | --- | --- |

@@ -1,6 +1,6 @@
 ﻿# Title 1
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | *Enter your prerequisite here .*<br><br>Pour rédiger cet article aidez-vous des articles suivants :<br><ul><li><a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/edit-v2/3212607494" target="_blank">ClickHelp : Comment l&#39;utiliser ?</a></li><li><a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation" target="_blank">Conseils de r&#233;daction pour la documentation</a></li></ul> |
+| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | *Enter your prerequisite here .*<br><br>Pour rédiger cet article aidez-vous des articles suivants :<br><ul><li><a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/edit-v2/3212607494" target="_blank">ClickHelp:Comment l&#39;utiliser ?</a></li><li><a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation" target="_blank">Conseils de r&#233;daction pour la documentation</a></li></ul> |
 | --- | --- |
 
 1. step
@@ -9,10 +9,10 @@
 
 Ajoutez des **Quick Parts** : **Insert &gt; QuickParts &gt; Insert**
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | *Insert step result here.*<br> <br>Ajoutez un résultat pour rassurer l'utilisateur. Qu'est-ce qui est censé se produire ou s'afficher à la in de la dernière étape ?<br>Exemple : L'invitation est envoyée. Vous êtes dirigé vers la page de la visio. |
+| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | *Insert step result here.*<br> <br>Ajoutez un résultat pour rassurer l'utilisateur. Qu'est-ce qui est censé se produire ou s'afficher à la in de la dernière étape ?<br>Exemple:L'invitation est envoyée. Vous êtes dirigé vers la page de la visio. |
 | --- | --- |
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | *Insert your tip here.*<br> <br>Insérer une astuce, une information complémentaire pour aider l'utilisateur à aller plus loin.<br>N'abusez pas du bloc **Tip**, cela doit rester exceptionnel et doit concerner uniquement les informations qu'on ne peux pas insérer dans une étape de la procédure. |
+| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | *Insert your tip here.*<br> <br>Insérer une astuce, une information complémentaire pour aider l'utilisateur à aller plus loin.<br>N'abusez pas du bloc **Tip**, cela doit rester exceptionnel et doit concerner uniquement les information qu'on ne peux pas insérer dans une étape de la procédure. |
 | --- | --- |
 
 | ![Information](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/info.png) | *Enter your information here.*<br><br>Essayez d'abord d'insérer l'information sous forme d'étape dans la procédure. |
@@ -29,7 +29,7 @@ Ajoutez des **Quick Parts** : **Insert &gt; QuickParts &gt; Insert**
  *Put here the text for your expandable block.Scripts are disabled in the editing mode, so click**"Unlock & View"** to see the box in action.*
  *You can also edit the text for the "Show More" and "Hide" elements.*
  
-La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l'information ? Réécrivez l'article et insérer les informations moins importantes dans ce bloc.
+La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l'information ? Réécrivez l'article et insérer les information moins importantes dans ce bloc.
 
 * * *
 

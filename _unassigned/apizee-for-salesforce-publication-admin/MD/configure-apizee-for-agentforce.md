@@ -43,7 +43,7 @@ The package installs Salesforce flows. These flows are available as Agentforce a
 2. Click **New Agent**.
 3. Select **Agentforce Service Agent**.
 4. Keep the default topics selected and click **Next**.
-5. Enter the agent information and select **EinsteinServiceAgent User.**  Example : 
+5. Enter the agent information and select **EinsteinServiceAgent User.**  Example:
 
     | **Field** | **Value** |
     | --- | --- |
@@ -97,7 +97,7 @@ Example:
 2. In **Setup → Flows**, open **Route to Agent**.
 3. Click **Edit Element**, set the following values in the **Set Input Values**
     * Route To : Agentforce Service Agent.
-    * Agentforce Service Agent : Agentforce Service Agent
+    * Agentforce Service Agent:Agentforce Service Agent
 4. Save a new version and activate the flow.
 
 ### Add the Agent to the Website

@@ -13,4 +13,3 @@ You are out of the video session, your camera and microphone are no longer taken
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

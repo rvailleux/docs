@@ -14,4 +14,3 @@ You can see the flashlight turn on and off directly on the guest's video feed.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

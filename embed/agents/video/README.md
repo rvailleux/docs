@@ -6,4 +6,3 @@ Our goal is to help our clients, and their customers, resolve issues more **easi
 
 ![](../../.gitbook/assets/video-tool-apizee-embed.png)
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

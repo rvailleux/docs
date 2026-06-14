@@ -7,7 +7,7 @@
 
 * In the toolbar, click ![](../Storage/apizee-for-salesforce-publication-admin/project-appvisio-reuse/activate-and-turn-off-microphone-and-camera/cameraOn.png)to disable and![](../Storage/apizee-for-salesforce-publication-admin/project-appvisio-reuse/activate-and-turn-off-microphone-and-camera/CameraOff.png) to enable the camera.
 
-### Enable/Disable Micro
+### Enable/Disable Microphone
 
 * In the toolbar, click ![](../Storage/apizee-for-salesforce-publication-admin/project-appvisio-reuse/activate-and-turn-off-microphone-and-camera/microphoneOn.png)to disable and ![](../Storage/apizee-for-salesforce-publication-admin/project-appvisio-reuse/activate-and-turn-off-microphone-and-camera/microphoneOff.png)to enable the micro.
 

@@ -8,4 +8,4 @@ For this, WebRTC relies on the SRTP***\**** ****and DTLS***\*\**** protocols.
 
 *\**SRTP: Secure Real-time Transport Protocol
 
-*\*\**DTLS: Datagramme Transport Layer Security
+*\*\**DTLS: Datagram Transport Layer Security

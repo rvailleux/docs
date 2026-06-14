@@ -4,7 +4,7 @@ The Apizee connector is an add-on for ServiceNow. It helps customer support pers
 
 {% hint style="info" %}
 *Use this connector to give visual help to the user during support calls.*
- 
+
 **Target Users:** Support agents who use ServiceNow.
 **Main Benefit:** When phone, email, or chat is not enough, video helps solve problems faster.
 **Benefits:** Faster resolution, reduced escalation and enhanced tracking.
@@ -14,50 +14,78 @@ The Apizee connector is an add-on for ServiceNow. It helps customer support pers
 
 {% hint style="info" %}
 Before you start, make sure:
- - The Apizee connector is installed.- You can access ServiceNow with a user account authorized to use Apizee.- Your Internet connection is stable.- Your device has camera and microphone access enabled.
+
+* The Apizee connector is installed.
+* You can access ServiceNow with a user account authorized to use Apizee.
+* Your Internet connection is stable.
+* Your device has camera and microphone access enabled.
 {% endhint %}
 
 1. **Log in to ServiceNow.**
-Enter your credentials and access the platform.
+
+   Enter your credentials and access the platform.
+
 2. **Check Apizee connector availability.**
-Search "Apizee" in the navigation panel. If it does not appear, contact your administrator. 
 
-![](.gitbook/assets/Click Side Panel.png)
+   Search "Apizee" in the navigation panel. If it does not appear, contact your administrator.
 
-    | ![](.gitbook/assets/tip.png) | Make sure the Apizee icon is visible in the sidebar. |
-    | --- | --- |
+   ![](.gitbook/assets/Click-Side-Panel.png)
+
+   {% hint style="tip" %}
+   Make sure the Apizee icon is visible in the sidebar.
+   {% endhint %}
+
 3. **Start the video session.**
-Open the incident or customer's record. Click **Start Video Call**.
 
-![](.gitbook/assets/Click Start Video Call.png)
+   Open the incident or customer's record. Click **Start Video Call**.
 
-    | ![Information](.gitbook/assets/info.png) | Note that the phone number field is pre-filled with the Contact's mobile phone number associated with the current Case or Incident.
+   ![](.gitbook/assets/Click-Start-Video-Call.png)
 
-To send an invitation for a video call to a different number, please update the phone number in the side panel or later in the Apizee platform. |
-    | --- | --- |
-4. **log in to the Apizee solution**If you are not already logged in the Apizee solution, fill in your user name and password then click **Sign-In**.
+   {% hint style="info" %}
+   Note that the phone number field is pre-filled with the Contact's mobile phone number associated with the current Case or Incident.
 
-![](.gitbook/assets/Log in Apizee console.png)
+   To send an invitation for a video call to a different number, please update the phone number in the side panel or later in the Apizee platform.
+   {% endhint %}
 
-    | ![Information](.gitbook/assets/info.png) | The SSO authentification option is compatible with the Apizee for ServiceNow app. |
-    | --- | --- |
-5. **Send invitation**
-You are now ready to send an invitation to join de video call to your guest: click **Send Invitation**.
+4. **Log in to the Apizee solution.**
 
-![](.gitbook/assets/getting-started-apizee-servicenow-2025-04-24.png)
+   If you are not already logged in the Apizee solution, fill in your user name and password then click **Sign-In**.
+
+   ![](.gitbook/assets/Log-in-Apizee-console.png)
+
+   {% hint style="info" %}
+   The SSO authentication option is compatible with the Apizee for ServiceNow app.
+   {% endhint %}
+
+5. **Send invitation.**
+
+   You are now ready to send an invitation to join the video call to your guest: click **Send Invitation**.
+
+   ![](.gitbook/assets/getting-started-apizee-servicenow-2025-04-24.png)
+
 6. **Allow access to camera and microphone.**
-Accept the prompt in your browser. 
 
-    | ![](.gitbook/assets/tip.png) | *If no prompt appears, check your browser's settings.* |
-    | --- | --- |
-7. **The video call begin**
-In the Apizee solution, you will be automatically redirected to the detail page of the newly created **ticket**.
-Eventually, the guest will click on the link they received via SMS and begin the video call.
-You will then be prompted with a call signal. 
+   Accept the prompt in your browser.
 
-![](.gitbook/assets/getting-started-servicenow-2024-08-08.png)
-8. **Assist the user.**Discover all the available visual engagement actions accessible through your ServiceNow platform in the dedicated article:
-➡️ [Visual engagement actions overview](../video-assistance/help-desk/actions-during-the-video-assistance/actions-overview.md)
+   {% hint style="tip" %}
+   *If no prompt appears, check your browser's settings.*
+   {% endhint %}
+
+7. **The video call begins.**
+
+   In the Apizee solution, you will be automatically redirected to the detail page of the newly created **ticket**.
+
+   Eventually, the guest will click on the link they received via SMS and begin the video call.
+
+   You will then be prompted with a call signal.
+
+   ![](.gitbook/assets/getting-started-servicenow-2024-08-08.png)
+
+8. **Assist the user.**
+
+   Discover all the available visual engagement actions accessible through your ServiceNow platform in the dedicated article:
+
+   ➡️ [Visual engagement actions overview](../video-assistance/help-desk/actions-during-the-video-assistance/actions-overview.md)
 
 ## FAQ and Troubleshooting
 
@@ -69,7 +97,7 @@ You will then be prompted with a call signal. 
 
 **Q2: My browser is not prompting for camera/microphone access. What should I do?**
 
-* Check your browser’s security settings to ensure access is allowed for the Apizee site.
+* Check your browser's security settings to ensure access is allowed for the Apizee site.
 * Restart your browser and try again.
 
 **Q3: What if the audio or video quality is poor?**
@@ -78,9 +106,7 @@ You will then be prompted with a call signal. 
 * Close background applications that may be using bandwidth.
 * For prolonged issues, contact technical support.
 
-##  Tips
+## Tips
 
-* ## For improved session quality, close unnecessary background applications that could consume network resources or CPU power.
-* ## Use a quiet, well-lit environment for optimal video quality during calls with clients.
-
-https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/tutorials
+* For improved session quality, close unnecessary background applications that could consume network resources or CPU power.
+* Use a quiet, well-lit environment for optimal video quality during calls with clients.

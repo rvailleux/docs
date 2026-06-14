@@ -40,8 +40,7 @@ The test is visible for the agent only. |
 | --- | --- | |
 | Join without microphone | Enter the assistance session without audio (micro muted for the agent and the requester). |
 | Agent joins without camera | The agent will join the session without camera. It is possible to activate it during the session. |
-| Quickly join the session | Usually, when the requester clicks on the link in the assistance invitation message, a window opens with :
- -   The legal terms to accept then,  -  a new window displays with a button&#160;**Call an agent**.  -  Once the button is clicked, the call starts.   
+| Quickly join the session | Usually, when the requester clicks on the link in the assistance invitation message, a window opens with: -   The legal terms to accept then,  -  a new window displays with a button&#160;**Call an agent**.  -  Once the button is clicked, the call starts.   
 If this feature is activated, the requester directly calls the agent from the legal terms page. Step 2 is skipped.
  
 ![](../../../.gitbook/assets/FR-diag-invite-option-rejoindre-rapidement-session-activee.png) |

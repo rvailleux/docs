@@ -1,4 +1,4 @@
-1. Select the **Informations** tab.
+1. Select the **Information** tab.
 2. Click **Create** under **Service Account**.
 3. In the **New Service Account** pop-up:
 
@@ -13,4 +13,3 @@ Keep the client secret safe.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

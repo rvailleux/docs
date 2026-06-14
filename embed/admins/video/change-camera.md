@@ -11,4 +11,3 @@ You will see the camera change directly on your video feed.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

@@ -35,7 +35,7 @@ You are logged in to your account.
     | ![](../../../.gitbook/assets/ok.png) | The page displays. |
     | --- | --- |
 3. Under **Shared Media**, choose the files and click **Share**. 
- ![](../../../.gitbook/assets/EN-Diag-portal-ticket-page-share-file-after session-7b453861.png)
+ ![](../../../.gitbook/assets/EN-Diag-portal-ticket-page-share-file-after-session-7b453861.png)
 
     | ![](../../../.gitbook/assets/ok.png) | A window opens. |
     | --- | --- |

@@ -11,8 +11,7 @@ However, you can customize the theme of one or several[services](customize-the-i
 1. In the left-hand menu, click **Customization**then, click **Graphic theme**. 
  
  ![](../../.gitbook/assets/Portal-company-customize-graphic-theme.png)
-2. Click **Choose File**to change the :
-    * Favicon This icon displays in the tab, the url or the bookmark. ![](../../.gitbook/assets/Portal-Customize-interface-favicon.png)
+2. Click **Choose File**to change the:    * Favicon This icon displays in the tab, the url or the bookmark. ![](../../.gitbook/assets/Portal-Customize-interface-favicon.png)
     * Rectangular logo This logo is used on the user portal, the Web pages and the notification templates.
  
 ![](../../.gitbook/assets/Portal-Customize-interface-rectangular-logo-in-notification-template.png)
@@ -34,8 +33,7 @@ These changes are applied to all the services of your company.
 
 #  Customize the Service theme
 
-You want to customize one service in particular ? You do not want to use the company theme by default :
-
+You want to customize one service in particular ? You do not want to use the company theme by default:
 1. Click the service name on the left-hand menu.
 2. Click the **Theme**tab.
 3. Click **Create a new theme**. 

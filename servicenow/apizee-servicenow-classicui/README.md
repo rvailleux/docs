@@ -9,17 +9,17 @@
 
 1. Click on the "Start video call" button in the Action UI menu bar at the top right corner of the page.
 
-![](../.gitbook/assets/Frame 10.png)
+![](../.gitbook/assets/Frame-10.png)
 
     | ![](../.gitbook/assets/warning.png) | A pop up blocker from your web browser may prevent ServiceNow to open a new tab. If no new tabs opens, please check if there is any information notice displayed by your browser requiring your attention to unblock new tabs opening. |
     | --- | --- |
 2. If you are not already logged in into the Apizee solution, fill in your username and password then click on the Sign-In button.
 
-![](../.gitbook/assets/Log in Apizee console.png)
+![](../.gitbook/assets/Log-in-Apizee-console.png)
 
     | ![Information](../.gitbook/assets/info.png) | The SSO authentication option is compatible with the Apizee for ServiceNow app. |
     | --- | --- |
-3. You are now ready to send an invitation to join de video call to your guest.
+3. You are now ready to send an invitation to join the video call to your guest.
 Check the phone number that has been pre-filled from ServiceNow's Contact phone number and click on the "Send Invitation" button.
 
     | ![Information](../.gitbook/assets/info.png) | The invitation is sent through text message (SMS). You need to input a valide mobile phone number. |

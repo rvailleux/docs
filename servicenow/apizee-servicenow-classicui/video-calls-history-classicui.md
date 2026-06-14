@@ -11,7 +11,7 @@ Each time you start a video call from a Case or an Incident details page, an "Ap
 
 1. Open the Case or Incident details page.
 
-![](../.gitbook/assets/Frame 10 (1).png)
+![](../.gitbook/assets/Frame-10-1.png)
 2. Scroll down and click on the "Apizee Sessions" tab in the lower part of the page.
 
-![](../.gitbook/assets/Frame 12.png)
+![](../.gitbook/assets/Frame-12.png)

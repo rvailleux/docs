@@ -3,8 +3,7 @@
 {% hint style="info" %}
 *Enter your prerequisite here .*
 
-Pour rédiger cet article aidez-vous des articles suivants :
-- <a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/edit-v2/3212607494" target="_blank">ClickHelp : Comment l&#39;utiliser ?</a>- <a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation" target="_blank">Conseils de r&#233;daction pour la documentation</a>
+Pour rédiger cet article aidez-vous des articles suivants:- <a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/edit-v2/3212607494" target="_blank">ClickHelp:Comment l&#39;utiliser ?</a>- <a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation" target="_blank">Conseils de r&#233;daction pour la documentation</a>
 {% endhint %}
 
 1. step
@@ -17,14 +16,14 @@ Ajoutez des **Quick Parts** : **Insert &gt; QuickParts &gt; Insert**
 *Insert step result here.*
  
 Ajoutez un résultat pour rassurer l'utilisateur. Qu'est-ce qui est censé se produire ou s'afficher à la in de la dernière étape ?
-Exemple : L'invitation est envoyée. Vous êtes dirigé vers la page de la visio.
+Exemple:L'invitation est envoyée. Vous êtes dirigé vers la page de la visio.
 {% endhint %}
 
 {% hint style="success" %}
 *Insert your tip here.*
  
 Insérer une astuce, une information complémentaire pour aider l'utilisateur à aller plus loin.
-N'abusez pas du bloc **Tip**, cela doit rester exceptionnel et doit concerner uniquement les informations qu'on ne peux pas insérer dans une étape de la procédure.
+N'abusez pas du bloc **Tip**, cela doit rester exceptionnel et doit concerner uniquement les information qu'on ne peux pas insérer dans une étape de la procédure.
 {% endhint %}
 
 {% hint style="info" %}
@@ -44,8 +43,7 @@ C'est bien d'ajouter des liens externes ! Vérifiez cependant qu'ils ne sont pas
 Les **Warning** peuvent faire peur à l'utilisateur et le freiner dans la réalisation des étapes. 
 Surtout, cela ne donne pas une bonne image de nos produits.
 
-Servez-vous du **Warning** avec parcimonie et uniquement :
-- quand vous n&#39;avez pas reussi &#224; tourner l&#39;information de mani&#232;re positive dans la proc&#233;dure.- pour guider l&#39;utilisateur quand le fonctionnement n&#39;est pas intuitif.- quand il y a un danger.
+Servez-vous du **Warning** avec parcimonie et uniquement:- quand vous n&#39;avez pas reussi &#224; tourner l&#39;information de mani&#232;re positive dans la proc&#233;dure.- pour guider l&#39;utilisateur quand le fonctionnement n&#39;est pas intuitif.- quand il y a un danger.
 {% endhint %}
 
  [+] [Show More](javascript:void%280%29)
@@ -53,7 +51,7 @@ Servez-vous du **Warning** avec parcimonie et uniquement :
  *Put here the text for your expandable block.Scripts are disabled in the editing mode, so click**"Unlock & View"** to see the box in action.*
  *You can also edit the text for the "Show More" and "Hide" elements.*
  
-La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l'information ? Réécrivez l'article et insérer les informations moins importantes dans ce bloc.
+La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l'information ? Réécrivez l'article et insérer les information moins importantes dans ce bloc.
 
 * * *
 
@@ -65,4 +63,3 @@ https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+dactio
 
 Click [here](/settings/topic-template) to change this template.
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

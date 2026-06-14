@@ -17,4 +17,3 @@ The subscription appears in the list. A secret is generated and displayed on the
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

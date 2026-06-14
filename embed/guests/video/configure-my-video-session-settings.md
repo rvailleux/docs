@@ -15,4 +15,3 @@ You have your video feed to see the changes apply directly.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

@@ -71,5 +71,5 @@ The users can be grouped according to their skills, their roles or any other cha
 
 ![](../../.gitbook/assets/EN-portal-add-group-select-role.png)
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Communicate with my coworkers : find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md) |
+| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md) |
 | --- | --- |

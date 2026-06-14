@@ -13,7 +13,7 @@ The invitation is sent by text message. The guest receives a link to join the vi
 {% endhint %}
 
 {% hint style="success" %}
-If the contact already has a mobile phone number completed in their informations, the phone number field will be automatically pre-filled.
+If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled.
 {% endhint %}
 
 ## From Cases tab
@@ -29,5 +29,5 @@ The invitation is sent by text message. The guest receives a link to join the vi
 {% endhint %}
 
 {% hint style="success" %}
-If the contact already has a mobile phone number completed in their informations, the phone number field will be automatically pre-filled.
+If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled.
 {% endhint %}

@@ -11,7 +11,7 @@
 | ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The invitation is sent by text message. The guest receives a link to join the video assistance. |
 | --- | --- |
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | If the contact already has a mobile phone number completed in their informations, the phone number field will be automatically pre-filled. |
+| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled. |
 | --- | --- |
 
 ## From Cases tab
@@ -25,5 +25,5 @@
 | ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The invitation is sent by text message. The guest receives a link to join the video assistance. |
 | --- | --- |
 
-| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | If the contact already has a mobile phone number completed in their informations, the phone number field will be automatically pre-filled. |
+| ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/tip.png) | If the contact already has a mobile phone number completed in their information, the phone number field will be automatically pre-filled. |
 | --- | --- |

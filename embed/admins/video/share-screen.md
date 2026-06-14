@@ -15,4 +15,3 @@ This option may depend on your Web browser.
 5. To stop the screen sharing, click the ![](../../.gitbook/assets/screenshare.png)button again.
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

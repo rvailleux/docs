@@ -30,8 +30,7 @@
 | ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/ok.png) | The video session starts. |
 | --- | --- |
 
-You can do several actions during this video session :
-
+You can do several actions during this video session:
 * [Configure the interaction template](configure-interaction-template.md)
 * [Enable and disabled the microphone and camera](enable-and-disabled-microphone-and-camera.md)
 * [Take a picture](take-a-picture.md)

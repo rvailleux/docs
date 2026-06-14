@@ -24,7 +24,7 @@ You are an agent and you need to:
 | ![](../../.gitbook/assets/Icon=Clock.png) | Invitation link not clicked | The guest did not click the link in the assistance invitation.
 
 ![](../../.gitbook/assets/EN-diag-guest-invitation-not-clicked.png) | 27 |
-| ![](../../.gitbook/assets/Icon=Calendar off.png) | Invitation declined | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only. |
+| ![](../../.gitbook/assets/Icon=Calendar-off.png) | Invitation declined | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only. |
 | --- | --- |
 
 The guest clicked the **More information** link in the invitation, then, **declined** the invitation. 
@@ -64,20 +64,20 @@ The video assistance was immediate and has been changed to be scheduled on anoth
 In this case, the guest **allowed** both of them.
 
 ![](../../.gitbook/assets/EN-diag-guest-allow-cam-and-mic.png) | 20 |
-| ![](../../.gitbook/assets/Icon=Share refused.png) | Camera and microphone denied | According to the video assistance configuration, the guest can be asked to allow the access to both camera and micorphone.
+| ![](../../.gitbook/assets/Icon=Share-refused.png) | Camera and microphone denied | According to the video assistance configuration, the guest can be asked to allow the access to both camera and micorphone.
 In this case, the guest **blocked** the access to both of them. Or **did not click** at all.
 
 ![](../../.gitbook/assets/EN-diag-guest-block-mic-and-cam.png) | 21 |
-| ![](../../.gitbook/assets/Icon=Share camera.png) | Camera allowed | According to the video assistance configuration, the guest can be asked to allow the access to the camera only.
+| ![](../../.gitbook/assets/Icon=Share-camera.png) | Camera allowed | According to the video assistance configuration, the guest can be asked to allow the access to the camera only.
 
 In this case the guest **allowed**. | 22 |
-| ![](../../.gitbook/assets/Icon=Share camera refused.png) | Camera denied | According to the video assistance configuration, the guest can be asked to allow the access to the camera only.
+| ![](../../.gitbook/assets/Icon=Share-camera-refused.png) | Camera denied | According to the video assistance configuration, the guest can be asked to allow the access to the camera only.
 
 In this case the guest **blocked** it. | 23 |
-| ![](../../.gitbook/assets/Icon=Share micro.png) | Microphone allowed | According to the video assistance configuration, the guest can be asked to allow the access to the microphone only.
+| ![](../../.gitbook/assets/Icon=Share-micro.png) | Microphone allowed | According to the video assistance configuration, the guest can be asked to allow the access to the microphone only.
 
 In this case the guest **allowed**. | 24 |
-| ![](../../.gitbook/assets/Icon=Share micro refused.png) | Microphone denied | According to the video assistance configuration, the guest can be asked to allow the access to the microphone only.
+| ![](../../.gitbook/assets/Icon=Share-micro-refused.png) | Microphone denied | According to the video assistance configuration, the guest can be asked to allow the access to the microphone only.
 
 In this case the guest **blocked** it. | 25 |
 | ![](../../.gitbook/assets/Icon=Headset.png) | Session started | The agent picks up the call.
@@ -94,11 +94,11 @@ In this case the guest **blocked** it. | 25 |
 | ![](../../.gitbook/assets/Icon=Place.png) | Geolocation accepted | The guest **allowed** the geolocation.
 
 ![](../../.gitbook/assets/EN-Diag-guest-allow-geolocation.png) | 28 |
-| ![](../../.gitbook/assets/Icon=Place off.png) | Geolocation declined | The guest **blocked** the geolocation. | 29 |
-| ![](../../.gitbook/assets/Icon=Exit User.png) | Guest left the session | The guest clicked **leave** to hang up the call.
+| ![](../../.gitbook/assets/Icon=Place-off.png) | Geolocation declined | The guest **blocked** the geolocation. | 29 |
+| ![](../../.gitbook/assets/Icon=Exit-User.png) | Guest left the session | The guest clicked **leave** to hang up the call.
 
 ![](../../.gitbook/assets/Diag-guest-leave-session.png) | 33 |
-| ![](../../.gitbook/assets/Icon=Exit Admin.png) | Agent left the session | The agent clicked **leave** to hang up the call.
+| ![](../../.gitbook/assets/Icon=Exit-Admin.png) | Agent left the session | The agent clicked **leave** to hang up the call.
 
 ![](../../.gitbook/assets/Portal-diag-agent-leave-session.png) | 32 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | Agent completed the assistance | The agent clicked **Complete session** in the assistance page.

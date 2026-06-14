@@ -1,6 +1,6 @@
 # Summary
 
-## Pour les administrateurs
+## For administrators
 
 * [About Apizee solutions](admins/about-apizee-solutions.md)
 * [About the video assistance for multi-participants](admins/about-the-video-assistance-for-multi-participants.md)
@@ -107,7 +107,7 @@
   * [I cannot add a new user to my company](admins/assistance-multi-participants-faq/i-cannot-add-new-user-to-my-company.md)
   * [How to contact the Support Team and follow my requests?](admins/assistance-multi-participants-faq/how-to-contact-support-team-and-follow-my-requests.md)
 
-## Pour les agents
+## For agents
 
 * [About Apizee solutions](agents/about-apizee-solutions.md)
 * [About the video assistance for multi-participants](agents/about-the-video-assistance-for-multi-participants.md)
@@ -198,7 +198,7 @@
   * [I cannot add a new user to my company](agents/assistance-multi-participants-faq/i-cannot-add-new-user-to-my-company.md)
   * [How to contact the Support Team and follow my requests?](agents/assistance-multi-participants-faq/how-to-contact-support-team-and-follow-my-requests.md)
 
-## Pour les invités
+## For guests
 
 * [About Apizee solutions](guests/about-apizee-solutions.md)
 * [About the video assistance for multi-participants](guests/about-the-video-assistance-for-multi-participants.md)

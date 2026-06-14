@@ -34,8 +34,7 @@ You just sent an invitation to a guest to join the video assistance.
 The video session starts.
 {% endhint %}
 
-You can do several actions during this video session :
-
+You can do several actions during this video session:
 * [Enable and disabled the microphone and camera](enable-and-disabled-microphone-and-camera.md)
 * [Take a picture](take-a-picture.md)
 * [Change camera](change-camera.md)

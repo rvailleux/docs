@@ -17,4 +17,3 @@ The timeline displays. It shows the status of each guest while they join the ses
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

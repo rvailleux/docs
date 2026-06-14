@@ -1,6 +1,6 @@
 This procedure explains how to collect the information required from Microsoft Entra ID to configure a SAML federation with Apizee Embed as an external service provider.
  
-The procedure is written from the point of view of the Microsoft Entra ID tenant administrator and aims at collecting key informations to be shared with Apizee to set up a Single-Sign on flow.
+The procedure is written from the point of view of the Microsoft Entra ID tenant administrator and aims at collecting key information to be shared with Apizee to set up a Single-Sign on flow.
 
 {% hint style="info" %}
 *You must have administrator access to the Microsoft Entra ID tenant.*
@@ -37,7 +37,7 @@ After you collect this information, send it to the integration partner.
 You are redirected to the configuration page of the new application.
 {% endhint %}
 
-## Retrieve key informations
+## Retrieve key information
 
 1. In the application page, locate the **Manage** section.
 2. Click **Single sign-on**.
@@ -83,4 +83,3 @@ The metadata and certificates only describe the identity provider configuration 
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

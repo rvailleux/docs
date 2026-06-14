@@ -24,7 +24,7 @@ You are an agent and you need to:
 | ![](../../.gitbook/assets/Icon=Clock.png) | Invitation link not clicked | The guest did not click the link in the assistance invitation.
 
 ![](../../.gitbook/assets/EN-diag-guest-invitation-not-clicked.png) | 27 |
-| ![](../../.gitbook/assets/Icon=Calendar off.png) | Invitation declined | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only. |
+| ![](../../.gitbook/assets/Icon=Calendar-off.png) | Invitation declined | | ![Information](../../.gitbook/assets/info.png) | For **scheduled** assistance only. |
 | --- | --- |
 
 The guest clicked the **More information** link in the invitation, then, **declined** the invitation. 

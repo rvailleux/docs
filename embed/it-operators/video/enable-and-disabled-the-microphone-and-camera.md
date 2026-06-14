@@ -9,7 +9,7 @@ As a guest: you check your settings before entering the video session.
 
 * In the toolbar, click ![](../../.gitbook/assets/cameraOn.png)to disable and![](../../.gitbook/assets/CameraOff.png) to enable the camera.
 
-### Enable/Disable Micro
+### Enable/Disable Microphone
 
 * In the toolbar, click ![](../../.gitbook/assets/microphoneOn.png)to disable and ![](../../.gitbook/assets/microphoneOff.png)to enable the micro.
 
@@ -18,4 +18,3 @@ You have your video feed to see the changes apply directly.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

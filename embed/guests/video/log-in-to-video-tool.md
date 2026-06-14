@@ -8,7 +8,7 @@
 1. Click **Log in**.
 2. A pop-up windows opens.
     1. Enter your email address and your password.
-    2. Check **Remember me** if you want to extend your authentification session.
+    2. Check **Remember me** if you want to extend your authentication session.
     3. Click **Sign In**.
 3. If the login information is correct, the authentication pop-up closes automatically.
 
@@ -17,4 +17,3 @@
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

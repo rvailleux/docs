@@ -10,14 +10,14 @@
 Each time you start a video call from a Case or an Incident details page, an "Apizee Session" entry is created and attached to the Case or incident.
 
 1. Open the Case or Incident details page.
-    ![](.gitbook/assets/Incident page.png)
+    ![](.gitbook/assets/Incident-page.png)
 2. Click on the "Apizee Sessions" in the upper tabs menu.
-    ![](.gitbook/assets/Click on tab menu_.png)
+    ![](.gitbook/assets/Click-on-tab-menu_.png)
 
     | ![Information](.gitbook/assets/info.png) | The "Apizee Sessions" can be hidden by default. Click on the arrow located at the end of the upper tabs menu to make it appear. |
     | --- | --- |
 
-![](.gitbook/assets/Logs (1).png)
+![](.gitbook/assets/Logs-1.png)
 
 {% hint style="success" %}
 The past and ongoing Apizee video calls are listed on the screen.

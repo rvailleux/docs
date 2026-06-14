@@ -10,4 +10,3 @@ The status updates immediately. A disabled subscription stops sending notificati
 
 You can also change the status from the subscription detail page.
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

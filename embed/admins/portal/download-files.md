@@ -24,4 +24,3 @@ The compressed folder with all the files is downloaded on your device.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

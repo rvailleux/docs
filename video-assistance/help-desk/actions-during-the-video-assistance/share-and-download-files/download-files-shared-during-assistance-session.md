@@ -57,7 +57,7 @@ You are logged in to you account.
     | --- | --- |
 3. Under **Shared files**, select the file you want and click **Download**.
 
-![](../../../.gitbook/assets/EN-Diag-portal-ticket-page-download-file-after session-dc7a7dfd.png)
+![](../../../.gitbook/assets/EN-Diag-portal-ticket-page-download-file-after-session-dc7a7dfd.png)
 
 {% hint style="warning" %}
 The files that display under **Shared files** are:- The pictures taken in a remote way by the agent.

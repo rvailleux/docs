@@ -13,4 +13,3 @@ The subscription is permanently deleted and no longer appears in the list.
 {% endhint %}
 
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.

@@ -5,8 +5,7 @@
 | ![](../Storage/apizee-for-salesforce-publication-admin/project-content-reuse/prerequis.png) | You need to have completed the installation on a [sandbox](install-deploy-on-a-sandbox-environment.md)or on a [production](install-deploy-on-your-production-environment.md) environment before configuring your environment. |
 | :--- | :--- |
 
-In this guide, you will :
-
+In this guide, you will:
 * [Assign permission sets to end users](configure-your-salesforce-environment.md#h2_2046225501)
 * [Enable video call statistics](configure-your-salesforce-environment.md#h1_permission_stats)
 * [Enable Trusted URL](configure-your-salesforce-environment.md#h2__252222865)
@@ -81,7 +80,7 @@ Description automatically generated](../Storage/apizee-for-salesforce-publicatio
  ![A screenshot of a computer  Description automatically generated](../Storage/apizee-for-salesforce-publication-admin/Imported/topic/img0029.png)
 
     * API Name: **ApizeeCloudURL**
-    * URL : **\*.apirtc.com**
+    * URL:**\*.apirtc.com**
     * Active: **checked**
 9. Activate the following **CSP Directives** 
 

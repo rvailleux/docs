@@ -18,4 +18,3 @@ You received a text message.
 The video session page displays.
 {% endhint %}
  © Apizee. All rights reserved. 
- [Send feedback](mailto:support@clickhelp.co) on this topic to Apizee.
