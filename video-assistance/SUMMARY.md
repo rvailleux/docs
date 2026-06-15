@@ -5,6 +5,7 @@
 * [About Apizee for Video Assistance](admins/about-apizee-video-assistance.md)
 * [About Diag Help Desk](help-desk/about-diag-help-desk.md)
 * [Log in to the Apizee portal for the first time](admins/log-in-to-the-apizee-portal-for-the-first-time.md)
+* [Getting started](admins/getting-started.md)
 * [Subscribe to an offer](help-desk/subscribe-to-an-offer.md)
 * [User roles](admins/user-roles.md)
 

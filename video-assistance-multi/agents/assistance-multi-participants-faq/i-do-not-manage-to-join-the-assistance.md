@@ -43,7 +43,7 @@ If your profile is **Busy** or **Unavailable**, change it into **Available** sta
 
 {% hint style="info" %}
 
-*See also*
+**See also**
 
 {% endhint %}
 {% endhint %}

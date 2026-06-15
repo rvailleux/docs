@@ -12,7 +12,7 @@ The statistics menu gives you an overview on the key figures about:
 
 {% hint style="info" %}
 
-*See also*
+**See also**
 
 {% endhint %}
 * [Statistics - Sessions](statistics-sessions.md)

@@ -22,6 +22,12 @@
 * [I cannot add a new user to my company](general/i-cannot-add-a-new-user-to-my-company.md)
 * [How to contact the Support Team and follow my requests?](general/how-to-contact-the-support-team-and-follow-my-requests.md)
 
+## Reference
+
+* [Troubleshooting](troubleshooting.md)
+* [Glossary](glossary.md)
+* [What's new](whats-new.md)
+
 ## Legal
 
 * [Legal information](legal/legal-information.md)
