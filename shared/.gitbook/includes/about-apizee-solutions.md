@@ -44,13 +44,17 @@ The Apizee solutions are compatible with:
 
 ## System configuration
 
+{% hint style="warning" %}
+The compatibility data below is pending review against current OS and browser versions. Please check with your system administrator for the latest supported configurations.
+{% endhint %}
+
 | OS | Version | Characteristics |
 | :--- | :--- | :--- |
-| Windows | 7, 8, 10 & 11 | Intel Core 2 Duo 4GB RAM  
+| Windows | 8, 10 & 11 | Intel Core 2 Duo 4GB RAM  
 Recommended: I5 quad-core 8GB RAM |
-| macOS | From 10.7 to 10.13 | All, since 2011 |
-| iOS | 8 + | iPhone 5, iPad 1 |
-| Android | 4.4 + | ARM or x86 Dual-core 3GB RAM  
+| macOS | 10.15+ | All Macs since 2012 |
+| iOS | 12+ | iPhone 6s, iPad Air 2 |
+| Android | 7+ | ARM or x86 Dual-core 3GB RAM  
 Recommended: octo-core 6GB RAM |
 | Bandwidth | -- | 300kb/s – 2.4MB/s  
 Recommended: 4G |
