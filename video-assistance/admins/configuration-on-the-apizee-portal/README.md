@@ -8,4 +8,4 @@
 * [Customize the interface](customize-interface.md)
 * [Configure my account](configure-my-account.md)
 * [Configure the storage lifespan of the files](configure-the-storage-lifespan-of-the-files.md)
-* [Find your Api Key](find-your-api-key.md)
+* [Find your API key](find-your-api-key.md)

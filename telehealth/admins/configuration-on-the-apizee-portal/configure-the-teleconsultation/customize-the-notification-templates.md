@@ -63,7 +63,7 @@ Move the mouse over the tag for more information about what it displays.
 
   
 
-*See also** https://doc.apizee.com/smart/project-diag-help-desk/attach-a-report-to-the-ticket[Customize the interface](../customize-the-interface.md)
+**See also** https://doc.apizee.com/smart/project-diag-help-desk/attach-a-report-to-the-ticket[Customize the interface](../customize-the-interface.md)
 
   
 

@@ -54,7 +54,7 @@ This option is not available if [Quickly join the session](customize-the-tickets
 If this feature is activated, the requester directly calls the agent from the legal terms page. Step 2 is skipped.
  
 ![](../../../.gitbook/assets/FR-diag-invite-option-rejoindre-rapidement-session-activee.png) |
-| Take a picture with the mobile camera | During an ongoing assistance session, the requester can take pictures with the camera of his device instead of taking a snapshot.
+| Take a picture with the mobile camera | During an ongoing assistance session, the requester can take pictures with the camera of their device instead of taking a snapshot.
  
 The picture that was taken displays in the messages.
  

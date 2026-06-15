@@ -1,8 +1,8 @@
 {% hint style="info" %}
-Available only if the participant has **several cameras** on his device.
+Available only if the participant has **several cameras** on their device.
 {% endhint %}
 {% hint style="info" %}
-You are the organizer of the session and you want to help a participant to change his camera.
+You are the organizer of the session and you want to help a participant to change their camera.
 {% endhint %}
 
 1. On the right, click the **Actions** tab ![](../../.gitbook/assets/button-actions.png)
@@ -16,7 +16,7 @@ You are the organizer of the session and you want to help a participant to chang
 
     {% hint style="success" %}
 
-    An invitation is sent to the participant and displays on his screen as follow:
+    An invitation is sent to the participant and displays on their screen as follow:
 
     {% endhint %}
  **Guest screen** 
@@ -29,6 +29,6 @@ You are the organizer of the session and you want to help a participant to chang
     {% endhint %}
 {% hint style="info" %}
 
-The participant can do this action by himself.**See also** [Switch camera](../actions-during-the-conference/switch-camera.md)
+The participant can do this action by himself.**See also** [Switch camera](../actions-during-the-conference/switch-camera.md)
 
 {% endhint %}

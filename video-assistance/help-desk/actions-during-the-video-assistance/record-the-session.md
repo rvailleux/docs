@@ -25,16 +25,16 @@ You are an agent and you want to record the ongoing session.
     {% endhint %}
     {% hint style="info" %}
 
-    *See also** [Share a file with the requester](share-and-download-files/share-a-file-with-a-requester.md)
+    **See also** [Share a file with the requester](share-and-download-files/share-a-file-with-a-requester.md)
 
     {% endhint %}
     {% hint style="info" %}
 
-    *See also** [Download the files shared during the session](share-and-download-files/download-files-shared-during-assistance-session.md)
+    **See also** [Download the files shared during the session](share-and-download-files/download-files-shared-during-assistance-session.md)
 
     {% endhint %}
     {% hint style="info" %}
 
-    *See also**[Attach a report to the ticket](../follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)****attach-a-report-to-the-ticket.md
+    **See also** [Attach a report to the ticket](../follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)****attach-a-report-to-the-ticket.md
 
     {% endhint %}

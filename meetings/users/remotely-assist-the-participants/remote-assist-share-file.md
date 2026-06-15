@@ -13,7 +13,7 @@ You are the organizer of the session and you want to help a participant to share
 
     {% hint style="success" %}
 
-    An invitation is sent to the participant and displays on his screen as follow:
+    An invitation is sent to the participant and displays on their screen as follow:
 
     {% endhint %}
  **Guest screen** 
@@ -26,6 +26,6 @@ Once downloaded, the files displays in the **Messages** tab. |
 
 {% hint style="info" %}
 
-The participant can do this action by himself.**See also** [Share a file](../actions-during-the-conference/share-and-download-files/share-a-file.md)
+The participant can do this action by himself.**See also** [Share a file](../actions-during-the-conference/share-and-download-files/share-a-file.md)
 
 {% endhint %}

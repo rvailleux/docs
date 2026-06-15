@@ -2,7 +2,7 @@
 Available only if you have **several cameras** on your device.
 {% endhint %}
 {% hint style="info" %}
-You are participating to an ongoing session and you want to switch your camera.
+You are participating in an ongoing session and you want to switch your camera.
 {% endhint %}
 
 1. On the right, click the **Actions** tab ![](../../.gitbook/assets/button-actions.png)
@@ -17,6 +17,6 @@ You are participating to an ongoing session and you want to switch your camera.
     {% endhint %}
 {% hint style="info" %}
 
-*See also** [Audio & video settings](../configure-my-video-conference-settings/audio-video-settings.md)
+**See also** [Audio & video settings](../configure-my-video-conference-settings/audio-video-settings.md)
 
 {% endhint %}

@@ -50,7 +50,7 @@ or- In the assistance page, the agent clicked **Cancel session**.
 
 {% hint style="info" %}
 
-*See also** [Cancel a session](../../follow-up-the-assistances-on-the-portal/cancel-a-session.md)
+**See also** [Cancel a session](../../follow-up-the-assistances-on-the-portal/cancel-a-session.md)
 
 {% endhint %}
 | Ticket rejected | Notify the requester that the assistance request is rejected. | Agent | Requester | Prerequisite:
@@ -71,5 +71,5 @@ Create a ticket for a scheduled assistance session.
  * If the agent does not send an invitation again with another appointment date/hour before the end of the idle time (defined by the administrators then, the ticket is transferred to the supervisor.
  
 
-| **See also** [Customize the tickets](customize-the-tickets.md) |
+| **See also** [Customize the tickets](customize-the-tickets.md) |
 | --- | | Expired |

@@ -15,6 +15,6 @@ If you have several services in the left-hand menu, note that you can configure 
 
 {% hint style="info" %}
 
-*See also** [Send a quick invitation by email and/or SMS](../start-a-video-assistance/create-a-ticket-send-an-invitation/create-a-ticket-quick-invitation-by-email-and-or-sms.md)
+**See also** [Send a quick invitation by email and/or SMS](../start-a-video-assistance/create-a-ticket-send-an-invitation/create-a-ticket-quick-invitation-by-email-and-or-sms.md)
 
 {% endhint %}

@@ -64,7 +64,7 @@ Move the mouse over the tag for more information about what it displays.
 
     
 
-*See also** attach-a-report-to-the-ticket.md[Customize the interface](../customize-interface/README.md)
+**See also** attach-a-report-to-the-ticket.md[Customize the interface](../customize-interface/README.md)
 
     
 

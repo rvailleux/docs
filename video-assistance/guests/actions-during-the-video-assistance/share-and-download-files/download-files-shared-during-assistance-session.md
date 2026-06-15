@@ -7,7 +7,7 @@
 ## During the session
 
 {% hint style="info" %}
-You are participating to an ongoing assistance session. 
+You are participating in an ongoing assistance session. 
 Someone shared a file with you.
 {% endhint %}
 

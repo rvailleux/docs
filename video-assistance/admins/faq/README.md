@@ -1,7 +1,7 @@
 ![](../../.gitbook/assets/Apizee-FAQ.png)
 
 Here are all the **Frequently Asked Questions** about:
- **Diag Help Des****k**
+ **Diag Help Desk**
 
 * [Are the conferences confidential?](the-conference-are-they-confidential.md)
 * [Where are the servers?](where-are-the-servers.md)

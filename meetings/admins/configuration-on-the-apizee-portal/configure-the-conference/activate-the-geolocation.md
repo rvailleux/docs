@@ -23,6 +23,6 @@ If the guest **allows**, then the location information is available in the**shar
 
 {% hint style="info" %}
 
-*See also** [Check the files information](../../follow-up-the-conferences-on-the-portal/check-the-files-information.md)
+**See also** [Check the files information](../../follow-up-the-conferences-on-the-portal/check-the-files-information.md)
 
 {% endhint %}

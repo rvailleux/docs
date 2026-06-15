@@ -1,5 +1,5 @@
 {% hint style="info" %}
-You are participating to an ongoing session and you want to invite someone to this session.
+You are participating in an ongoing session and you want to invite someone to this session.
 {% endhint %}
 
 1. On the right, click the **Participants** tab.

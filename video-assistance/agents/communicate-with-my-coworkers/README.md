@@ -4,7 +4,7 @@ If you want to communicate with your colleagues through the Apizee portal, make 
 
 ![](../../.gitbook/assets/Apizee-portal-directory-communicate-with-colleagues.png)
 
-# Seeking for a coworker assistance ?
+# Looking for coworker assistance?
 
 Thanks to the portal directory, you can chat or call someone (audio or video, it is up to you!) from the same company.
 

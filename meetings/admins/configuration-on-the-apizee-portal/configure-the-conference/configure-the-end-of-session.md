@@ -26,7 +26,7 @@ Of course, this automatic message is completely customizable from the **Notifica
 
 {% hint style="info" %}
 
-*See also**  [Customize the notification templates](customize-the-notification-templates.md)
+**See also** [Customize the notification templates](customize-the-notification-templates.md)
 
 {% endhint %}
 ## Display the shared files on the end of session page
@@ -95,6 +95,6 @@ From the conference page on the portal, the organizer will be able to send a dow
 
  {% hint style="info" %}
 
- *See also** [Share a file - after the session in the portal](../../actions-during-the-conference/share-and-download-files/share-a-file.md)
+ **See also** [Share a file - after the session in the portal](../../actions-during-the-conference/share-and-download-files/share-a-file.md)
 
  {% endhint %}

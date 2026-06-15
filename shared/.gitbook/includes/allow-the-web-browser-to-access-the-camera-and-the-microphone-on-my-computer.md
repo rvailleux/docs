@@ -21,7 +21,7 @@ Check if the settings of your computer allow the Web browser to access the perip
 ***
 
 1. On the left-hand menu, click **Camera**.
-2. Check the **Camera access for this device** is **on**.
+2. Check the **Camera access for ttheir device** is **on**.
 3. Under, **Allow apps to access your camera**, click **On**.
 4. Under, **Allow desktop apps to access your camera**, click **On**.
 
@@ -34,7 +34,7 @@ Check if the settings of your computer allow the Web browser to access the perip
 Follow the same procedure as above but for the microphone.
 
 1. On the left-hand menu, click **Microphone**.
-2. Check the **Microphone access for this device** is **on**.
+2. Check the **Microphone access for ttheir device** is **on**.
 3. Under, **Allow apps to access your microphone**, click **On**.
 4. Under, **Allow desktop apps to access your microphone**, click **On**.
 

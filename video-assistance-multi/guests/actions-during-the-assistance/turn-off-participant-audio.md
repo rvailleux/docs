@@ -1,5 +1,5 @@
 {% hint style="info" %}
-You are a guest participating to an ongoing session. 
+You are a guest participating in an ongoing session. 
 Someone's noise is bothering you and you want to cut this participant audio, but just for you.
 {% endhint %}
 1. On the top left of the participant video, click ![](../../.gitbook/assets/button-participant-option.png)

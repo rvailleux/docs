@@ -29,6 +29,6 @@ The consent configuration is saved and displays on the user interface.
 
 {% hint style="info" %}
 
-*See also** [Join and leave the teleconsultation as a patient](../../start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-patient.md)
+**See also** [Join and leave the teleconsultation as a patient](../../start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-patient.md)
 
 {% endhint %}

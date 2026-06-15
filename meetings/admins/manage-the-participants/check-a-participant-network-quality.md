@@ -12,6 +12,6 @@ For example: If the video quality is bad, you can ask the participant to turn of
 
 {% hint style="info" %}
 
-*See also** [FAQ - The video and the audio cut off](../apizee-meeting-faq/the-video-and-the-audio-cut-off.md)
+**See also** [FAQ - The video and the audio cut off](../apizee-meeting-faq/the-video-and-the-audio-cut-off.md)
 
 {% endhint %}

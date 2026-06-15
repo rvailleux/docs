@@ -75,6 +75,6 @@ The users can be grouped according to their skills, their roles or any other cha
 
 {% hint style="info" %}
 
-*See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md)
+**See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md)
 
 {% endhint %}

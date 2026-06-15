@@ -37,7 +37,7 @@ You are logged in to your account.
     {% endhint %}
     {% hint style="info" %}
 
-    *See also** [Customize the notification templates](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)
+    **See also** [Customize the notification templates](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)
 
     {% endhint %}
 7. Select a **language**.

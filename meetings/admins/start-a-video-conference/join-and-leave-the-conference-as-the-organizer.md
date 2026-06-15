@@ -26,7 +26,7 @@ If you want it, you can turn off the microphone and the camera before joining th
 
 {% hint style="info" %}
 
-*See also** [Change the virtual background](../configure-my-video-conference-settings/change-the-virtual-background.md)
+**See also** [Change the virtual background](../configure-my-video-conference-settings/change-the-virtual-background.md)
 
 {% endhint %}
 {% hint style="success" %}

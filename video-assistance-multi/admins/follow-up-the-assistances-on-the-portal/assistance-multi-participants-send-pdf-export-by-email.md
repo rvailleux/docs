@@ -21,7 +21,7 @@
     {% endhint %}
 3. Tick the box to select the PDF file
 4. Click **Share**.
-5. Enter an email adress
+5. Enter an email address
 6. Click **Send**.
 
     {% hint style="success" %}
@@ -33,7 +33,7 @@
 
     {% hint style="success" %}
 
-    A new window opens on his device.
+    A new window opens on their device.
 
     {% endhint %}
 8. The receiver clicks the download link.

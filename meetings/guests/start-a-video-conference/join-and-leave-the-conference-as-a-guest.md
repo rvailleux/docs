@@ -33,7 +33,7 @@ You received a text message or an email with a link to join the session.
 
 {% hint style="info" %}
 
-*See also** [Change the virtual background](../configure-my-video-conference-settings/change-the-virtual-background.md)
+**See also** [Change the virtual background](../configure-my-video-conference-settings/change-the-virtual-background.md)
 
 {% endhint %}
  [+] [Show More](javascript:void%280%29)
@@ -50,7 +50,7 @@ You are in the waiting room.
 
 Wait for the organizer to allow you to enter into the session. 
 
-The organizer has been informed and he/she can send you messages to keep you informed. |
+The organizer has been informed and they can send you messages to keep you informed. |
 | --- | --- |
 
 ![](../../.gitbook/assets/FR-conf-rejoindre-guest-salle-attente-message-notif.gif)

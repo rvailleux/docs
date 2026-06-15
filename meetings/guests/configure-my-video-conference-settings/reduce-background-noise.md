@@ -1,6 +1,6 @@
 # How to activate the background Noise cancellation?
 
-You are participating to an ongoing session but some unwanted noise **in your background** is disturbing the communication.
+You are participating in an ongoing session but some unwanted noise **in your background** is disturbing the communication.
 ![](../../.gitbook/assets/Apizee-noise-cancellation.png)
 
 1. On the right, click the **Settings** tab.

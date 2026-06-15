@@ -91,7 +91,7 @@
     * [Change my status](admins/configuration-on-the-apizee-portal/configure-my-account/change-my-status.md)
     * [Choose my portal dashboard](admins/configuration-on-the-apizee-portal/configure-my-account/choose-my-portal-dashboard.md)
   * [Configure the storage lifespan of the files](admins/configuration-on-the-apizee-portal/configure-the-storage-lifespan-of-the-files.md)
-  * [Find your Api Key](admins/configuration-on-the-apizee-portal/find-your-api-key.md)
+  * [Find your API key](admins/configuration-on-the-apizee-portal/find-your-api-key.md)
   * [User roles](help-desk/configuration-on-the-apizee-portal/user-roles.md)
 * [Configure my video assistance options — Agent](admins/agent-configure-my-video-assistance-options.md)
 * [Configure my video assistance options — Guest](admins/configure-my-video-assistance-options-guest/README.md)

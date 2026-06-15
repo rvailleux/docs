@@ -29,6 +29,6 @@ The consent configuration is saved and displays on the user interface.
 
 {% hint style="info" %}
 
-*See also** [Receive an assistance invitation & call an agent](../../start-a-video-assistance/receive-an-assistance-invitation-and-call-an-agent.md)
+**See also** [Receive an assistance invitation & call an agent](../../start-a-video-assistance/receive-an-assistance-invitation-and-call-an-agent.md)
 
 {% endhint %}
