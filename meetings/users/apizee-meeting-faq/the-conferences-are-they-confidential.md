@@ -6,6 +6,6 @@ WebRTC offers encrypted flows between each entity ensuring real-time security an
 
 For this, WebRTC relies on the SRTP***\**** ****and DTLS***\*\**** protocols.
 
-*\**SRTP: Secure Real-time Transport Protocol
+**SRTP**: Secure Real-time Transport Protocol
 
-*\*\**DTLS: Datagram Transport Layer Security
+**DTLS**: Datagram Transport Layer Security

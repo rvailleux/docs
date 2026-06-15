@@ -53,5 +53,5 @@ Sometimes you need to go into your device settings to let your browser use the m
 {% hint style="info" %}
 Still having an issue?
 
-Contact the [Support](https://apizee.atlassian.net/servicedesk/customer/portals)Team.
+Contact the [Support](https://apizee.atlassian.net/servicedesk/customer/portals) Team.
 {% endhint %}
