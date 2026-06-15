@@ -1,7 +1,7 @@
 # Define the role, create a group and set the user availability
 
-* [Define a user role and activate the notifications](configure-the-agents.md)
-* [Create a user group](configure-the-agents.md)
+* [Define a user role and activate the notifications](configure-the-agents.md#define-a-user-role-and-activate-the-notifications)
+* [Create a user group](configure-the-agents.md#create-a-user-group)
 
 ##  Define a user role and activate the notifications
 
