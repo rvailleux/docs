@@ -14,16 +14,12 @@ You are the organizer of the session and you want to help a participant to share
  
 ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-additional-video.png)
 
-    {% hint style="success" %}
-
-    An invitation is sent to the participant and displays on their screen as follow:
-
-    {% endhint %}
+{% hint style="success" %}
+An invitation is sent to the participant and displays on their screen as follow:
+{% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-additional-video.png) 
 
-    {% hint style="success" %}
-
-    When accepted, a new video displays on the screen in addition to the one that was already displayed.
-
-    {% endhint %}
+{% hint style="success" %}
+When accepted, a new video displays on the screen in addition to the one that was already displayed.
+{% endhint %}

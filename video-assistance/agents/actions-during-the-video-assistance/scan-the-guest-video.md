@@ -10,11 +10,9 @@ You are an agent during an ongoing video assistance and you need to retrieve som
 
 ![](../../.gitbook/assets/EN-portail-diag-scan-processing.png)
 
-    {% hint style="success" %}
-
-    The scan result displays in the **Messages**.
-
-    {% endhint %}
+{% hint style="success" %}
+The scan result displays in the **Messages**.
+{% endhint %}
 4. Click ![](../../.gitbook/assets/button-scan-video.png)to copy the content.
 
 ![](../../.gitbook/assets/EN-portail-diag-resultat-bouton-copier.png)

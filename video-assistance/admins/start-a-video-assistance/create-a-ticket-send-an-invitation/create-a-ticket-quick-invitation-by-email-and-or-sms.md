@@ -4,11 +4,9 @@
 1. In the drop-down menu, choose the video assistance service (flow) with which you want to send the invitation.
 2. Enter the guest email, phone number or a name if you use the **Directory**.
 
-    {% hint style="info" %}
-
-    You can invite only 1 person for a video assistance.
-
-    {% endhint %}
+{% hint style="info" %}
+You can invite only 1 person for a video assistance.
+{% endhint %}
 ![](../../../.gitbook/assets/EN-Portal-Quick-invitation-home-page-assistance-1-1.png)
 3. Click **Send invitation**.
 

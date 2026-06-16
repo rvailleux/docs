@@ -19,7 +19,5 @@ Please, contact the [Support Team](https://apizee.atlassian.net/servicedesk/cust
 {% endhint %}
 
 {% hint style="info" %}
-
 **See also** [Activate the online billing](../telehealth/practitioners/configuration-on-the-apizee-portal/activate-the-online-billing/README.md).
-
 {% endhint %}

@@ -12,9 +12,7 @@ The statistics menu gives you an overview on the key figures about:
 * The **agents** performance to answer to the requests
 
 {% hint style="info" %}
-
 **See also**
-
 {% endhint %}
 * [Statistics - Sessions](statistics-sessions.md)
 * [Statistics - Survey](statistics-survey.md)

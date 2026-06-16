@@ -10,11 +10,9 @@ You are an agent and you need to:
 
 ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png)
 
-    {% hint style="success" %}
-
-    The assistance page displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The assistance page displays.
+{% endhint %}
 ![](../../.gitbook/assets/EN-portal-assistance-page-timeline-location.png)
 3. On the right hand side, under **Timeline**, check the different events.
 
@@ -112,9 +110,7 @@ In this case the guest **blocked** it. | 25 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | System changed the session status into "completed" | The status of the session automatically changed into "completed" because the **[End transfer notification delay (min)](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/end-transfer-notification-delay)** trigger is exceeded.
 
 {% hint style="info" %}
-
 **See also** [Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
-
 {% endhint %}
 {% hint style="info" %}
 **See also** [What status for my ticket?](video-assistance-ticket-status.md)
@@ -128,9 +124,7 @@ In this case the guest **blocked** it. | 25 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | The system changed the session status into “closed” | The status of the session automatically changed into "closed" because the **[Max expiration time (min)](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/max-expiration-time)** trigger is exceeded.
 
 {% hint style="info" %}
-
 **See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
-
 {% endhint %}
 {% hint style="info" %}
 **See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](video-assistance-ticket-status.md)

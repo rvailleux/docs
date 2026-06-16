@@ -27,15 +27,7 @@ We recommend to **Add a new template**, and define it as a default template.
  
 
 {% hint style="warning" %}
- 
-
- 
-
 Avoid special characters as they increase the number of SMS.  - Here is an example of special characters: | ^ € { } [ ] ~  - French special characters that reduce the SMS length to 70 characters: &#226;, &#234;, &#238;, &#244;, &#251;, &#231;, œ
- 
-
- 
-
 {% endhint %}
 | --- | --- |
 | b. | Choose a new picture that displays as a header in the message. |
@@ -45,11 +37,7 @@ Insert **Tags**to add specific information about the session.
  
 
 {% hint style="info" %}
- 
-
 Move the mouse over the tag for more information about what it displays.
- 
-
 {% endhint %}
 | e. | This logo is customizable under the name of **Rectangular logo**:
  
@@ -60,11 +48,5 @@ Move the mouse over the tag for more information about what it displays.
   
 
 {% hint style="info" %}
-
-  
-
 **See also** https://doc.apizee.com/smart/project-diag-help-desk/attach-a-report-to-the-ticket[Customize the interface](../customize-the-interface.md)
-
-  
-
 {% endhint %}

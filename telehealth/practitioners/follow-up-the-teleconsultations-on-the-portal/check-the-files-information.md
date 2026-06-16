@@ -10,18 +10,14 @@ That will help you find faster the session you are looking for.
 
  ![](../../.gitbook/assets/EN-portal-teleconsultation-edit-teleconsultation-page.png)
 
-    {% hint style="success" %}
-
-    The page of the session displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The page of the session displays.
+{% endhint %}
 4. Under **Shared files**, move your mouse over the file you are intersted in and click ![](../../.gitbook/assets/Button-file-information.png). 
  
  ![](../../.gitbook/assets/EN-portal-sessions-page-shared-files.png) 
 
-    {% hint style="success" %}
-
-    The information display.
-
-    {% endhint %}
+{% hint style="success" %}
+The information display.
+{% endhint %}
  ![](../../.gitbook/assets/EN-portail-geoloc-info-image.png)

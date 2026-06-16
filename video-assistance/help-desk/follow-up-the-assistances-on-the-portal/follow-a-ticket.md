@@ -19,9 +19,7 @@ The page of the ticket displays. You can find the following information:
 | c. | Assignement |  -  Person in charge of the ticket.  -  Assistance report.   |  -  Click the **Assign to** drop-down menu to assign the ticket to another person.  -  Click **Choose File**&#160;to upload the assistance report.   
 
 {% hint style="info" %}
-
 **See also** [Attach a report to the ticket](attach-a-report-to-the-ticket.md)
-
 {% endhint %}
 | d. | Shared media | Files shared during the assistance.
  

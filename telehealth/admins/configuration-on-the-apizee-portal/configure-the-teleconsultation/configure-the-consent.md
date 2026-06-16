@@ -28,7 +28,5 @@ The consent configuration is saved and displays on the user interface.
 ![](../../../.gitbook/assets/EN-consent-configuration-result.png)
 
 {% hint style="info" %}
-
 **See also** [Join and leave the teleconsultation as a patient](../../start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-patient.md)
-
 {% endhint %}

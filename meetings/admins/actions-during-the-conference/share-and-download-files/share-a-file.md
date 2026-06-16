@@ -8,19 +8,15 @@
 1. On the right, clique the **Messages**tab ![](../../../.gitbook/assets/message-button.png)
 2. At the bottom, next to the message field, click the **paper clip** button ![](../../../.gitbook/assets/paper-clip-button.png)
 
-    {% hint style="success" %}
-
-    The file explorer opens on your screen.
-
-    {% endhint %}
+{% hint style="success" %}
+The file explorer opens on your screen.
+{% endhint %}
 ![](../../../.gitbook/assets/EN-conf-messages-tab-share-file-button.png)
 3. Choose a file and click **Open**. 
 
-    {% hint style="success" %}
-
-    When the file is uploaded, it displays in the **Messages**.
-
-    {% endhint %}
+{% hint style="success" %}
+When the file is uploaded, it displays in the **Messages**.
+{% endhint %}
  ![](../../../.gitbook/assets/EN-conf-orga-messages-file-shared.png)
 
 {% hint style="success" %}
@@ -42,32 +38,24 @@ That will help you find faster the session you are looking for.
  
  ![](../../../.gitbook/assets/EN-portal-conf-edit-conference-page.png) 
 
-    {% hint style="success" %}
-
-    The page displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The page displays.
+{% endhint %}
 4. Under **Shared files**, choose the files and click **Share**. 
  
  ![](../../../.gitbook/assets/EN-portal-conf-page-sharing-file-again.png) 
 
-    {% hint style="success" %}
-
-    A window displays with the contacts of the guests that were invited during the session.
-
-    {% endhint %}
+{% hint style="success" %}
+A window displays with the contacts of the guests that were invited during the session.
+{% endhint %}
 5. Click **Send**. 
 
-    {% hint style="success" %}
-
-    The **Sharing history** indicates the number of files shared and the remaining time before the link expires.
-
-    {% endhint %}
+{% hint style="success" %}
+The **Sharing history** indicates the number of files shared and the remaining time before the link expires.
+{% endhint %}
  ![](../../../.gitbook/assets/EN-portal-conf-page-sharing-history.png) 
 
-    {% hint style="success" %}
-
-    The persons to whom you shared the files receive a message with a new download link.
-
-    {% endhint %}
+{% hint style="success" %}
+The persons to whom you shared the files receive a message with a new download link.
+{% endhint %}
  ![](../../../.gitbook/assets/EN-conf-message-files-shared-again.png)

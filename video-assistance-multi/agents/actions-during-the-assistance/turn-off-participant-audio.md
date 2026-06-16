@@ -9,9 +9,7 @@ Someone's noise is bothering you and you want to cut this participant audio, but
 
 ![](../../.gitbook/assets/EN-conf-dots-participant-option-turn-off-audio-guest-view.png)
 
-    {% hint style="success" %}
-
-    You do not hear anymore the participant. But the other participants still hear that person.
-
-    {% endhint %}
+{% hint style="success" %}
+You do not hear anymore the participant. But the other participants still hear that person.
+{% endhint %}
 3. Click the button again to activate the participant audio.

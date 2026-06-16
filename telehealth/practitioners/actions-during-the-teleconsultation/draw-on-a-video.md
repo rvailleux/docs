@@ -4,19 +4,15 @@ Drawing on a video can be **launched by the organizer** of the session only.
 
 1. If you are an organizer, click ![](../../.gitbook/assets/button-draw-on-video.png)on the interlocutor video. 
 
-    {% hint style="success" %}
-
-    The video whiteboard opens. It displays on the interlocutor screen as well.
-
-    {% endhint %}
+{% hint style="success" %}
+The video whiteboard opens. It displays on the interlocutor screen as well.
+{% endhint %}
 2. For more visibility, hide the videos at the bottom of the screen.
 3. Draw on the video. All the participants can watch your annotations. They can participate and draw as well. 
 
-    {% hint style="info" %}
-
-    The lines progressively disappear after a few seconds.
-
-    {% endhint %}
+{% hint style="info" %}
+The lines progressively disappear after a few seconds.
+{% endhint %}
  ![](../../.gitbook/assets/conf-draw-on-video-button.gif)
 4. On the right, click the circle to change the color or the thickness of the line. 
  

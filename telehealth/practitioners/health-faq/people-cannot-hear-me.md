@@ -47,7 +47,6 @@ Sometimes you need to go into your device settings to let your browser use the m
 {% hint style="info" %}
 
 **See also** [Allow the Web browser to access the camera and the microphone on my computer](allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
-
 {% endhint %}
 {% endhint %}
 {% hint style="info" %}

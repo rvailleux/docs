@@ -16,11 +16,9 @@ Turning the flashlight on is unavailable while recording the session.
  
  ![](../../.gitbook/assets/EN-Diag-portal-agent-turn-light-on.png) 
 
-    {% hint style="success" %}
-
-    The flashlight of the guest mobile phone is on.
-
-    {% endhint %}
+{% hint style="success" %}
+The flashlight of the guest mobile phone is on.
+{% endhint %}
 3. To turn the light off, click ![](../../.gitbook/assets/light-button.png)
 
 {% hint style="success" %}

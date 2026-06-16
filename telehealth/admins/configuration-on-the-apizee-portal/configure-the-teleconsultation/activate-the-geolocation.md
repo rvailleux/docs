@@ -22,7 +22,5 @@ If the guest **allows**, then the location information is available in the**shar
 ![](../../../.gitbook/assets/EN-portail-geoloc-info-image.png)
 
 {% hint style="info" %}
-
 **See also** [Check the files information](../../follow-up-the-teleconsultations-on-the-portal/check-the-files-information.md)
-
 {% endhint %}

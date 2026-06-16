@@ -9,11 +9,9 @@ That will help you find faster the session you are looking for.
  
  ![](../../.gitbook/assets/EN-portal-teleconsultation-edit-teleconsultation-page.png) 
 
-    {% hint style="success" %}
-
-    The page displays with the following information:
-
-    {% endhint %}
+{% hint style="success" %}
+The page displays with the following information:
+{% endhint %}
 ![](../../.gitbook/assets/EN-portal-conf-conference-page.png)
 
 ##  General information
@@ -56,7 +54,5 @@ The appointment time must not be exceeded.
 For more information about sending a new invitation:
 
 {% hint style="info" %}
-
 **See also** [Send a new invitation for the same session](send-new-invitation-for-same-session.md)
-
 {% endhint %}

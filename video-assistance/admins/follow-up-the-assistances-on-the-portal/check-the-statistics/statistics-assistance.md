@@ -6,11 +6,9 @@ Easily analyze the assistance sessions thanks to the key figures and the diagram
 
 ![](../../../.gitbook/assets/EN-portal-menu-stats-assistance.png)
 
-    {% hint style="success" %}
-
-    The statistic page displays
-
-    {% endhint %}
+{% hint style="success" %}
+The statistic page displays
+{% endhint %}
 2. Click the calendar drop-down menu (a) to display the statistics for a given period.
 
 ![](../../../.gitbook/assets/EN_see_ticket_statistics_calendar.png)

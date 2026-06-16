@@ -7,11 +7,9 @@ You are an administrator and you are logged in to your account.
  
  ![](../../../.gitbook/assets/EN-portal-create-user-add-a-user-button.png) 
 
-    {% hint style="success" %}
-
-    This window displays:
-
-    {% endhint %}
+{% hint style="success" %}
+This window displays:
+{% endhint %}
  ![](../../../.gitbook/assets/EN-portal-Create-user-window.png)
 
 Choose a way to create an account:

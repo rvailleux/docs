@@ -11,11 +11,9 @@ You are the organizer of the session and you want to help a participant to share
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-file.png) 
 
-    {% hint style="success" %}
-
-    An invitation is sent to the participant and displays on their screen as follow:
-
-    {% endhint %}
+{% hint style="success" %}
+An invitation is sent to the participant and displays on their screen as follow:
+{% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-file.png) 
 

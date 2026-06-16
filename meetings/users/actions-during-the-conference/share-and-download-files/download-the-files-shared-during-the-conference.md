@@ -43,19 +43,15 @@ If you want to, you can download those same files on another device. Interested?
  
  ![](../../../.gitbook/assets/EN-conf-end-of-session-page-download-files-on-another-device-enter-address.png)
 
-    {% hint style="success" %}
-
-    A new message is sent on your email address
-
-    {% endhint %}
+{% hint style="success" %}
+A new message is sent on your email address
+{% endhint %}
 3. From the other device, open the new message you have been sent on the email address given below.
 4. Click the link in the message. 
 
-    {% hint style="success" %}
-
-    The end of session page opens with the shared files on the right.
-
-    {% endhint %}
+{% hint style="success" %}
+The end of session page opens with the shared files on the right.
+{% endhint %}
 ## After the session in the portal
 
 {% hint style="info" %}
@@ -70,11 +66,9 @@ That will help you find faster the session you are looking for.
  
  ![](../../../.gitbook/assets/EN-portal-conf-edit-conference-page.png) 
 
-    {% hint style="success" %}
-
-    The page displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The page displays.
+{% endhint %}
 4. Under **Shared files**, select the file you want and click **Download**. 
  
  ![](../../../.gitbook/assets/EN-portal-conf-page-download-file-after-session.png)

@@ -10,8 +10,6 @@ You are participating in an ongoing session and you want to share another camera
  
  ![](../../.gitbook/assets/EN-conf-menu-action-guest-share-additional-camera.png) 
 
-    {% hint style="success" %}
-
-    A new video displays on the screen in addition to the one that was already displayed.
-
-    {% endhint %}
+{% hint style="success" %}
+A new video displays on the screen in addition to the one that was already displayed.
+{% endhint %}

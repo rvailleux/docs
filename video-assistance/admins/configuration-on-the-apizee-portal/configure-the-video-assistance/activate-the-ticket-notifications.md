@@ -49,9 +49,7 @@ The agent sent an invitation for an assistance. For some reason, the assistance 
 or- In the assistance page, the agent clicked **Cancel session**.
 
 {% hint style="info" %}
-
 **See also** [Cancel a session](../../follow-up-the-assistances-on-the-portal/cancel-a-session.md)
-
 {% endhint %}
 | Ticket rejected | Notify the requester that the assistance request is rejected. | Agent | Requester | Prerequisite:
  

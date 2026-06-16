@@ -18,11 +18,9 @@ Stripe is a securized payment platform.
  
  ![](../../../.gitbook/assets/EN-portal-activating-online-billing-user-account-billing-tab-create-stripe-profile.png) 
 
-    {% hint style="success" %}
-
-    You are being directed to **Stripe** Website.
-
-    {% endhint %}
+{% hint style="success" %}
+You are being directed to **Stripe** Website.
+{% endhint %}
 ##  Personal information
 
 * * *

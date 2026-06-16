@@ -10,13 +10,9 @@ You are participating in an ongoing session and you want to switch your camera.
  
  ![](../../.gitbook/assets/EN-conf-menu-action-guest-switch-camera.png) 
 
-    {% hint style="success" %}
-
-    The video of a different camera displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The video of a different camera displays.
+{% endhint %}
 {% hint style="info" %}
-
 **See also** [Audio & video settings](../configure-my-video-conference-settings/audio-video-settings.md)
-
 {% endhint %}

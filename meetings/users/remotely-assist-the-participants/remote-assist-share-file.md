@@ -11,11 +11,9 @@ You are the organizer of the session and you want to help a participant to share
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-file.png) 
 
-    {% hint style="success" %}
-
-    An invitation is sent to the participant and displays on their screen as follow:
-
-    {% endhint %}
+{% hint style="success" %}
+An invitation is sent to the participant and displays on their screen as follow:
+{% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-file.png) 
 
@@ -25,7 +23,5 @@ Once downloaded, the files displays in the **Messages** tab. |
     | --- | --- |
 
 {% hint style="info" %}
-
 The participant can do this action by himself.**See also** [Share a file](../actions-during-the-conference/share-and-download-files/share-a-file.md)
-
 {% endhint %}

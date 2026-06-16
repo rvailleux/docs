@@ -15,11 +15,9 @@ OR
  
  ![](../../.gitbook/assets/EN-conf-send-message-participant-before-entering-session.png) 
 
-        {% hint style="success" %}
-
-        The message displays on the guest window:
-
-        {% endhint %}
+{% hint style="success" %}
+The message displays on the guest window:
+{% endhint %}
  ![](../../.gitbook/assets/EN-conf-guest-notification-waiting-room.png)
 3. When you are ready, click **Allow**.
 

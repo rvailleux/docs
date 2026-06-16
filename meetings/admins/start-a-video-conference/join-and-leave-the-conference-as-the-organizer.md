@@ -25,9 +25,7 @@ If you want it, you can turn off the microphone and the camera before joining th
  ![](../../.gitbook/assets/apizee-background.png)**Want to change your background?**
 
 {% hint style="info" %}
-
 **See also** [Change the virtual background](../configure-my-video-conference-settings/change-the-virtual-background.md)
-
 {% endhint %}
 {% hint style="success" %}
 Wait for the guest to connect to the session.

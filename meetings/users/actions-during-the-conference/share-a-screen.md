@@ -15,9 +15,7 @@ This option may depend on your Web browser.
  ![](../../.gitbook/assets/EN-conf-share-screen-web-browser.png)
 5. Click **Share**. 
 
-    {% hint style="success" %}
-
-    The screen sharing starts.
-
-    {% endhint %}
+{% hint style="success" %}
+The screen sharing starts.
+{% endhint %}
 6. To stop the screen sharing, click **Share my screen** button again.

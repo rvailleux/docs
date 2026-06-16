@@ -15,11 +15,9 @@ You received a text message or an email with a link to join the session.
  
  ![](../../.gitbook/assets/EN-teleconsultation-join-with-security-code.png) 
 
-    {% hint style="info" %}
-
-    If no code is asked to you then, follow the next step.
-
-    {% endhint %}
+{% hint style="info" %}
+If no code is asked to you then, follow the next step.
+{% endhint %}
 3. Tick the boxes to agree to the terms then, click **Confirm.**
 
 ![](../../.gitbook/assets/EN-teleconsultation-join-session-consent-optin-confirm-click.png)

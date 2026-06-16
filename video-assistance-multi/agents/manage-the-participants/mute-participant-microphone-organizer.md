@@ -11,9 +11,7 @@ You are the organizer of the session and you want to mute a participant in parti
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-mute-participant.png) 
 
-    {% hint style="success" %}
-
-    The participant microphone is deactivated. Nobody can hear the participant.
-
-    {% endhint %}
+{% hint style="success" %}
+The participant microphone is deactivated. Nobody can hear the participant.
+{% endhint %}
 5. Click the button again to unmute and activate the participant microphone.

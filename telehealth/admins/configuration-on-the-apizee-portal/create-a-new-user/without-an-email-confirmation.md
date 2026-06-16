@@ -10,7 +10,5 @@ The account is created.
 {% endhint %}
 
 {% hint style="info" %}
-
 **See also** [Log in to the Apizee portal for the first time - login and password](../../log-in-to-the-apizee-portal-for-the-first-time.md#a-login-and-a-password)
-
 {% endhint %}

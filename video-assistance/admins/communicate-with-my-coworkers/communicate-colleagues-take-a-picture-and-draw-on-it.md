@@ -8,20 +8,16 @@ You are an agent during an ongoing assistance session.
  
  ![](../../.gitbook/assets/EN-Diag-portal-agent-local-shared-annotation-open-whiteboard.png) 
 
-    {% hint style="success" %}
-
-    The picture displays in the whiteboard.
-
-    {% endhint %}
+{% hint style="success" %}
+The picture displays in the whiteboard.
+{% endhint %}
  ![](../../.gitbook/assets/Diag-portal-agent-whiteboard.png)
 4. Choose a **color**and a shape (**pen**, **arrow**, **circle**, **rectangle**) and draw on the picture. 
 You can also annotate it with **Text**. 
 
-    {% hint style="info" %}
-
-    Do not forget to Save your work. Click ![](../../.gitbook/assets/button-save.png)
-
-    {% endhint %}
+{% hint style="info" %}
+Do not forget to Save your work. Click ![](../../.gitbook/assets/button-save.png)
+{% endhint %}
  ![](../../.gitbook/assets/EN-Diag-whiteboard-options.png)
 
 | a. | Move around the picture |

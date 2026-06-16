@@ -14,16 +14,12 @@ You are the organizer of the session and you want to help a participant to share
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-share-screen.png) 
 
-    {% hint style="success" %}
-
-    An invitation is sent to the participant and displays on their screen as follow:
-
-    {% endhint %}
+{% hint style="success" %}
+An invitation is sent to the participant and displays on their screen as follow:
+{% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-screen.png) 
 
-    {% hint style="success" %}
-
-    When accepted, you can see the screen they share.
-
-    {% endhint %}
+{% hint style="success" %}
+When accepted, you can see the screen they share.
+{% endhint %}

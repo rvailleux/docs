@@ -4,11 +4,9 @@ You are an administrator.
 
 1. In the left-hand menu, click the assistance service type for which you want to configure the options. 
 
-    {% hint style="info" %}
-
-    The assistance services have this pictogram before their name: ![](../../../.gitbook/assets/ticket-picto.png)
-
-    {% endhint %}
+{% hint style="info" %}
+The assistance services have this pictogram before their name: ![](../../../.gitbook/assets/ticket-picto.png)
+{% endhint %}
 2. Click the **Configuration** tab. 
  
  ![](../../../.gitbook/assets/EN-portal-service-configuration-tab.png)
@@ -40,13 +38,7 @@ The test is visible for the agent only. |
  
 
 {% hint style="warning" %}
-
- 
-
 This option is not available if [Quickly join the session](customize-the-tickets.md#quickly-join-session) is activated.
-
- 
-
 {% endhint %}
 | Join without microphone | Enter the assistance session without audio (micro muted for the agent and the requester). |
 | Agent joins without camera | The agent will join the session without camera. It is possible to activate it during the session. |
@@ -62,11 +54,7 @@ The picture taken with the mobile camera has a better quality than a remote sna
  
 
 {% hint style="warning" %}
- 
-
 This feature is available on mobile phone and tablet only.
- 
-
 {% endhint %}
 | Change status to **Expired** | If the requester does not click on the link in the assistance invitation message, then the ticket is **Expired**.
  

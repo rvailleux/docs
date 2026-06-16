@@ -10,8 +10,6 @@ An email is sent to the new user with a validation link and a login.
 {% endhint %}
 
 {% hint style="info" %}
-
 **See also** [Log in to Apizee portal for the first time - validation link and login](../../meeting-log-in-to-the-apizee-portal-for-the-first-time.md#a-validation-link-and-a-login)
-
 {% endhint %}
 [Next: Without email confirmation](create-new-user-without-an-email-confirmation.md)

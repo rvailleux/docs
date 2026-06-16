@@ -1,9 +1,7 @@
 #  How to switch my camera during a video assistance?
 
 {% hint style="info" %}
-
 Available only if the participant has **several cameras** on their device.
-
 {% endhint %}
 {% hint style="info" %}
 You are participating in an ongoing session as a guest and you want to switch your camera.

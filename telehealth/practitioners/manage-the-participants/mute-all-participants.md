@@ -12,9 +12,7 @@ You are the organizer of the session and you want to mute everyone's microphone.
  
  ![](../../.gitbook/assets/EN-conf-menu-action-organizer-all-microphones-off.png) 
 
-    {% hint style="success" %}
-
-    Every participants are muted now. The organizer is the only one that can be heard.
-
-    {% endhint %}
+{% hint style="success" %}
+Every participants are muted now. The organizer is the only one that can be heard.
+{% endhint %}
 4. Click the button again to activate all the microphones.

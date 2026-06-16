@@ -19,16 +19,12 @@ To edit the guest contact:
 - Click **Immediate** or **Scheduled**.- Click **Save**.- Click **Invite again**.- Follow the steps on the screen to send a new invitation for the same assistance to your guest.
 
 {% hint style="success" %}
-
 The guest receives a message with the new information.
-
 {% endhint %}
 | c. | Assignement |  -  Person in charge of the ticket.  -  Assistance report.   |  -  Click the **Assign to** drop-down menu to assign the ticket to another person.  -  Click **Choose File**&#160;to upload the assistance report.   
 
 {% hint style="info" %}
-
 **See also** [Attach a report to the ticket](attach-a-report-to-the-ticket.md)
-
 {% endhint %}
 | d. | Shared files | Files shared during the assistance.
  
@@ -58,9 +54,7 @@ This page shows all the information (pictures, videos,...) and the conversations
 | g. | Timeline | Real time timeline of the assistance |  -  Check the timeline to find out **where the guest is** in the different steps to join the assistance  - Retrieve the **events **of the assistance and the **time **it happened. - Quick **sum up** of the assistance 
 
 {% hint style="info" %}
-
 **See also** [What is the Timeline for?](what-is-timeline-for.md)
-
 {% endhint %}
 | i. | Buttons for several actions | -   <span>Join the session </span> -  Save your changes -  Download the information into PDF format -  Reinvite the guest -  Change the ticket status  | - **Save** the edited information added in the **Ticket request** part.- Need to retrieve the assistance information? <a href="export-session-information-into-pdf.md" target="_blank">Export into a PDF file</a>.- Click **Edit** to <a href="send-new-invitation-for-same-session.md" target="_blank">send a new invitation</a> to this assistance. The guest will receive a new invitation message with the link to join the session.- Change the session status, click:<li>**Complete session**. If needed the agent can still reinvite the guest.- **<a href="cancel-a-session.md" target="_blank">Cancel session</a>**- **Close session**- **Delete session**. Once deleted, the session disappears.<table class="seeAlso" cellspacing="0" cellpadding="0"> <tbody> <tr> <td class="seeAlsoImageCell "><img src="../../.gitbook/assets/Apizee-see-also-icon.png"> </td> <td>  **See also&#160;**&#160;<a href="video-assistance-ticket-status.md" target="_blank">What status for my ticket?</a> 
  </td> </tr> </tbody>

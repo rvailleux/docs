@@ -14,18 +14,14 @@ Easily analyze, track the progress and the use of all the calls, thanks to the k
 OR
     * Choose a **starting date** then, an **ending date** in the calendar. 
 
-        {% hint style="info" %}
-
-        You can display the results for a maximum time of 6 months.
-
-        {% endhint %}
+{% hint style="info" %}
+You can display the results for a maximum time of 6 months.
+{% endhint %}
 7. Click **Display**. 
 
-    {% hint style="success" %}
-
-    The results display below.
-
-    {% endhint %}
+{% hint style="success" %}
+The results display below.
+{% endhint %}
 8. Click **Export** to export the result of the search in csv format. 
  
  ![](../../../.gitbook/assets/EN-portal-conf-stats-session-page.png)

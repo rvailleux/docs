@@ -4,11 +4,9 @@ You are an administrator.
 
 1. In the left-hand menu, click the assistance service type for which you want to configure the options. 
 
-    {% hint style="info" %}
-
-    The assistance services have this pictogram before their name: ![](../../../.gitbook/assets/ticket-picto.png)
-
-    {% endhint %}
+{% hint style="info" %}
+The assistance services have this pictogram before their name: ![](../../../.gitbook/assets/ticket-picto.png)
+{% endhint %}
 2. Click the **Configuration** tab. 
  
  ![](../../../.gitbook/assets/EN-portal-service-configuration-tab.png)

@@ -14,7 +14,5 @@ If you have several services in the left-hand menu, note that you can configure 
 ![](../../.gitbook/assets/Portal-quick-invitation-conference-or-video-assistance.png)
 
 {% hint style="info" %}
-
 **See also** [Send a quick invitation](../start-a-video-conference/send-a-quick-invitation.md)
-
 {% endhint %}

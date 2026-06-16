@@ -18,11 +18,9 @@ From the [Apizee Pricing page](https://www.apizee.com/solutions-pricing/), click
  
  ![](../.gitbook/assets/EN-portal-subscribing-name-address-capcha.png)
 
-    {% hint style="success" %}
-
-    The subscription is saved. You will receive a message.
-
-    {% endhint %}
+{% hint style="success" %}
+The subscription is saved. You will receive a message.
+{% endhint %}
 6. Click **I understand**. 
  
  ![](../.gitbook/assets/EN-subscribing-i-understand.png)
@@ -33,18 +31,14 @@ From the [Apizee Pricing page](https://www.apizee.com/solutions-pricing/), click
  
  ![](../.gitbook/assets/EN-portal-subscribing-enter-password-twice.png)
 
-    {% hint style="success" %}
-
-    You are logged in to your account.
-
-    {% endhint %}
+{% hint style="success" %}
+You are logged in to your account.
+{% endhint %}
 9. Choose the type of subscription you want then, click **Confirm**. 
 
-    {% hint style="success" %}
-
-    The payment process starts.
-
-    {% endhint %}
+{% hint style="success" %}
+The payment process starts.
+{% endhint %}
 10. Enter your information, tick the box **I accept the general condition of sale** and click **Next**. 
  
  ![](../.gitbook/assets/EN-portal-subscribing-billing-information.png)
@@ -55,11 +49,9 @@ From the [Apizee Pricing page](https://www.apizee.com/solutions-pricing/), click
  
  ![](../.gitbook/assets/EN-portal-subscribing-confirmation-payment.png)
 
-    {% hint style="success" %}
-
-    The payment is completed.
-
-    {% endhint %}
+{% hint style="success" %}
+The payment is completed.
+{% endhint %}
     | ![Information](../.gitbook/assets/info.png) | You can follow up the invoices and check the renewals: 
 On the left-hand menu, click **Company**then, click **Invoices**. |
     | --- | --- |

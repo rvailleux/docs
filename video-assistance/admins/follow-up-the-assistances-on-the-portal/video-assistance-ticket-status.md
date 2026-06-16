@@ -30,11 +30,7 @@ or
  
 
 {% hint style="info" %}
- 
-
 The agent can invite the guest again, change the date and time of the video assistance.
- 
-
 {% endhint %}
 | **Canceled** | The session can be **Canceled**  **** by an agent when the status is:
 - **Open**- **Invitation pending**- **Invitation accepted**- **In progress**
@@ -44,25 +40,17 @@ When a session is canceled it is as if it was closed. You cannot invite the gues
    
 
 {% hint style="info" %}
-   
-
 The agent still can invite the guest again if the expiration time is over 0.
-   
-
 {% endhint %}
 | **In progress** | The video assistance started between the agent and the guest. |
 | **Done (Completed)** | Here are the ways a ticket can change to **Done (Completed)**:  -  The guest or the agent clicked **Done**.  -  If the satisfaction survey is activated, the ticket changes from **In progress** to **Done** when the guest clicks **Send **after answering to the satisfaction survey.  -  If the guest or the agent hung up and the&#160;**End transfer notification delay**&#160;is exceeded, the ticket status changes automatically into **Done**.  - If the guest sent files when no agent was available and the&#160;**End transfer notification delay**&#160;is exceeded, the ticket status changes automatically into **Done**.   
 
 {% hint style="info" %}
-
 *[Time trigger - Change status to Completed](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#end-transfer-notification-delay "Check the article about the configuration of this trigger")**is configured by the administrator.
-
 {% endhint %}
 | **Closed** | Here are the ways a ticket can change to **Closed**:
   -  The agent clicked **Close**.  -  If the guest did not click the link in the invitation after a certain amount of time. The time is configured by the administrator (**<a href="customize-the-tickets.md#max-expiration-time" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Closed after expiration</a>**).   |
 
 {% hint style="info" %}
-
 **See also** [Customize the tickets](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
-
 {% endhint %}

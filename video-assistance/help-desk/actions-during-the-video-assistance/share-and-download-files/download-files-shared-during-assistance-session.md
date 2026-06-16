@@ -28,11 +28,9 @@ or
 
 1. Click the link of the public page. 
 
-    {% hint style="success" %}
-
-    The page displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The page displays.
+{% endhint %}
 2. Scroll down the page to **Shared media**. 
  
  ![](../../../.gitbook/assets/EN-Diag-guest-public-page.png)
@@ -40,11 +38,9 @@ or
  
  ![](../../../.gitbook/assets/EN-Diag-guest-public-page-images.png) 
 
-    {% hint style="success" %}
-
-    The picture opens wide.
-
-    {% endhint %}
+{% hint style="success" %}
+The picture opens wide.
+{% endhint %}
 4. Press and hold on the picture and click **Save image as...   ![](../../../.gitbook/assets/EN-Diag-guest-save-image-as.png)**
 
 # After the session in the portal
@@ -59,11 +55,9 @@ You are logged in to you account.
 
  ![](../../../.gitbook/assets/EN-portal-service-assistance-edit-ticket-eac5eada.png)
 
-    {% hint style="success" %}
-
-    The page displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The page displays.
+{% endhint %}
 3. Under **Shared files**, select the file you want and click **Download**.
 
 ![](../../../.gitbook/assets/EN-Diag-portal-ticket-page-download-file-after-session-dc7a7dfd.png)

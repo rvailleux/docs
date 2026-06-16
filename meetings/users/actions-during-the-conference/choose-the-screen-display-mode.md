@@ -10,11 +10,9 @@ Switch to full screen to concentrate on the interlocutor video.
 
 1. On the video, click ![](../../.gitbook/assets/button-full-screen-mode.png) 
 
-    {% hint style="success" %}
-
-    The video displays as:
-
-    {% endhint %}
+{% hint style="success" %}
+The video displays as:
+{% endhint %}
  ![](../../.gitbook/assets/conf-fullscreen-result.png)
 2. To deactivate the full screen, click ![](../../.gitbook/assets/button-full-screen-mode-deactivate.png)
 
@@ -35,10 +33,8 @@ If you need to follow the session and watch at the same time another window, the
 
 1. On the video, click ![](../../.gitbook/assets/button-picture-in-picture-mode.png) 
 
-    {% hint style="success" %}
-
-    Your interlocutor video displays at the bottom of the screen:
-
-    {% endhint %}
+{% hint style="success" %}
+Your interlocutor video displays at the bottom of the screen:
+{% endhint %}
  ![](../../.gitbook/assets/conf-picture-in-picture-result.png)
 2. To deactivate the picture- in-picture, click ![](../../.gitbook/assets/button-picture-in-picture-deactivate.png)

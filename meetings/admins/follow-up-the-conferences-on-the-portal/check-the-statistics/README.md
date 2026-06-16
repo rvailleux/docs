@@ -11,9 +11,7 @@ The statistics menu gives you an overview on the key figures about:
 * All the **surveys** responses
 
 {% hint style="info" %}
-
 **See also**
-
 {% endhint %}
 * [Statistics - Sessions](statistics-sessions.md)
 * [Statistics - Survey](statistics-survey.md)

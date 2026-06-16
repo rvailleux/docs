@@ -14,21 +14,15 @@ You are the organizer of the session and you want to help a participant to chang
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-switch-camera.png) 
 
-    {% hint style="success" %}
-
-    An invitation is sent to the participant and displays on their screen as follow:
-
-    {% endhint %}
+{% hint style="success" %}
+An invitation is sent to the participant and displays on their screen as follow:
+{% endhint %}
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-switch-camera.png) 
 
-    {% hint style="success" %}
-
-    When accepted, the video of a different camera displays.
-
-    {% endhint %}
+{% hint style="success" %}
+When accepted, the video of a different camera displays.
+{% endhint %}
 {% hint style="info" %}
-
 The participant can do this action by himself.**See also** [Switch camera](../actions-during-the-conference/switch-camera.md)
-
 {% endhint %}

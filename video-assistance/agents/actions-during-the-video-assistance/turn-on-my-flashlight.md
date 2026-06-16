@@ -13,9 +13,7 @@ You want to turn on the flashlight on the back of your phone.
 
 ![](../../.gitbook/assets/Diag-guest-turn-on-light.png)
 
-    {% hint style="success" %}
-
-    The flash on the back of your mobile phone is on.
-
-    {% endhint %}
+{% hint style="success" %}
+The flash on the back of your mobile phone is on.
+{% endhint %}
 2. To turn the light off, click ![](../../.gitbook/assets/light-button.png)

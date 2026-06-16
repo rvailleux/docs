@@ -13,8 +13,6 @@ You want to zoom in or out on this participant video.
  
  ![](../../.gitbook/assets/EN-conf-menu-action-orga-guests-tab-zoom.png) 
 
-    {% hint style="success" %}
-
-    See the result on the participant video.
-
-    {% endhint %}
+{% hint style="success" %}
+See the result on the participant video.
+{% endhint %}

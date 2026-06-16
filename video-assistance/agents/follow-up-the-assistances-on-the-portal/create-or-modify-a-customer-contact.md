@@ -5,11 +5,9 @@ To edit the guest contact:
 
 ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png)
 
-    {% hint style="success" %}
-
-    The page of the ticket displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The page of the ticket displays.
+{% endhint %}
 3. Click **Edit this contact**
 4. Change the information you want then,
 5. Click **Save**.

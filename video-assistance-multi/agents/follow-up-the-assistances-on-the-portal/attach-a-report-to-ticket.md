@@ -5,11 +5,9 @@
  
 ![](../../.gitbook/assets/EN-portal-service-assistance-edit-ticket.png)
 
-    {% hint style="success" %}
-
-    The ticket page displays.
-
-    {% endhint %}
+{% hint style="success" %}
+The ticket page displays.
+{% endhint %}
 3. Go to the **Assignment** menu, in **Attach report**. 
 
     | ![](../../.gitbook/assets/tip.png) | If your company configured a report template, this message displays: **You can download a report template**
