@@ -52,6 +52,5 @@ The payment process starts.
 {% hint style="success" %}
 The payment is completed.
 {% endhint %}
-    | ![Information](../.gitbook/assets/info.png) | You can follow up the invoices and check the renewals: 
-On the left-hand menu, click **Company**then, click **Invoices**. |
+| ![Information](../.gitbook/assets/info.png) | You can follow up the invoices and check the renewals: <br> On the left-hand menu, click **Company**then, click **Invoices**. |
     | --- | --- |

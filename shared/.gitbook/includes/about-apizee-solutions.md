@@ -50,23 +50,12 @@ The compatibility data below is pending review against current OS and browser ve
 
 | OS | Version | Characteristics |
 | :--- | :--- | :--- |
-| Windows | 8, 10 & 11 | Intel Core 2 Duo 4GB RAM  
-Recommended: I5 quad-core 8GB RAM |
+| Windows | 8, 10 & 11 | Intel Core 2 Duo 4GB RAM <br> Recommended: I5 quad-core 8GB RAM |
 | macOS | 10.15+ | All Macs since 2012 |
 | iOS | 12+ | iPhone 6s, iPad Air 2 |
-| Android | 7+ | ARM or x86 Dual-core 3GB RAM  
-Recommended: octo-core 6GB RAM |
-| Bandwidth | -- | 300kb/s – 2.4MB/s  
-Recommended: 4G |
-| Camera | -- | All  
-Recommended: 720p/1080p |
-
-![](../../.gitbook/assets/Apizee-configuration-system.png)
-
-## Compatible Web browsers
-
-We recommend that you use the following Web browsers for a better experience with our solutions:
-
+| Android | 7+ | ARM or x86 Dual-core 3GB RAM <br> Recommended: octo-core 6GB RAM |
+| Bandwidth | -- | 300kb/s – 2.4MB/s <br> Recommended: 4G |
+| Camera | -- | All <br> Recommended: 720p/1080p | <br><br> ![](../../.gitbook/assets/Apizee-configuration-system.png) <br><br> ## Compatible Web browsers <br><br> We recommend that you use the following Web browsers for a better experience with our solutions: <br><br>
 | Chrome | Firefox | Opera | Edge | Safari | Samsung Internet |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![](../../.gitbook/assets/chrome.svg) | ![](../../.gitbook/assets/firefox.svg) | ![](../../.gitbook/assets/opera.svg) | ![](../../.gitbook/assets/edge-new.svg) | ![](../../.gitbook/assets/safari.svg) | ![](../../.gitbook/assets/samsung-internet.svg) |

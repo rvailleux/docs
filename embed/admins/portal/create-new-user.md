@@ -11,9 +11,7 @@
 7. Enter the **email address**.
 8. Click **Create**.
 
-    | ![](../../.gitbook/assets/ok.png) | The user is created.
-
-The new user receives an email with a link to create a password. |
+| ![](../../.gitbook/assets/ok.png) | The user is created. <br><br> The new user receives an email with a link to create a password. |
     | --- | --- |
 9. Click **SEE** in the confirmation banner to be redirected to the user information page.
 

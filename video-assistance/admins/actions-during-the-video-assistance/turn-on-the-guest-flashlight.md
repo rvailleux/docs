@@ -1,5 +1,4 @@
-| ![](../../.gitbook/assets/icon-device-mobile.png) | Available only if the participant is following the session with:
-  -   an **Android smartphone**.  -  the **back camera** selected.  -  on **Chrome** web browser.   |
+| ![](../../.gitbook/assets/icon-device-mobile.png) | Available only if the participant is following the session with: <br> - an **Android smartphone**. - the **back camera** selected. - on **Chrome** web browser. |
 | --- | --- |
 
 {% hint style="info" %}

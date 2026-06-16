@@ -22,6 +22,5 @@ The information display.
 {% endhint %}
  ![](../../.gitbook/assets/EN-portail-geoloc-info-image.png)
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | Do no want to see the geolocation? 
- **See also** [Activate the geolocation](../configuration-on-the-apizee-portal/configure-the-conference/activate-the-geolocation.md) |
+| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | Do no want to see the geolocation? <br> **See also** [Activate the geolocation](../configuration-on-the-apizee-portal/configure-the-conference/activate-the-geolocation.md) |
 | --- | --- |

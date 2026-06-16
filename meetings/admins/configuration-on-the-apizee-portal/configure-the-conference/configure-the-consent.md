@@ -3,8 +3,7 @@
 
 ![](../../../.gitbook/assets/portal-legal-tab.png)
 
-    | ![Information](../../../.gitbook/assets/info.png) | If you did not customize the legal documents yet, then, the default documents are displayed.
-Click **Customize**. |
+| ![Information](../../../.gitbook/assets/info.png) | If you did not customize the legal documents yet, then, the default documents are displayed. <br> Click **Customize**. |
     | --- | --- |
 
 ![](../../../.gitbook/assets/EN-portal-consent-customize-button.png)

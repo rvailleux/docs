@@ -18,13 +18,8 @@ Assistance request form
 | **New** | The requester filled the assistance request and sent it (Assistance request form only). |
 | **Open** | The supervisor analyses the request and changes the status into **Open** before they assign it to an agent (Assistance request form only). |
 | **Rejected** | The supervisor analyses the request and changes the status into **Rejected** (Assistance request form only). |
-| **Invitation pending** | The invitation is sent to the guest. 
- As a scheduled assistance, the guest can accept or decline the invitation. |
-| **Invitation accepted** | The guest received the invitation. 
- The guest accepted the invitation:
-  - directly in the message   
-or
-  - on the ticket public page (thanks to a link in the invitation)   |
+| **Invitation pending** | The invitation is sent to the guest. <br> As a scheduled assistance, the guest can accept or decline the invitation. |
+| **Invitation accepted** | The guest received the invitation. <br> The guest accepted the invitation: <br> - directly in the message <br> or <br> - on the ticket public page (thanks to a link in the invitation) |
 | **Declined** | The guest received the invitation. 
  The guest declined the invitation:  - directly in the message  or  - on the ticket public page (thanks to a link in the invitation)    
  
@@ -32,9 +27,7 @@ or
 {% hint style="info" %}
 The agent can invite the guest again, change the date and time of the video assistance.
 {% endhint %}
-| **Canceled** | The session can be **Canceled**  **** by an agent when the status is:
-- **Open**- **Invitation pending**- **Invitation accepted**- **In progress**
-When a session is canceled it is as if it was closed. You cannot invite the guest to this session anymore. |
+| **Canceled** | The session can be **Canceled** **** by an agent when the status is: <br> - **Open**- **Invitation pending**- **Invitation accepted**- **In progress** <br> When a session is canceled it is as if it was closed. You cannot invite the guest to this session anymore. |
 | **Expired** | Here are the ways a ticket can expire:
   -  The guest received the invitation and did not click the link in the message.  -  The ticket changes into **Expired **after a certain amount of time. The time is configured by the administrator (**<a href="https://doc.apizee.com/smart/project-diag-help-desk/customize-the-tickets/a/expiration-time-after-invite" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Expired</a>**). 
    

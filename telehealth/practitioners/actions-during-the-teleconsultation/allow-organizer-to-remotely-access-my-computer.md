@@ -26,8 +26,7 @@ You need the organizer to help you and want him to remotely access your computer
         * Click **Run anyway**   
  ![](../../.gitbook/assets/EN-conf-guest-view-remote-access-windows-instruction-run-anyway.png) 
 
-            | ![](../../.gitbook/assets/ok.png) | The remote access session starts. 
-The organizer sees your screen and can control your mouth and keyboard. |
+| ![](../../.gitbook/assets/ok.png) | The remote access session starts. <br> The organizer sees your screen and can control your mouth and keyboard. |
             | --- | --- |
 
  ![](../../.gitbook/assets/EN-conf-guest-view-remote-access-starts.png)

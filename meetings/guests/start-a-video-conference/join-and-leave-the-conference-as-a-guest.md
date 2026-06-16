@@ -34,8 +34,7 @@ If you have an Apizee account, click **Log in**.
 {% endhint %}
  [+] [Show More](javascript:void%280%29)
  [-] [Hide](javascript:void%280%29)
- | ![Information](../../.gitbook/assets/info.png) | If you want to join the conference with a phone or by QR code, click **More**.  
-Here are the different options: |
+| ![Information](../../.gitbook/assets/info.png) | If you want to join the conference with a phone or by QR code, click **More**. <br> Here are the different options: |
 | --- | --- |
 
  ![](../../.gitbook/assets/EN-conf-join-session-more-button.png)

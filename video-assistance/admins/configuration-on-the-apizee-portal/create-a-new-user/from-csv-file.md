@@ -11,8 +11,7 @@ You want to create several accounts at the same time.
     * Email in column E
     * Nickname in column F 
 
-        | ![Information](../../../.gitbook/assets/info.png) | Do no use spaces for the nicknames. 
-Example: ~~docteur du jardin~~ &gt; **docteur\_du\_jardin** or **docteurdujardin** |
+| ![Information](../../../.gitbook/assets/info.png) | Do no use spaces for the nicknames. <br> Example: ~~docteur du jardin~~ &gt; **docteur\_du\_jardin** or **docteurdujardin** |
         | --- | --- |
 
 ![](../../../.gitbook/assets/EN-portal-create-user-spreadsheet.png)

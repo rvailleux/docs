@@ -1,8 +1,7 @@
 {% hint style="info" %}
 The satisfaction survey is activated for your service. 
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also:**
- [Activate the satisfaction survey](../../configuration-on-the-apizee-portal/configure-the-conference/activate-the-satisfaction-survey.md) |
+| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | **See also:** <br> [Activate the satisfaction survey](../../configuration-on-the-apizee-portal/configure-the-conference/activate-the-satisfaction-survey.md) |
 | --- | --- |
 {% endhint %}
 

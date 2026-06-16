@@ -17,7 +17,5 @@ An invitation is sent to the participant and displays on their screen as follow:
  **Guest screen** 
  ![](../../.gitbook/assets/EN-conf-guest-notif-asking-share-file.png) 
 
-    | ![](../../.gitbook/assets/ok.png) | When accepted, a file explorer opens on the participant screen. 
-He needs to choose a file and click **Open**. 
-Once downloaded, the files displays in the **Messages** tab. |
+| ![](../../.gitbook/assets/ok.png) | When accepted, a file explorer opens on the participant screen. <br> He needs to choose a file and click **Open**. <br> Once downloaded, the files displays in the **Messages** tab. |
     | --- | --- |

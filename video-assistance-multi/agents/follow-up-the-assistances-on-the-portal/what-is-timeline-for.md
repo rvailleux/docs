@@ -41,18 +41,10 @@ The guest **accepted** the invitation to the assistance.
 Priority of the session changed into "scheduled" | | ![Information](../../.gitbook/assets/info.png) | [Scheduling](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/schedule-feature-description) option has to be activated.
 {% endhint %}
 The video assistance was immediate and has been changed to be scheduled on another moment. | 18 |
-| ![](../../.gitbook/assets/Icon-Ticket.png) | Appointment canceled | The agent [canceled the video assistance appointment](../video-assistance/agents/follow-up-the-assistances-on-the-portal/cancel-a-session.md).
-
-![](../../.gitbook/assets/EN-portal-assistance-page-cancel-session-button.png) | 37 |
-| ![](../../.gitbook/assets/Icon=Paper-plane.png) | Another invitation sent | The agent [sent a new invitation](../video-assistance/agents/follow-up-the-assistances-on-the-portal/send-new-invitation-for-same-session.md) to the guest for the same assistance.
-
- ![](../../.gitbook/assets/EN-portal-assistance-multi-invite-again-button.png) | 35 |
-| ![](../../.gitbook/assets/Icon=Check.png) | Session can start | The page of the link displays on the guest screen now.
-
-![](../../.gitbook/assets/EN-diag-guest-legals-not-checked.png) | 10 |
-| ![](../../.gitbook/assets/Icon-Ticket.png) | Agent completed the assistance | The agent clicked **Complete session** in the assistance page.
-
-![](../../.gitbook/assets/EN-portal-assistance-page-complete-session-button.png) | 11 |
+| ![](../../.gitbook/assets/Icon-Ticket.png) | Appointment canceled | The agent [canceled the video assistance appointment](../video-assistance/agents/follow-up-the-assistances-on-the-portal/cancel-a-session.md). <br><br> ![](../../.gitbook/assets/EN-portal-assistance-page-cancel-session-button.png) | 37 |
+| ![](../../.gitbook/assets/Icon=Paper-plane.png) | Another invitation sent | The agent [sent a new invitation](../video-assistance/agents/follow-up-the-assistances-on-the-portal/send-new-invitation-for-same-session.md) to the guest for the same assistance. <br><br> ![](../../.gitbook/assets/EN-portal-assistance-multi-invite-again-button.png) | 35 |
+| ![](../../.gitbook/assets/Icon=Check.png) | Session can start | The page of the link displays on the guest screen now. <br><br> ![](../../.gitbook/assets/EN-diag-guest-legals-not-checked.png) | 10 |
+| ![](../../.gitbook/assets/Icon-Ticket.png) | Agent completed the assistance | The agent clicked **Complete session** in the assistance page. <br><br> ![](../../.gitbook/assets/EN-portal-assistance-page-complete-session-button.png) | 11 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | System changed the session status into "completed" | The status of the session automatically changed into "completed" because the **[End transfer notification delay (min)](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/end-transfer-notification-delay)** trigger is exceeded.
 
 {% hint style="info" %}
@@ -61,9 +53,7 @@ The video assistance was immediate and has been changed to be scheduled on anoth
 {% hint style="info" %}
 **See also** [What status for my ticket?](../video-assistance/agents/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
 {% endhint %}
-| ![](../../.gitbook/assets/Icon-Ticket.png) | Agent closed this session | The agent clicked **Close session** in the assistance page.
-
-![](../../.gitbook/assets/EN-portal-assistance-page-close-session-button.png) | 8 |
+| ![](../../.gitbook/assets/Icon-Ticket.png) | Agent closed this session | The agent clicked **Close session** in the assistance page. <br><br> ![](../../.gitbook/assets/EN-portal-assistance-page-close-session-button.png) | 8 |
 | ![](../../.gitbook/assets/Icon-Ticket.png) | The system changed the session status into “closed” | The status of the session automatically changed into "closed" because the **[Max expiration time (min)](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/max-expiration-time)** trigger is exceeded.
 
 {% hint style="info" %}

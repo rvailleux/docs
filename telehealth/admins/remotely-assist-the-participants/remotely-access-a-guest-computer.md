@@ -10,9 +10,7 @@ An invitation is sent to the participant and displays on their screen as follow:
 {% endhint %}
  **Guest screen  ![](../../.gitbook/assets/EN-conf-guest-view-allow-remote-access.png)**    
 
-    | ![Information](../../.gitbook/assets/info.png) | When accepted, the guest needs to share the screen and install an application software.
- 
-Once the software is launched, the remote access starts. You can control the participant keyboard and mouse. |
+| ![Information](../../.gitbook/assets/info.png) | When accepted, the guest needs to share the screen and install an application software. <br><br> Once the software is launched, the remote access starts. You can control the participant keyboard and mouse. |
     | --- | --- |
 
 {% hint style="info" %}

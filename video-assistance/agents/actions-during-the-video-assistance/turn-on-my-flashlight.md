@@ -1,7 +1,6 @@
 # How to turn on the flashlight of my phone during a video assistance?
 
-| ![](../../.gitbook/assets/icon-device-mobile.png) | Available only if you are following the session with:
-  -   an **Android smartphone**.  -  the **<a href="switch-camera-guest.md" target="_blank">back camera</a>**<a href="switch-camera-guest.md" target="_blank"> selected</a>.  -  on **Chrome** web browser.   |
+| ![](../../.gitbook/assets/icon-device-mobile.png) | Available only if you are following the session with: <br> - an **Android smartphone**. - the **<a href="switch-camera-guest.md" target="_blank">back camera</a>**<a href="switch-camera-guest.md" target="_blank"> selected</a>. - on **Chrome** web browser. |
 | --- | --- |
 
 {% hint style="info" %}

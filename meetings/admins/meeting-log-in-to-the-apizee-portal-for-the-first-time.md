@@ -29,11 +29,7 @@ You are logged in to your account.
 1. In the message, click **Account validation link**.
 2. Enter your password twice. 
 
-    | ![](../.gitbook/assets/tip.png) | Choose a **different password** that you do not use for another Website.
- 
-Mix up the characters: 12 characters, 1 uppercase, 1 lowercase, 1 digit, 1 special character.
- 
-Protect your password: Keep it in memory, change it regularly and do not save it in a file or on a piece of paper. |
+| ![](../.gitbook/assets/tip.png) | Choose a **different password** that you do not use for another Website. <br><br> Mix up the characters: 12 characters, 1 uppercase, 1 lowercase, 1 digit, 1 special character. <br><br> Protect your password: Keep it in memory, change it regularly and do not save it in a file or on a piece of paper. |
     | --- | --- |
 3. Click **Finalize**. 
  

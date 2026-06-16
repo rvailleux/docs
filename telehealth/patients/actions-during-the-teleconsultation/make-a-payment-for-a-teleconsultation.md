@@ -8,15 +8,8 @@ There are 2 ways to pay for a teleconsultation:
 | | ![](../../.gitbook/assets/prerequis.png) | The teleconsultation is over. |
 | --- | --- | | | ![](../../.gitbook/assets/prerequis.png) | You received a message inviting you to pay the teleconsultation. |
 | --- | --- | |
-|  -   Click&#160;**Pay Now**. 
- 
- <img src="../../.gitbook/assets/EN-teleconsultation-pay-now.png" alt=""> 
- 
-   |  -  Click on the&#160;**link&#160;**to pay the amount. 
- 
- 
- <img src="../../.gitbook/assets/EN-teleconsultation-make-a-payment-message.png" alt=""> 
- 
+| - Click&#160;**Pay Now**. <br><br> <img src="../../.gitbook/assets/EN-teleconsultation-pay-now.png" alt=""> <br><br>
+| - Click on the&#160;**link&#160;**to pay the amount. <br><br> <br><br> <img src="../../.gitbook/assets/EN-teleconsultation-make-a-payment-message.png" alt=""> <br><br>
    |
 
 {% hint style="success" %}

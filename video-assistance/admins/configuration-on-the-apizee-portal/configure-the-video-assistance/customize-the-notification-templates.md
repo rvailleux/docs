@@ -4,10 +4,7 @@
 ![](../../../.gitbook/assets/portal-notification-templates-tab.png)
 3. In the list on the left, choose the notification template you want to customize. 
 
-    | ![](../../../.gitbook/assets/tip.png) | Choose whether you want to **edit**the template ![](../../../.gitbook/assets/button-edit.png)or**Add a new one**.
- 
-We recommend to **Add a new template**, and define it as a default template. 
- So, you can keep the current one as an example. |
+| ![](../../../.gitbook/assets/tip.png) | Choose whether you want to **edit**the template ![](../../../.gitbook/assets/button-edit.png)or**Add a new one**. <br><br> We recommend to **Add a new template**, and define it as a default template. <br> So, you can keep the current one as an example. |
     | --- | --- |
 4. Click **Add new template**. 
  

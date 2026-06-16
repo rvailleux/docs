@@ -39,8 +39,7 @@ You want to customize one service in particular ? You do not want to use the com
 3. Click **Create a new theme**. 
  ![](../../.gitbook/assets/portal-customize-theme-create-new-theme-service.png) 
 
-    | ![Information](../../.gitbook/assets/info.png) | If you create a new theme, it will not be synchronized with the default theme anymore. 
-You can [come back to the default theme](customize-the-interface.md#reset-to-default-theme)at any moment. |
+| ![Information](../../.gitbook/assets/info.png) | If you create a new theme, it will not be synchronized with the default theme anymore. <br> You can [come back to the default theme](customize-the-interface.md#reset-to-default-theme)at any moment. |
     | --- | --- |
 4. Click **Choose File**to change the:
 

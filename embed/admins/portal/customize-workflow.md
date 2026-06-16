@@ -1,7 +1,6 @@
 1. Select the **Flow**tab.
 
-    | ![](../../.gitbook/assets/ok.png) | A JSON file displays in a editor. 
-This file contains all the configuration related to the video tool workflow. |
+| ![](../../.gitbook/assets/ok.png) | A JSON file displays in a editor. <br> This file contains all the configuration related to the video tool workflow. |
     | --- | --- |
 2. Click into the editor to modify the followings:
     1. Show or hide the **on-screen pointer**.

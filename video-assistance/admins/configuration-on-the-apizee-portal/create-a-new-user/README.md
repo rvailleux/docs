@@ -18,6 +18,5 @@ Choose a way to create an account:
 * [Without an email confirmation](without-an-email-confirmation.md)
 * [From CSV file](from-csv-file.md)
 
-| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | For more information about users and permissions, **see also:**
- [User roles](../../user-roles.md) |
+| ![](../../../.gitbook/assets/Apizee-see-also-icon.png) | For more information about users and permissions, **see also:** <br> [User roles](../../user-roles.md) |
 | --- | --- |

@@ -10,12 +10,7 @@ The ticket page displays.
 {% endhint %}
 3. Go to the **Assignment** menu, in **Attach report**. 
 
-    | ![](../../.gitbook/assets/tip.png) | If your company configured a report template, this message displays: **You can download a report template**
-  -  Click **report template**. 
- 
- <img src="../../.gitbook/assets/EN-portal-ticket-page-download-report-template.png" alt=""> 
- <img src="../../.gitbook/assets/ok.png"> <span>The report template downloads. 
- </span>  -  Open the document, fill it and save it.   |
+| ![](../../.gitbook/assets/tip.png) | If your company configured a report template, this message displays: **You can download a report template** <br> - Click **report template**. <br><br> <img src="../../.gitbook/assets/EN-portal-ticket-page-download-report-template.png" alt=""> <br> <img src="../../.gitbook/assets/ok.png"> <span>The report template downloads. <br> </span> - Open the document, fill it and save it. |
     | --- | --- |
 4. Click **Choose File** to import the report you just filled.
 5. Click **Save**. 
