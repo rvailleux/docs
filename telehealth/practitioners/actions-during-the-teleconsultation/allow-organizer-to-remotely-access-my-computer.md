@@ -1,6 +1,6 @@
 {% hint style="info" %}
 Available only on computers with Windows 10 & 11. 
- [More information](../about-apizee-solutions.md#Browser-remote-access) about compatibility.
+ [More information](../about-apizee-solutions.md#browser-remote-access) about compatibility.
 {% endhint %}
 
 {% hint style="info" %}

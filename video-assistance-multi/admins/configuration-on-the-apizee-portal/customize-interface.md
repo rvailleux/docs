@@ -40,7 +40,7 @@ You want to customize one service in particular ? You do not want to use the com
  ![](../../.gitbook/assets/portal-customize-theme-create-new-theme-service.png) 
 
     | ![Information](../../.gitbook/assets/info.png) | If you create a new theme, it will not be synchronized with the default theme anymore. 
-You can [come back to the default theme](customize-interface.md#Reset-to-default-theme)at any moment. |
+You can [come back to the default theme](customize-interface.md#reset-to-default-theme)at any moment. |
     | --- | --- |
 4. Click **Choose File**to change the:
 

@@ -26,7 +26,7 @@ Fill your email address and/or your phone number in the Personal information tab
 ## Prioritize the user availability
 
 {% hint style="info" %}
-To enjoy this feature, you need to activate **[Call distribution mode - Agents availability according to the priority order](configure-the-video-assistance/customize-the-tickets.md#Call-distribution-mode)**
+To enjoy this feature, you need to activate **[Call distribution mode - Agents availability according to the priority order](configure-the-video-assistance/customize-the-tickets.md#call-distribution-mode)**
 {% endhint %}
 
 Set up a priority order in the user’s availability.
