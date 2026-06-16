@@ -9,7 +9,7 @@ title: choose-my-portal-dashboard
 4. Under **Choose the dashboard**, in the drop-down menu, choose the dashboard you want.
 5. Click **Save**.
 
-![](<../../../faq/.gitbook/assets/EN-portal-change-homepage (1).gif>)
+![](../assets/EN-portal-change-homepage.gif)
 
 {% hint style="success" %}
 The dashboard is updated.

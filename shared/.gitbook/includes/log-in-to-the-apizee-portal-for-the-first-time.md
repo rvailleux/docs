@@ -14,13 +14,13 @@ You want an Apizee account and you received a message with:
 In the following procedure, we imply that the administrator sent a message to the new user with all the information. Of course, and for security reasons, it is up to the administrator to choose the way to communicate the link, the login and the password.
 {% endhint %}
 
-![](<../../../faq/.gitbook/assets/EN-create-user-message-login-password (1).png>)
+![](../assets/EN-create-user-message-login-password.png)
 
 1. In the message, click the **link**.
 2. Enter the login and the password given by the administrator.
 3. Click **Sign in**.
 
-![](<../../../faq/.gitbook/assets/EN-portal-sign-in-to-apizee-account (1).png>)
+![](../assets/EN-portal-sign-in-to-apizee-account.png)
 
 {% hint style="success" %}
 You are logged in to your account.
@@ -28,7 +28,7 @@ You are logged in to your account.
 
 # A validation link and a login
 
-![](<../../../faq/.gitbook/assets/EN-create-user-message-validation-link-login (1).png>)
+![](../assets/EN-create-user-message-validation-link-login.png)
 
 1. In the message, click **Account validation link**.
 2.  Enter your password twice.
@@ -43,7 +43,7 @@ You are logged in to your account.
 
 3. Click **Finalize**.
 
-![](<../../../faq/.gitbook/assets/EN-portal-log-in-first-time-confirm-password-twice-finalize (1).png>)
+![](../assets/EN-portal-log-in-first-time-confirm-password-twice-finalize.png)
 
 {% hint style="success" %}
 You are logged in to your account.
