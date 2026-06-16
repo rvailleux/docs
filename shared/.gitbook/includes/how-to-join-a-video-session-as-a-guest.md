@@ -20,4 +20,3 @@ You received a text message.
 {% hint style="success" %}
 The video session page displays.
 {% endhint %}
- © Apizee. All rights reserved. 

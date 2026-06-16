@@ -18,4 +18,3 @@ You can check the guests and the state of the session.
 The session details display.
 {% endhint %}
 
- © Apizee. All rights reserved. 

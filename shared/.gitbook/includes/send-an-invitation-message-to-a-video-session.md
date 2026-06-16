@@ -19,4 +19,3 @@ If the phone number is correct, click **Invite and start** to start the video se
 The timeline displays. It shows the status of each guest while they join the session.
 {% endhint %}
 
- © Apizee. All rights reserved. 

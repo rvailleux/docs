@@ -16,4 +16,3 @@
 *You are now logged in. You can use Apizee Embed.*
 {% endhint %}
 
- © Apizee. All rights reserved. 

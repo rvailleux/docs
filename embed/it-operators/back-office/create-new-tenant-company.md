@@ -60,4 +60,3 @@ La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l
 https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation
 
 Click [here](/settings/topic-template) to change this template.
- © Apizee. All rights reserved. 

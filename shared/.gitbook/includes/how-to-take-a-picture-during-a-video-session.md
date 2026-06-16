@@ -10,4 +10,3 @@ You are now in a video session.
 The picture is sent directly to your portal.
 {% endhint %}
 
- © Apizee. All rights reserved. 

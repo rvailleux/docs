@@ -12,4 +12,3 @@ This option may depend on your Web browser.
 ![](../../.gitbook/assets/EN-Diag-share-screen-web-browser.png)
 5. To stop the screen sharing, click the ![](../../.gitbook/assets/screenshare.png)button again.
 
- © Apizee. All rights reserved. 

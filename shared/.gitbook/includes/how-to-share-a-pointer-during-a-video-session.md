@@ -11,4 +11,3 @@ You are now in a video session.
 *The guest can see what you draw with the pointer on their screen.*
 {% endhint %}
 
- © Apizee. All rights reserved. 

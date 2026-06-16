@@ -11,4 +11,3 @@ The guest smartphone uses the correct camera to enable this capability.
 You can see the flashlight turn on and off directly on the guest's video feed.
 {% endhint %}
 
- © Apizee. All rights reserved. 

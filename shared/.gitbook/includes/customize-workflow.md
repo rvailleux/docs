@@ -47,4 +47,3 @@ The new configuration is automatically synchronized.
 Refresh the video tool to see the new workflow.
 {% endhint %}
 
- © Apizee. All rights reserved. 

@@ -5,4 +5,3 @@ Embedded directly within existing workflows, it enables teams to provide real-ti
 Our goal is to help our clients, and their customers, resolve issues more **easily**, with a **smooth** and **intuitive** experience.
 
 ![](../../.gitbook/assets/video-tool-apizee-embed.png)
- © Apizee. All rights reserved. 

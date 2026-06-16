@@ -29,4 +29,3 @@ You are logged in.
 You are directed to the log in page.
 {% endhint %}
 
- © Apizee. All rights reserved. 

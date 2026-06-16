@@ -12,4 +12,3 @@ Keep the client secret safe.
  The client secret is not available after this step.
 {% endhint %}
 
- © Apizee. All rights reserved. 

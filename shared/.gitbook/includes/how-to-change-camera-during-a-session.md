@@ -10,4 +10,3 @@ You are now in a video session.
 You will see the camera change directly on your video feed.
 {% endhint %}
 
- © Apizee. All rights reserved. 

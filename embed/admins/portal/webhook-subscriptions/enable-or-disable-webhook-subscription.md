@@ -9,4 +9,3 @@ The status updates immediately. A disabled subscription stops sending notificati
 {% endhint %}
 
 You can also change the status from the subscription detail page.
- © Apizee. All rights reserved. 

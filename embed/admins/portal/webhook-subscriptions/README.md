@@ -15,4 +15,3 @@ Click a row to open and edit the subscription.
 ![]()
 
 ![]()
- © Apizee. All rights reserved. 

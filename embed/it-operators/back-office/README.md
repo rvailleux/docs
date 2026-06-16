@@ -1,1 +1,0 @@
-© Apizee. All rights reserved. 

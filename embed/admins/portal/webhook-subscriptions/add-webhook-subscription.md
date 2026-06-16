@@ -19,4 +19,3 @@
 The subscription appears in the list. A secret is generated and displayed on the subscription page.
 {% endhint %}
 
- © Apizee. All rights reserved. 

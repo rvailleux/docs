@@ -12,4 +12,3 @@ You just sent an invitation to a guest to join the video assistance.
 The video session starts.
 {% endhint %}
 
- © Apizee. All rights reserved. 

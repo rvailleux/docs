@@ -82,4 +82,3 @@ When you complete the procedure, send the following information to the integrati
 The metadata and certificates only describe the identity provider configuration required to establish the SAML federation.
 {% endhint %}
 
- © Apizee. All rights reserved. 

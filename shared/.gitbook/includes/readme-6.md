@@ -7,4 +7,3 @@
 
 Designed for everyday use, the portal helps teams stay in control, adapt the experience, and integrate seamlessly with their existing tools.
 ![](../../.gitbook/assets/portal-apizee-embed.png)
- © Apizee. All rights reserved. 

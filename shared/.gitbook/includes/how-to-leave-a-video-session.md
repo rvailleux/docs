@@ -12,4 +12,3 @@ https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+dactio
 You are out of the video session, your camera and microphone are no longer taken.
 {% endhint %}
 
- © Apizee. All rights reserved. 

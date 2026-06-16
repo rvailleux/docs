@@ -26,4 +26,3 @@ The file is downloaded on your device.
 The compressed folder with all the files is downloaded on your device.
 {% endhint %}
 
- © Apizee. All rights reserved. 

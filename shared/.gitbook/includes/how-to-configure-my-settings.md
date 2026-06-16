@@ -14,4 +14,3 @@ As a guest: you check your settings before entering the video session.
 You have your video feed to see the changes apply directly.
 {% endhint %}
 
- © Apizee. All rights reserved. 

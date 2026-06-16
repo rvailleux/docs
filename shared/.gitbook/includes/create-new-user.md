@@ -15,4 +15,3 @@
     | --- | --- |
 9. Click **SEE** in the confirmation banner to be redirected to the user information page.
 
- © Apizee. All rights reserved. 
