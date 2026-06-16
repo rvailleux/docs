@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 
-Enter your prerequisite here .*<br><br>Pour rédiger cet article aidez-vous des articles suivants :<br><ul><li><a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/edit-v2/3212607494" target="_blank">ClickHelp:Comment l&#39;utiliser ?</a></li><li><a href="https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation" target="_blank">Conseils de r&#233;daction pour la documentation</a></li></ul>
+Enter your prerequisite here .
 
 {% endhint %}
 1. step
@@ -49,6 +49,5 @@ La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l
 
 [More tutorials](https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/tutorials)
 
-https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation
 
 Click [here](/settings/topic-template) to change this template.

@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 
-You are now in a video session.<br><br>https://apizee.atlassian.net/wiki/spaces/IN/pages/351731731/Conseils+de+r+daction+pour+la+documentation
+You are now in a video session.
 
 {% endhint %}
 * In the toolbar, click ![](../Storage/apizee-for-salesforce-publication-admin/project-appvisio-reuse/leave-a-video-session/leave-a-video-session-2025-03-05-1.png)to end the call.
