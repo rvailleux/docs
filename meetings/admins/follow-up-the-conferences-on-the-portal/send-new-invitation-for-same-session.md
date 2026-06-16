@@ -41,7 +41,7 @@ That will help you find faster the session you are looking for.
     {% endhint %}
     {% hint style="info" %}
 
-    *See also** [Customize the notification templates](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)
+    **See also** [Customize the notification templates](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)
 
     {% endhint %}
 9. Select a **language**.

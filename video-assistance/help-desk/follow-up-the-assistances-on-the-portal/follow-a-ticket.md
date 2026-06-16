@@ -20,7 +20,7 @@ The page of the ticket displays. You can find the following information:
 
 {% hint style="info" %}
 
-*See also** [Attach a report to the ticket](attach-a-report-to-the-ticket.md)
+**See also** [Attach a report to the ticket](attach-a-report-to-the-ticket.md)
 
 {% endhint %}
 | d. | Shared media | Files shared during the assistance.
@@ -35,7 +35,7 @@ The page of the ticket displays. You can find the following information:
 <img src="../../.gitbook/assets/EN-Diag-portal-ticket-page-file-information-location-time.png" alt="">- If you want to share the file or download it, tick the box and click **Share **or **Download**. 
 
 | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Share a file with the requester](../actions-during-the-video-assistance/share-and-download-files/share-a-file-with-a-requester.md) 
-**See also** [Download the files shared during assistance session](../actions-during-the-video-assistance/share-and-download-files/download-files-shared-during-assistance-session.md) |
+**See also** [Download the files shared during assistance session](../actions-during-the-video-assistance/share-and-download-files/download-files-shared-during-assistance-session.md) |
 | --- | --- | |
 | e. | Calls during the ticket | Call details for this ticket:
  -  Sart/End   -  Duration   -  Caller (requester) / Called (agent)   -  Status of the call  -  Reason why the call ended   |  |

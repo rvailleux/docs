@@ -1,7 +1,7 @@
 ![](../.gitbook/assets/FAQ-sound-notifications.png)
 
 {% hint style="info" %}
-You are participating to an ongoing video session or 
+You are participating in an ongoing video session or 
 You are logged in to your account and 
 You do not hear the sound notifications
 {% endhint %}

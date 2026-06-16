@@ -1,5 +1,5 @@
 {% hint style="info" %}
-You are participating to an ongoing session and you want to deactivate your microphone and/or your camera.
+You are participating in an ongoing session and you want to deactivate your microphone and/or your camera.
 {% endhint %}
 
 On the upper side of the screen, there is the **call bar**.

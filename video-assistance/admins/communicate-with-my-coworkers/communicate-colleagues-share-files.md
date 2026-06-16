@@ -25,8 +25,6 @@ Unlike the **agent**, all the files shared by the **requester** are available af
 If you are an **agent**, the files you share will not display. Only the pictures you opened in the whiteboard will display on the pages below.
 {% endhint %}
 
-# 
-
 ##  After the session in the portal
 
 {% hint style="info" %}

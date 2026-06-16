@@ -12,5 +12,5 @@ The new logos display.
 
 {% hint style="info" %}
 The file has to be a .png and size at least:
-- 210*80 pixels for the logo.- 80*80 pixels for the mini logo.
+- 210×80 pixels for the logo.- 80×80 pixels for the mini logo.
 {% endhint %}

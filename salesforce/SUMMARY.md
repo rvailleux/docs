@@ -3,7 +3,7 @@
 * [Getting started with video calls in Salesforce](send-an-invitation.md)
 * [Getting started with video calls in Agentforce](getting-started-with-video-calls-in-agentforce.md)
 * [Video call actions](video-call-actions/README.md)
-  * [Enable and disabled the microphone and camera](video-call-actions/enable-and-disabled-microphone-and-camera.md)
+  * [Enable and disable the microphone and camera](video-call-actions/enable-and-disable-microphone-and-camera.md)
   * [Take a picture](video-call-actions/take-a-picture.md)
   * [Change camera](video-call-actions/change-camera.md)
   * [Share the pointer](video-call-actions/share-pointer.md)

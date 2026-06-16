@@ -28,6 +28,6 @@ You are an organizer and you want to record the ongoing session.
     {% endhint %}
 {% hint style="info" %}
 
-*See also** [Download files - After the session in the portal](download-files.md)
+**See also** [Download files - After the session in the portal](download-files.md)
 
 {% endhint %}

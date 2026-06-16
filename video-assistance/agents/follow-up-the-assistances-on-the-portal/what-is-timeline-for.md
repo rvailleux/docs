@@ -12,7 +12,7 @@ You are an agent and you need to:
 
     {% hint style="success" %}
 
-    The assistance page dipslays.
+    The assistance page displays.
 
     {% endhint %}
 ![](../../.gitbook/assets/EN-portal-assistance-page-timeline-location.png)
@@ -61,12 +61,12 @@ The video assistance was immediate and has been changed to be scheduled on anoth
 | ![](../../.gitbook/assets/Icon=Handpoint.png) | Contact an agent button clicked | The guest clicked the button to join the assistance.
 
 ![](../../.gitbook/assets/EN-diag-guest-contact-agent-button-clicked.png) | 30 |
-| ![](../../.gitbook/assets/Icon=Share.png) | Camera and microphone allowed | According to the video assistance configuration, the guest can be asked to allow the access to both camera and micorphone.
+| ![](../../.gitbook/assets/Icon=Share.png) | Camera and microphone allowed | According to the video assistance configuration, the guest can be asked to allow the access to both camera and microphone.
 
 In this case, the guest **allowed** both of them.
 
 ![](../../.gitbook/assets/EN-diag-guest-allow-cam-and-mic.png) | 20 |
-| ![](../../.gitbook/assets/Icon=Share-refused.png) | Camera and microphone denied | According to the video assistance configuration, the guest can be asked to allow the access to both camera and micorphone.
+| ![](../../.gitbook/assets/Icon=Share-refused.png) | Camera and microphone denied | According to the video assistance configuration, the guest can be asked to allow the access to both camera and microphone.
 In this case, the guest **blocked** the access to both of them. Or **did not click** at all.
 
 ![](../../.gitbook/assets/EN-diag-guest-block-mic-and-cam.png) | 21 |
@@ -113,11 +113,11 @@ In this case the guest **blocked** it. | 25 |
 
 {% hint style="info" %}
 
-*See also**[Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
+**See also** [Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
 
 {% endhint %}
 {% hint style="info" %}
-*See also**[What status for my ticket?](video-assistance-ticket-status.md)
+**See also** [What status for my ticket?](video-assistance-ticket-status.md)
 {% endhint %}
 | ![](../../.gitbook/assets/image-20231011-143535.png) | Guest responded to the survey | After the session, the guest [responded to the satisfaction survey](../respond-to-the-satisfaction-survey.md) and clicked **Send**.
 
@@ -129,11 +129,11 @@ In this case the guest **blocked** it. | 25 |
 
 {% hint style="info" %}
 
-*See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
+**See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
 
 {% endhint %}
 {% hint style="info" %}
-*See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](video-assistance-ticket-status.md)
+**See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](video-assistance-ticket-status.md)
 {% endhint %}
 
 {% hint style="info" %}

@@ -57,6 +57,6 @@ For more information about sending a new invitation:
 
 {% hint style="info" %}
 
-*See also**  [Send a new invitation for the same session](send-new-invitation-for-same-session.md)
+**See also** [Send a new invitation for the same session](send-new-invitation-for-same-session.md)
 
 {% endhint %}

@@ -4,61 +4,65 @@ title: user-roles
 
 # On the Apizee portal
 
-| Functions                                                                                                                                                                                                                                           | Agent | Supervisor | Administrator |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------- | ------------- |
-| Check the user directory                                                                                                                                                                                                                            |       |            |               |
-| Create, read and update the files of everybody + delete its own files                                                                                                                                                                               |       |            |               |
-| [Create, read and update its own tickets](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/agents/follow-up-the-assistances-on-the-portal/follow-a-ticket.md)                                                     |       |            |               |
-| Create, read and update the tickets of its user group                                                                                                                                                                                               |       |            |               |
-| Create, read, update and delete the tickets of everybody                                                                                                                                                                                            |       |            |               |
-| [Configure and customize the ticket service](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)                  |       |            |               |
-| [Assign agents to tickets](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/create-a-ticket-send-an-invitation/create-ticket-common-invitation.md)                                                   |       |            |               |
-| [Receive and manage the escalation notifications](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/activate-the-ticket-notifications.md) |       |            |               |
-| Fill an assistance request                                                                                                                                                                                                                          |       |            |               |
-| [Supervise its own user groups](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/configuration-on-the-apizee-portal/configure-the-agents.md)                                                               |       |            |               |
-| Store and delete all the user and company data                                                                                                                                                                                                      |       |            |               |
-| [See the statistics](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/follow-up-the-assistances-on-the-portal/check-the-statistics/README.md)                                                              |       |            |               |
-| Read the company detailed statistics                                                                                                                                                                                                                |       |            |               |
-| Manage the subscriptions and billing options                                                                                                                                                                                                        |       |            |               |
-| [Create and update users](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/configuration-on-the-apizee-portal/create-a-new-user/README.md)                                                                 |       |            |               |
-| [Configure my account information](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/agents/configuration-on-the-apizee-portal/configure-my-account/change-my-information.md)                                      |       |            |               |
-| After a session:                                                                                                                                                                                                                                    |       |            |               |
-| [Send again the files shared during a conference to the participants](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/share-file.md)                                                                  |       |            |               |
-| [Join the session](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/agents/start-a-video-assistance/receive-an-incoming-assistance-call.md)                                                                       |       |            |               |
-| Update the company settings                                                                                                                                                                                                                         |       |            |               |
-| [Customize the portal interface](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/configuration-on-the-apizee-portal/customize-interface/README.md)                                                        |       |            |               |
-| [Customize the notification templates](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)         |       |            |               |
+{% hint style="warning" %}
+This page lists the user roles and their permissions. The permission detail cells are pending product team verification.
+{% endhint %}
+
+| Functions | Agent | Supervisor | Administrator |
+| :--- | :---: | :---: | :---: |
+| Check the user directory | TODO | TODO | TODO |
+| Create, read and update the files of everybody + delete its own files | TODO | TODO | TODO |
+| Create, read and update its own tickets | TODO | TODO | TODO |
+| Create, read and update the tickets of its user group | TODO | TODO | TODO |
+| Create, read, update and delete the tickets of everybody | TODO | TODO | TODO |
+| Configure and customize the ticket service | TODO | TODO | TODO |
+| Assign agents to tickets | TODO | TODO | TODO |
+| Receive and manage the escalation notifications | TODO | TODO | TODO |
+| Fill an assistance request | TODO | TODO | TODO |
+| Supervise its own user groups | TODO | TODO | TODO |
+| Store and delete all the user and company data | TODO | TODO | TODO |
+| See the statistics | TODO | TODO | TODO |
+| Read the company detailed statistics | TODO | TODO | TODO |
+| Manage the subscriptions and billing options | TODO | TODO | TODO |
+| Create and update users | TODO | TODO | TODO |
+| Configure my account information | TODO | TODO | TODO |
+| After a session: | TODO | TODO | TODO |
+| Send again the files shared during a conference to the participants | TODO | TODO | TODO |
+| Join the session | TODO | TODO | TODO |
+| Update the company settings | TODO | TODO | TODO |
+| Customize the portal interface | TODO | TODO | TODO |
+| Customize the notification templates | TODO | TODO | TODO |
 
 # On the video assistance tool
 
-| Functions                                                                                                                                                                                                       | Organizer | Logged user | Guest |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ----- |
-| [Join the conference](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/join-and-leave-assistance-as-guest.md#Join-session)                                                                       |           |             |       |
-| [Leave the conference](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/join-and-leave-assistance-as-guest.md#Leave-session)                                                                     |           |             |       |
-| [Allow a participant to enter the session](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/manage-the-participants/welcome-and-make-participant-wait.md)        |           |             |       |
-| Send messages to the waiting room                                                                                                                                                                               |           |             |       |
-| [Invite someone to join the ongoing session](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/invite-new-participant-to-join-ongoing-assistance.md)                |           |             |       |
-| [Remove a participant from the ongoing session](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/manage-the-participants/remove-someone-from-ongoing-session.md) |           |             |       |
-| [Activate and deactivate its own camera and microphone](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/activate-and-turn-off-microphone-camera.md)               |           |             |       |
-| [Activate and deactivate all the participants microphone](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/manage-the-participants/mute-all-participants.md)     |           |             |       |
-| [Mute a participant in particular](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/manage-the-participants/mute-participant-microphone-organizer.md)            |           |             |       |
-| [Turn on and off all the participants videos](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/manage-the-participants/deactivate-everybody-camera.md)           |           |             |       |
-| [Turn off a participant audio for oneself](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/turn-off-participant-audio.md)                                         |           |             |       |
-| [Hide a participant video for oneself](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/hide-participant-video.md)                                                 |           |             |       |
-| [Switch a participant camera](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/remotely-assist-participants/remote-assist-switch-camera.md)                      |           |             |       |
-| [Remotely assist a participant](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/remotely-assist-participants/README.md)                                         |           |             |       |
-| Send messages to all the participants                                                                                                                                                                           |           |             |       |
-| [Choose the screen display mode (videos display and layout)](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/choose-screen-display-mode.md)                       |           |             |       |
-| [Take a picture](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/take-picture-and-draw-on-it.md)                                                                  |           |             |       |
-| Open and initiate the whiteboard                                                                                                                                                                                |           |             |       |
-| Draw in the whiteboard                                                                                                                                                                                          |           |             |       |
-| [Draw on a video in real-time](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/actions-during-the-assistance/draw-on-video.md)                                  |           |             |       |
-| [Share files](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/share-file.md)                                                                                      |           |             |       |
-| [Download the shared files](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/download-files.md)                                                                    |           |             |       |
-| [Share a screen](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/actions-during-the-assistance/share-a-screen.md)                                                                               |           |             |       |
-| [Share pointer](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/embed/agents/video/share-pointer.md)                                                                                          |           |             |       |
-| [Record the session](https://github.com/rvailleux/docs/tree/master/faq/shared/.gitbook/video-assistance-multi/agents/actions-during-the-assistance/record-session.md)                                           |           |             |       |
-| [Configure my video assistance settings](https://github.com/rvailleux/docs/tree/master/faq/shared/guests/configure-my-assistance-settings/audio-video-settings.md)                                              |           |             |       |
-| Activate the noise cancellation                                                                                                                                                                                 |           |             |       |
-| Activate and deactivate the visual notifications                                                                                                                                                                |           |             |       |
-| Make a search and check the user guide                                                                                                                                                                          |           |             |       |
+| Functions | Organizer | Logged user | Guest |
+| :--- | :---: | :---: | :---: |
+| Join the conference | TODO | TODO | TODO |
+| Leave the conference | TODO | TODO | TODO |
+| Allow a participant to enter the session | TODO | TODO | TODO |
+| Send messages to the waiting room | TODO | TODO | TODO |
+| Invite someone to join the ongoing session | TODO | TODO | TODO |
+| Remove a participant from the ongoing session | TODO | TODO | TODO |
+| Activate and deactivate its own camera and microphone | TODO | TODO | TODO |
+| Activate and deactivate all the participants microphone | TODO | TODO | TODO |
+| Mute a participant in particular | TODO | TODO | TODO |
+| Turn on and off all the participants videos | TODO | TODO | TODO |
+| Turn off a participant audio for oneself | TODO | TODO | TODO |
+| Hide a participant video for oneself | TODO | TODO | TODO |
+| Switch a participant camera | TODO | TODO | TODO |
+| Remotely assist a participant | TODO | TODO | TODO |
+| Send messages to all the participants | TODO | TODO | TODO |
+| Choose the screen display mode (videos display and layout) | TODO | TODO | TODO |
+| Take a picture | TODO | TODO | TODO |
+| Open and initiate the whiteboard | TODO | TODO | TODO |
+| Draw in the whiteboard | TODO | TODO | TODO |
+| Draw on a video in real-time | TODO | TODO | TODO |
+| Share files | TODO | TODO | TODO |
+| Download the shared files | TODO | TODO | TODO |
+| Share a screen | TODO | TODO | TODO |
+| Share pointer | TODO | TODO | TODO |
+| Record the session | TODO | TODO | TODO |
+| Configure my video assistance settings | TODO | TODO | TODO |
+| Activate the noise cancellation | TODO | TODO | TODO |
+| Activate and deactivate the visual notifications | TODO | TODO | TODO |
+| Make a search and check the user guide | TODO | TODO | TODO |

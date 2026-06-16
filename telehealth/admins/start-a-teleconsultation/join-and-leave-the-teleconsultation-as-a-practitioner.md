@@ -27,7 +27,7 @@ You will be able to turn off the microphone and the camera during the session.
 
 {% hint style="info" %}
 
-*See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md)
+**See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md)
 
 {% endhint %}
 {% hint style="success" %}

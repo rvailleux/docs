@@ -6,7 +6,7 @@
 {% endhint %}
 
 1. Click **Log in**.
-2. A pop-up windows opens.
+2. A pop-up window opens.
     1. Enter your email address and your password.
     2. Check **Remember me** if you want to extend your authentication session.
     3. Click **Sign In**.

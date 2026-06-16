@@ -2,7 +2,7 @@
 Available if the participant is following the session with a **computer only**.
 {% endhint %}
 {% hint style="info" %}
-You are the organizer of the session and you want to help a participant to share his screen.
+You are the organizer of the session and you want to help a participant to share their screen.
 {% endhint %}
 
 1. On the right, click the **Actions** tab ![](../../.gitbook/assets/button-actions.png)
@@ -16,7 +16,7 @@ You are the organizer of the session and you want to help a participant to share
 
     {% hint style="success" %}
 
-    An invitation is sent to the participant and displays on his screen as follow:
+    An invitation is sent to the participant and displays on their screen as follow:
 
     {% endhint %}
  **Guest screen** 
@@ -24,11 +24,11 @@ You are the organizer of the session and you want to help a participant to share
 
     {% hint style="success" %}
 
-    When accepted, you can see the screen he shares.
+    When accepted, you can see the screen they share.
 
     {% endhint %}
 {% hint style="info" %}
 
-The participant can do this action by himself.  **See also** [Share a screen](../actions-during-the-conference/share-a-screen.md)
+The participant can do this action by himself.  **See also** [Share a screen](../actions-during-the-conference/share-a-screen.md)
 
 {% endhint %}

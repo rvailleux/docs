@@ -11,7 +11,7 @@ As a guest: you check your settings before entering the video session.
 
 ### Enable/Disable Microphone
 
-* In the toolbar, click ![](../.gitbook/assets/microphoneOn.png)to disable and ![](../.gitbook/assets/microphoneOff.png)to enable the micro.
+* In the toolbar, click ![](../.gitbook/assets/microphoneOn.png)to disable and ![](../.gitbook/assets/microphoneOff.png)to enable the microphone.
 
 {% hint style="success" %}
 You have your video feed to see the changes apply directly.

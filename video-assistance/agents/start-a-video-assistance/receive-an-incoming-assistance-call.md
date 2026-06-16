@@ -16,7 +16,7 @@ The following window displays on your screen:
 
 {% hint style="info" %}
 
-*See also**:
+**See also**:
 
 {% endhint %}
 * [Activate and turn off the microphone and camera](../actions-during-the-video-assistance/activate-and-turn-off-the-microphone-and-camera.md)

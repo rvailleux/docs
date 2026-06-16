@@ -28,6 +28,6 @@ You are an organizer and you want to record the ongoing session.
     {% endhint %}
  {% hint style="info" %}
 
- *See also** [Download the files - After the session in the portal](share-and-download-files/download-the-files-shared-during-the-conference.md)
+ **See also** [Download the files - After the session in the portal](share-and-download-files/download-the-files-shared-during-the-conference.md)
 
  {% endhint %}

@@ -42,7 +42,7 @@ Sometimes you need to go into your device settings to let your browser use the m
 
 {% hint style="info" %}
 
-*See also** https://doc.apizee.com/smart/project-diag-help-desk/attach-a-report-to-the-ticket[Allow the Web browser to access the camera and the microphone on my computer](allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
+**See also** https://doc.apizee.com/smart/project-diag-help-desk/attach-a-report-to-the-ticket[Allow the Web browser to access the camera and the microphone on my computer](allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
 
 {% endhint %}
 {% endhint %}

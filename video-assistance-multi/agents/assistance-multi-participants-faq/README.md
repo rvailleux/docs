@@ -3,7 +3,7 @@
 Here are all the **Frequently Asked Questions** about:
  **Apizee Assistance for multi-participants**
 
-* [The conferences are they confidential?](conferences-are-they-confidential.md)
+* [Are the conferences confidential?](conferences-are-they-confidential.md)
 * [Where are the servers?](where-are-servers.md)
 * [How to check my microphone and camera before an appointment?](how-to-check-my-microphone-camera-before-appointment.md)
 * [What language is available?](what-language-is-available.md)

@@ -1,8 +1,8 @@
 # Define the role, create a group and set the user availability
 
-* [Define a user role and activate the notifications](configure-the-agents.md)
-* [Prioritize the user availability](configure-the-agents.md)
-* [Create a user group](configure-the-agents.md)
+* [Define a user role and activate the notifications](configure-the-agents.md#define-a-user-role-and-activate-the-notifications)
+* [Prioritize the user availability](configure-the-agents.md#prioritize-the-user-availability)
+* [Create a user group](configure-the-agents.md#create-a-user-group)
 
 ##  Define a user role and activate the notifications
 
@@ -75,6 +75,6 @@ The users can be grouped according to their skills, their roles or any other cha
 
 {% hint style="info" %}
 
-*See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md)
+**See also** [Communicate with my coworkers:find someone in the directory thanks to "Group filter"](../communicate-with-my-coworkers/communicate-colleagues-send-a-common-invitation.md)
 
 {% endhint %}

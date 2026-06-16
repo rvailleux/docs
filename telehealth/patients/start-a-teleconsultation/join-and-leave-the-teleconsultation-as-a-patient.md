@@ -34,7 +34,7 @@ If you do not allow, the participants will not hear you and see you.
 
 ![](../../.gitbook/assets/apizee-background.png)**Want to change your background?**
 {% hint style="info" %}
-*See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md)
+**See also** [Change the virtual background](../configure-my-teleconsultation-settings/change-the-virtual-background.md)
 {% endhint %}
 {% hint style="success" %}
 You are in the waiting room.
@@ -42,7 +42,7 @@ You are in the waiting room.
 
 Wait for the organizer to allow you to enter into the session. 
 
-The organizer has been informed and he/she can send you messages to keep you informed. |
+The organizer has been informed and they can send you messages to keep you informed. |
 | --- | --- |
 
 ![](../../.gitbook/assets/FR-conf-rejoindre-guest-salle-attente-message-notif.gif)

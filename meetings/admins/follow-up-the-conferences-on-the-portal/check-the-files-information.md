@@ -27,5 +27,5 @@ That will help you find faster the session you are looking for.
  ![](../../.gitbook/assets/EN-portail-geoloc-info-image.png)
 
 | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | Do no want to see the geolocation? 
- **See also**  [Activate the geolocation](../configuration-on-the-apizee-portal/configure-the-conference/activate-the-geolocation.md) |
+ **See also** [Activate the geolocation](../configuration-on-the-apizee-portal/configure-the-conference/activate-the-geolocation.md) |
 | --- | --- |

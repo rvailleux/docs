@@ -4,14 +4,14 @@
 
 {% hint style="info" %}
 You are the organizer of the session and you cannot see clearly what the participant is showing to you. 
-You want to help the participant to turn on the flashlight on the back of his phone.
+You want to help the participant to turn on the flashlight on the back of their phone.
 {% endhint %}
 
 {% hint style="warning" %}
-Turning the flashlight on is unvailable while recording the session.
+Turning the flashlight on is unavailable while recording the session.
 {% endhint %}
 
-1. Mouve your mouse on the guest video.
+1. Move your mouse on the guest video.
 2. Click ![](../../.gitbook/assets/light-off-button.png) 
  
  ![](../../.gitbook/assets/EN-Diag-portal-agent-turn-light-on.png) 

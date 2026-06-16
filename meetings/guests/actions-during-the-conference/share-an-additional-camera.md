@@ -2,7 +2,7 @@
 Available only if you have **several cameras** on your device.
 {% endhint %}
 {% hint style="info" %}
-You are participating to an ongoing session and you want to share another camera in addition to the one that is already used.
+You are participating in an ongoing session and you want to share another camera in addition to the one that is already used.
 {% endhint %}
 
 1. On the right, click the **Actions** tab ![](../../.gitbook/assets/button-actions.png)

@@ -1,4 +1,3 @@
-##  
 
 # Watch "Call started" and "call ended" events in the activity feed of a Case or Incident
 

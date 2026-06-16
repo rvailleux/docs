@@ -3,7 +3,7 @@
 Here are the **Frequently Asked Questions**:
 
 * [About Apizee solutions](faq-about-apizee-solutions.md)
-* [The conferences are they confidential?](the-conferences-are-they-confidential.md)
+* [Are the conferences confidential?](the-conferences-are-they-confidential.md)
 * [Where are the servers?](../platform/where-are-the-servers.md)
 * [How to check my microphone and camera before an appointment?](how-to-check-my-microphone-and-camera-before-an-appointment.md)
 * [What language is available?](../platform/what-language-is-available.md)

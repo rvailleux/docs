@@ -7,7 +7,7 @@ Thanks to the link received, the user shares the smartphone camera with an agent
 
 During the video interaction, the agent can use collaborative tools to highlight elements, give instructions to the customer thanks augmented reality and transmit files or documentation to reach a faster and more efficient resolution.
 
-By giving users the opportunity to show and share their environment with an expert or customer service in real-time, you can reduce costs and avoid technicians or experts travel.
+Use multi-participant video assistance to bring multiple experts and customers into a single session. This page explains how to create and manage multi-participant sessions.
 
 {% hint style="info" %}
 This documentation explains the whole solution use.

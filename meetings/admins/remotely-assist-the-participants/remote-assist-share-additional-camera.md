@@ -1,5 +1,5 @@
 {% hint style="info" %}
-Available only if the participant has **several cameras** on his device.
+Available only if the participant has **several cameras** on their device.
 {% endhint %}
 {% hint style="info" %}
 You are the organizer of the session and you want to help a participant to share another camera in addition to the one that is already used.
@@ -16,7 +16,7 @@ You are the organizer of the session and you want to help a participant to share
 
     {% hint style="success" %}
 
-    An invitation is sent to the participant and displays on his screen as follow:
+    An invitation is sent to the participant and displays on their screen as follow:
 
     {% endhint %}
  **Guest screen** 
@@ -29,6 +29,6 @@ You are the organizer of the session and you want to help a participant to share
     {% endhint %}
 {% hint style="info" %}
 
-The participant can do this action by himself.**See also** [Share an additional camera](../actions-during-the-conference/share-an-additional-camera.md)
+The participant can do this action by himself.**See also** [Share an additional camera](../actions-during-the-conference/share-an-additional-camera.md)
 
 {% endhint %}

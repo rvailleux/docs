@@ -1,6 +1,4 @@
-#  You are a guest
-
-# 
+# You are a guest
 
 Please check the following:
 
@@ -47,7 +45,7 @@ If your profile is **Busy** or **Unavailable**, change it into **Available** sta
 
 {% hint style="info" %}
 
-*See also**  [Change my status](../video-assistance/agents/configuration-on-the-apizee-portal/configure-my-account/change-my-status.md)
+**See also** [Change my status](../video-assistance/agents/configuration-on-the-apizee-portal/configure-my-account/change-my-status.md)
 
 {% endhint %}
 {% endhint %}

@@ -4,7 +4,7 @@
 
 * [Welcome to the FAQ](general/welcome-to-the-faq.md)
 * [About Apizee solutions](general/faq-about-apizee-solutions.md)
-* [The conferences are they confidential?](general/the-conferences-are-they-confidential.md)
+* [Are the conferences confidential?](general/the-conferences-are-they-confidential.md)
 * [Where are the servers?](general/where-are-the-servers.md)
 * [How to check my microphone and camera before an appointment?](general/how-to-check-my-microphone-and-camera-before-an-appointment.md)
 * [What language is available?](general/what-language-is-available.md)
@@ -21,6 +21,12 @@
 * [I want to change my subscription](general/i-want-to-change-my-subscription.md)
 * [I cannot add a new user to my company](general/i-cannot-add-a-new-user-to-my-company.md)
 * [How to contact the Support Team and follow my requests?](general/how-to-contact-the-support-team-and-follow-my-requests.md)
+
+## Reference
+
+* [Troubleshooting](troubleshooting.md)
+* [Glossary](glossary.md)
+* [What's new](whats-new.md)
 
 ## Legal
 

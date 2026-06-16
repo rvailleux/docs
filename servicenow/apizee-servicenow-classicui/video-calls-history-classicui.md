@@ -5,8 +5,6 @@
  * You use the CSM or ITSM Workspace (**classicUI**)
 {% endhint %}
 
-# 
-
 Each time you start a video call from a Case or an Incident details page, an "Apizee Session" entry is created and attached to the Case or incident.
 
 1. Open the Case or Incident details page.

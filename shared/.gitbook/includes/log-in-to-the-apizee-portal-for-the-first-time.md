@@ -33,11 +33,15 @@ You are logged in to your account.
 1. In the message, click **Account validation link**.
 2.  Enter your password twice.
 
-    \|  | Choose a **different password** that you do not use for another Website.
+    {% hint style="info" %}
+    **Password requirements**
 
-Mix up the characters: 12 characters, 1 uppercase, 1 lowercase, 1 digit, 1 special character.
+    * Choose a **different password** that you do not use for another Website.
+    * Mix up the characters: 12 characters minimum, 1 uppercase, 1 lowercase, 1 digit, 1 special character.
+    * Protect your password: keep it in memory, change it regularly and do not save it in a file or on a piece of paper.
+    {% endhint %}
 
-Protect your password: Keep it in memory, change it regularly and do not save it in a file or on a piece of paper. | | --- | --- | 3. Click **Finalize**.
+3. Click **Finalize**.
 
 ![](<../../../faq/.gitbook/assets/EN-portal-log-in-first-time-confirm-password-twice-finalize (1).png>)
 

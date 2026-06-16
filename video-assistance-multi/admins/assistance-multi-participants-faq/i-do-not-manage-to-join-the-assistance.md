@@ -1,6 +1,4 @@
-#  You are a guest
-
-# 
+# You are a guest
 
 Please check the following:
 
@@ -27,9 +25,7 @@ Still having an issue?
  Please, contact the [Support](https://apizee.atlassian.net/servicedesk/customer/portals) Team.
 {% endhint %}
 
-#  
-
-#  You are an organizer
+# You are an organizer
 
 Please check the following:
 
@@ -47,7 +43,7 @@ If your profile is **Busy** or **Unavailable**, change it into **Available** sta
 
 {% hint style="info" %}
 
-*See also*
+**See also**
 
 {% endhint %}
 {% endhint %}

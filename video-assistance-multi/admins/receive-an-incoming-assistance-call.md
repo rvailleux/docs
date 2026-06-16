@@ -1,6 +1,4 @@
-# 
-
-#  Join the session
+# Join the session
 
 {% hint style="info" %}
 You are logged in to your account.
@@ -28,7 +26,7 @@ If you want it, you can turn off the microphone and the camera before joining th
 
 {% hint style="info" %}
 
-*See also** [Change the virtual background](../video-assistance-multi/agents/configure-my-assistance-settings/change-the-virtual-background.md)
+**See also** [Change the virtual background](../video-assistance-multi/agents/configure-my-assistance-settings/change-the-virtual-background.md)
 
 {% endhint %}
 {% hint style="success" %}

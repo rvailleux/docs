@@ -16,9 +16,9 @@ Assistance request form
 | Ticket status | Explanation |
 | --- | --- |
 | **New** | The requester filled the assistance request and sent it (Assistance request form only). |
-| **Open** | The supervisor analyses the request and changes the status into **Open** before he assignes it to an agent (Assistance request form only). |
+| **Open** | The supervisor analyses the request and changes the status into **Open** before they assign it to an agent (Assistance request form only). |
 | **Rejected** | The supervisor analyses the request and changes the status into **Rejected** (Assistance request form only). |
-| **Inivitation pending** | The invitation is sent to the guest. 
+| **Invitation pending** | The invitation is sent to the guest. 
  As a scheduled assistance, the guest can accept or decline the invitation. |
 | **Invitation accepted** | The guest received the invitation. 
  The guest accepted the invitation:
@@ -55,7 +55,7 @@ The agent still can invite the guest again if the expiration time is over 0.
 
 {% hint style="info" %}
 
-*[Time trigger - Change status to Completed](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/end-transfer-notification-delay "Check the article about the configuration of this trigger")**is configured by the admininstrator.
+*[Time trigger - Change status to Completed](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/end-transfer-notification-delay "Check the article about the configuration of this trigger")**is configured by the administrator.
 
 {% endhint %}
 | **Closed** | Here are the ways a ticket can change to **Closed**:
@@ -63,6 +63,6 @@ The agent still can invite the guest again if the expiration time is over 0.
 
 {% hint style="info" %}
 
-*See also** [Customize the tickets](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
+**See also** [Customize the tickets](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
 
 {% endhint %}

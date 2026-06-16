@@ -12,7 +12,7 @@ You are an agent and you need to:
 
     {% hint style="success" %}
 
-    The assistance page dipslays.
+    The assistance page displays.
 
     {% endhint %}
  ![](../../.gitbook/assets/EN-portal-assistance-multi-page-timeline-location.png)
@@ -59,11 +59,11 @@ The video assistance was immediate and has been changed to be scheduled on anoth
 
 {% hint style="info" %}
 
-*See also**[Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
+**See also** [Configure the triggers](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
 
 {% endhint %}
 {% hint style="info" %}
-*See also**[What status for my ticket?](../video-assistance/agents/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
+**See also** [What status for my ticket?](../video-assistance/agents/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
 {% endhint %}
 | ![](../../.gitbook/assets/Icon-Ticket.png) | Agent closed this session | The agent clicked **Close session** in the assistance page.
 
@@ -72,11 +72,11 @@ The video assistance was immediate and has been changed to be scheduled on anoth
 
 {% hint style="info" %}
 
-*See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
+**See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
 
 {% endhint %}
 {% hint style="info" %}
-*See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](../video-assistance/agents/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
+**See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](../video-assistance/agents/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
 {% endhint %}
 
 {% hint style="info" %}

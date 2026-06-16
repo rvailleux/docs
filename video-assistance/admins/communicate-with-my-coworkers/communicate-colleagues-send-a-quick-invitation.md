@@ -20,7 +20,7 @@ The groups are those created by the company administrator according the skills o
 
     {% hint style="info" %}
 
-    *See also**[Configure the agents](../configuration-on-the-apizee-portal/configure-the-agents.md)
+    **See also** [Configure the agents](../configuration-on-the-apizee-portal/configure-the-agents.md)
 
     {% endhint %}
 3. Search a contact in the **search** **bar** with a name or an email address. 

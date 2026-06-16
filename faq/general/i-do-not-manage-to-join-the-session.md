@@ -1,6 +1,4 @@
-#  You are a guest
-
-# 
+# You are a guest
 
 Please check the following:
 
@@ -47,7 +45,7 @@ If your profile is **Busy** or **Unavailable**, change it into **Available** sta
 
 {% hint style="info" %}
 
-*See also*
+**See also**
 
 {% endhint %}
 {% endhint %}

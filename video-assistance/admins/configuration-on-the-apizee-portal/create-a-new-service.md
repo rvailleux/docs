@@ -10,7 +10,7 @@
 
     {% hint style="info" %}
 
-    *See also** [our **Apizee for Video assistance** user guide](../about-apizee-video-assistance.md)
+    **See also** [our **Apizee for Video assistance** user guide](../about-apizee-video-assistance.md)
 
     {% endhint %}
     | --- | --- |
@@ -20,7 +20,7 @@
 
     {% hint style="info" %}
 
-    *See also** [our **Apizee for Meetings** user guide](../meetings/users/about-apizee-meetings.md)
+    **See also** [our **Apizee for Meetings** user guide](../meetings/users/about-apizee-meetings.md)
 
     {% endhint %}
     | Customer engagement | For chatbox and video calls embedded on your website.
@@ -29,11 +29,11 @@
 
     {% hint style="info" %}
 
-    *See also** [our Apizee for **Customer engagement** user guide](https://doc.apizee.com/smart/project-contact-customer-relationship/about-apizee-customer-engagement)
+    **See also** [our Apizee for **Customer engagement** user guide](https://doc.apizee.com/smart/project-contact-customer-relationship/about-apizee-customer-engagement)
 
     {% endhint %}
 
-\* The type of services displayed on your interface depends of the product you purchased.
+\* The type of services displayed on your interface depends on the product you purchased.
 4. Enter the name of your service.
 
     {% hint style="info" %}

@@ -2,8 +2,6 @@
 You want to check the quality state of a participant video or audio.
 {% endhint %}
 
-# 
-
 On the top left of the participant video, click the **network**symbol. 
  
  ![](../../.gitbook/assets/EN-conf-network-quality-participant.png)
@@ -14,6 +12,6 @@ For example: If the video quality is bad, you can ask the participant to turn of
 
 {% hint style="info" %}
 
-*See also** [FAQ - The video and the audio cut off](../apizee-meeting-faq/the-video-and-the-audio-cut-off.md)
+**See also** [FAQ - The video and the audio cut off](../apizee-meeting-faq/the-video-and-the-audio-cut-off.md)
 
 {% endhint %}

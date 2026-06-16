@@ -64,7 +64,7 @@ Move the mouse over the tag for more information about what it displays.
 
   
 
-*See also** [Customize the interface](../customize-interface.md)
+**See also** [Customize the interface](../customize-interface.md)
 
   
 

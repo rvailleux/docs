@@ -28,8 +28,6 @@ The participants will be able to download the file by clicking![](../../../.gitb
  If you are the organizer of the session, you can open a picture in whiteboard to annotate or draw on it by clicking ![](../../../.gitbook/assets/button-draw-on-video.png)
 {% endhint %}
 
-# 
-
 ## After the session in the portal
 
 {% hint style="info" %}

@@ -7,7 +7,7 @@
 ## During the session
 
 {% hint style="info" %}
-You are participating to an ongoing assistance session. 
+You are participating in an ongoing assistance session. 
 Someone shared a file with you.
 {% endhint %}
 
@@ -17,8 +17,6 @@ Someone shared a file with you.
 2. Click the **arrow** next to the image to download the file. 
  
  ![](../../../.gitbook/assets/Diag-Guest-download-file-messages-tab.png)
-
-#  
 
 ## After the session
 

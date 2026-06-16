@@ -26,14 +26,10 @@ Of course, this automatic message is completely customizable from the **Notifica
 
 {% hint style="info" %}
 
-*See also**  [Customize the notification templates](customize-the-notification-templates.md)
+**See also** [Customize the notification templates](customize-the-notification-templates.md)
 
 {% endhint %}
-#  
- 
-## 
- 
-##  Display the shared files on the end of session page
+## Display the shared files on the end of session page
 
 The end of session page can be useful as it displays a sum-up (name of the organizer, day and time of the meeting...) of the passed session. 
 In addition to that piece of information, you can configure to display the files shared during the session. 
@@ -70,8 +66,6 @@ After receiving the **automatic message** and clicking the link to access the **
 After **Confirming**, the participant accesses the end of session page.
 {% endhint %}
 
-## 
-
 ## Allow to share again the files after a session 
 
 1. In the left-hand menu, click the service you want.
@@ -101,6 +95,6 @@ From the conference page on the portal, the organizer will be able to send a dow
 
  {% hint style="info" %}
 
- *See also** [Share a file - after the session in the portal](../../actions-during-the-conference/share-and-download-files/share-a-file.md)
+ **See also** [Share a file - after the session in the portal](../../actions-during-the-conference/share-and-download-files/share-a-file.md)
 
  {% endhint %}

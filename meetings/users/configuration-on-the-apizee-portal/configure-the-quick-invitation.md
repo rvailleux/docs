@@ -15,6 +15,6 @@ If you have several services in the left-hand menu, note that you can configure 
 
 {% hint style="info" %}
 
-*See also** [Send a quick invitation](../start-a-video-conference/send-a-quick-invitation.md)
+**See also** [Send a quick invitation](../start-a-video-conference/send-a-quick-invitation.md)
 
 {% endhint %}

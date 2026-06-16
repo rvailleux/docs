@@ -1,5 +1,5 @@
 {% hint style="info" %}
-You are participating to an ongoing session and you need to show your screen to the other participants.
+You are participating in an ongoing session and you need to show your screen to the other participants.
 {% endhint %}
 
 1. On the upper side, next to the call bar, click ![](../../.gitbook/assets/button-screen-share.png) 

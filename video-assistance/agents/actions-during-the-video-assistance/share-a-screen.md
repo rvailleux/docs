@@ -8,7 +8,7 @@ This option may depend on your Web browser.
 5. Click **Share**. 
  
  ![](../../.gitbook/assets/EN-Diag-share-screen-web-browser.png)
-6. Click **Request screen sharing** if you want your interlocutor to share his screen. 
+6. Click **Request screen sharing** if you want your interlocutor to share their screen. 
 A sharing request is sent to the participant. The participant screen displays when the request is accepted. 
 
     {% hint style="info" %}

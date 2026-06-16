@@ -22,6 +22,6 @@ The survey is activated.
 
 {% hint style="info" %}
 
-*See also** [Respond to the satisfaction survey](../../actions-during-the-conference/respond-to-the-satisfcation-survey.md)
+**See also** [Respond to the satisfaction survey](../../actions-during-the-conference/respond-to-the-satisfcation-survey.md)
 
 {% endhint %}

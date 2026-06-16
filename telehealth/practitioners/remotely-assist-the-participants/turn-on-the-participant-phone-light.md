@@ -4,7 +4,7 @@
 
 {% hint style="info" %}
 You are the organizer of the session and you cannot see clearly what the participant is showing to you. 
-You want to help the participant to turn on the flashlight on the back of his phone.
+You want to help the participant to turn on the flashlight on the back of their phone.
 {% endhint %}
 
 1. On the right, click the **Actions** tab ![](../../.gitbook/assets/button-actions.png)
@@ -18,7 +18,7 @@ You want to help the participant to turn on the flashlight on the back of his ph
 
     {% hint style="success" %}
 
-    An invitation is sent to the participant and displays on his screen as follow:
+    An invitation is sent to the participant and displays on their screen as follow:
 
     {% endhint %}
  **Guest screen** 
@@ -26,6 +26,6 @@ You want to help the participant to turn on the flashlight on the back of his ph
 
     {% hint style="success" %}
 
-    When accepted, the flashlight of his mobile phone is on.
+    When accepted, the flashlight of their mobile phone is on.
 
     {% endhint %}

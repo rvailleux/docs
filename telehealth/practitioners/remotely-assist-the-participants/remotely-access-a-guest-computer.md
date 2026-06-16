@@ -7,7 +7,7 @@
 
     {% hint style="success" %}
 
-    An invitation is sent to the participant and displays on his screen as follow:
+    An invitation is sent to the participant and displays on their screen as follow:
 
     {% endhint %}
  **Guest screen  ![](../../.gitbook/assets/EN-conf-guest-view-allow-remote-access.png)**    

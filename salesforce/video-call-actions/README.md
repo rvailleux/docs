@@ -1,5 +1,3 @@
-# 
-
 # How to join a video session as a guest
 
 {% hint style="info" %}
@@ -38,7 +36,7 @@ The video session starts.
 {% endhint %}
 
 You can do several actions during this video session:
-* [Enable and disabled the microphone and camera](enable-and-disabled-microphone-and-camera.md)
+* [Enable and disable the microphone and camera](enable-and-disable-microphone-and-camera.md)
 * [Take a picture](take-a-picture.md)
 * [Change camera](change-camera.md)
 * [Share the pointer](share-pointer.md)

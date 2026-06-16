@@ -1,4 +1,4 @@
-## 
+# Getting started with Apizee for Genesys
 
 The Apizee connector is an add-on for Genesys. It helps customer support personnel start video sessions inside Genesys.
 
