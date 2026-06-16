@@ -8,17 +8,21 @@
 
 ![](../../.gitbook/assets/Diag-portal-ongoing-video-assistance.png)
 
-{% hint style="info" %}
-**See also** [our **Apizee for Video assistance** user guide](../video-assistance/agents/about-apizee-video-assistance.md)
-{% endhint %}
+    {% hint style="info" %}
+
+    **See also** [our **Apizee for Video assistance** user guide](../video-assistance/agents/about-apizee-video-assistance.md)
+
+    {% endhint %}
     | --- | --- |
     | Meeting | For video conference, meeting or individual appointments.
 
 ![](../../.gitbook/assets/conf-screen-several-participants.png)
 
-{% hint style="info" %}
-**See also** [our **Apizee for Meetings** user guide](../meetings/users/about-apizee-meetings.md)
-{% endhint %}
+    {% hint style="info" %}
+
+    **See also** [our **Apizee for Meetings** user guide](../meetings/users/about-apizee-meetings.md)
+
+    {% endhint %}
     | Customer engagement | For chatbox and video calls embedded on your website.
 
 ![](../../.gitbook/assets/Contact-chat-box-website.png)
@@ -26,6 +30,10 @@
 {% hint style="info" %}
 **See also** [our Apizee for **Customer engagement** user guide](https://doc.apizee.com/smart/project-contact-customer-relationship/about-apizee-customer-engagement)
 {% endhint %}
+
+    **See also** [our Apizee for **Customer engagement** user guide](https://doc.apizee.com/smart/project-contact-customer-relationship/about-apizee-customer-engagement)
+
+    {% endhint %}
 
 \* The type of services displayed on your interface depends on the product you purchased.
 4. Enter the name of your service.

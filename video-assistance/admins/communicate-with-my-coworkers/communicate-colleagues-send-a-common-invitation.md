@@ -14,9 +14,11 @@ The contacts display.
 2. Filter the list by **group**. 
 The groups are those created by the company administrator according the skills of each agent. 
 
-{% hint style="info" %}
-**See also** [Configure the agents](../configuration-on-the-apizee-portal/configure-the-agents.md)
-{% endhint %}
+    {% hint style="info" %}
+
+    **See also** [Configure the agents](../configuration-on-the-apizee-portal/configure-the-agents.md)
+
+    {% endhint %}
 3. Search a contact in the **search** **bar** with a name or an email address. 
 
 ![](../../.gitbook/assets/EN-portal-menu-directory-filter-users.png)

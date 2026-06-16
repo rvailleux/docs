@@ -1,1 +1,17 @@
-{% include "../../../shared/.gitbook/includes/switch-camera-1.md" %}
+{% hint style="info" %}
+Available only if you have **several cameras** on your device.
+{% endhint %}
+{% hint style="info" %}
+You are participating in an ongoing session and you want to switch your camera.
+{% endhint %}
+
+1. On the right, click the **Actions** tab ![](../../.gitbook/assets/button-actions.png)
+2. Click **Switch the camera**. 
+ 
+ ![](../../.gitbook/assets/EN-conf-menu-action-guest-switch-camera.png) 
+
+    {% hint style="success" %}
+
+    The video of a different camera displays.
+
+    {% endhint %}

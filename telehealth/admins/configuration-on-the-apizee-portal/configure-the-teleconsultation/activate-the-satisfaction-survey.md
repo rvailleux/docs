@@ -21,5 +21,7 @@ The survey is activated.
 {% endhint %}
 
 {% hint style="info" %}
+
 **See also** [Respond to the satisfaction survey](../../actions-during-the-teleconsultation/respond-to-the-satisfaction-survey.md)
+
 {% endhint %}

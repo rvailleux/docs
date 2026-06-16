@@ -18,8 +18,13 @@ Assistance request form
 | **New** | The requester filled the assistance request and sent it (Assistance request form only). |
 | **Open** | The supervisor analyses the request and changes the status into **Open** before they assign it to an agent (Assistance request form only). |
 | **Rejected** | The supervisor analyses the request and changes the status into **Rejected** (Assistance request form only). |
-| **Invitation pending** | The invitation is sent to the guest. <br> As a scheduled assistance, the guest can accept or decline the invitation. |
-| **Invitation accepted** | The guest received the invitation. <br> The guest accepted the invitation: <br> - directly in the message <br> or <br> - on the ticket public page (thanks to a link in the invitation) |
+| **Invitation pending** | The invitation is sent to the guest. 
+ As a scheduled assistance, the guest can accept or decline the invitation. |
+| **Invitation accepted** | The guest received the invitation. 
+ The guest accepted the invitation:
+  - directly in the message   
+or
+  - on the ticket public page (thanks to a link in the invitation)   |
 | **Declined** | The guest received the invitation. 
  The guest declined the invitation:  - directly in the message  or  - on the ticket public page (thanks to a link in the invitation)    
  
@@ -39,11 +44,15 @@ The agent still can invite the guest again if the expiration time is over 0.
 | **Done (Completed)** | Here are the ways a ticket can change to **Done (Completed)**:  -  The guest or the agent clicked **Done**.  -  If the satisfaction survey is activated, the ticket changes from **In progress** to **Done** when the guest clicks **Send **after answering to the satisfaction survey.  -  If the guest or the agent hung up and the&#160;**End transfer notification delay**&#160;is exceeded, the ticket status changes automatically into **Done**.  - If the guest sent files when no agent was available and the&#160;**End transfer notification delay**&#160;is exceeded, the ticket status changes automatically into **Done**.   
 
 {% hint style="info" %}
+
 *[Time trigger - Change status to Completed](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#end-transfer-notification-delay "Check the article about the configuration of this trigger")**is configured by the administrator.
+
 {% endhint %}
 | **Closed** | Here are the ways a ticket can change to **Closed**:
   -  The agent clicked **Close**.  -  If the guest did not click the link in the invitation after a certain amount of time. The time is configured by the administrator (**<a href="customize-the-tickets.md#max-expiration-time" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Closed after expiration</a>**).   |
 
 {% hint style="info" %}
+
 **See also** [Customize the tickets](../configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
+
 {% endhint %}

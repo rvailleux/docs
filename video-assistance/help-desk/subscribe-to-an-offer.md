@@ -16,7 +16,7 @@ From the [Apizee Pricing page](https://www.apizee.com/solutions-pricing/), click
 4. Enter your **Last name**, **first name** and **email address**.
 5. Tick the box **I am not a robot** then, click **Confirm**. 
  
- ![](../.gitbook/assets/EN-portal-subscribing-name-adress-capcha.png)
+ ![](../.gitbook/assets/EN-portal-subscribing-name-address-capcha.png)
 
 {% hint style="success" %}
 The subscription is saved. You will receive a message.

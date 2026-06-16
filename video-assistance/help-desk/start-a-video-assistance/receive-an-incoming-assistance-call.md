@@ -15,7 +15,9 @@ The following window displays on your screen:
 1. Click ![](../../.gitbook/assets/button-green-phone.png)
 
 {% hint style="info" %}
+
 **See also**:
+
 {% endhint %}
 * [Activate and turn off the microphone and camera](../actions-during-the-video-assistance/activate-and-turn-off-the-microphone-and-camera.md)
 * [Share a screen](../actions-during-the-video-assistance/share-a-screen.md)

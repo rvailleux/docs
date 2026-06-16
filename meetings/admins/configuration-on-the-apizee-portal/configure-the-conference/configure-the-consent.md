@@ -27,5 +27,7 @@ The consent configuration is saved and displays on the user interface.
 ![](../../../.gitbook/assets/EN-consent-configuration-result.png)
 
 {% hint style="info" %}
+
 **See also** [Join and leave the conference as a guest](../../start-a-video-conference/join-and-leave-the-conference-as-a-guest.md)
+
 {% endhint %}

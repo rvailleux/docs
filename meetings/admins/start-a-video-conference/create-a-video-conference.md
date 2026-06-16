@@ -26,12 +26,16 @@ This window displays. The following steps may be different whether you are an or
  ![](../../.gitbook/assets/EN-portal-create-session-planning.png)
 6. Select a **template**. 
 
-{% hint style="info" %}
-If you did not create your own template, select the default template.
-{% endhint %}
-{% hint style="info" %}
-**See also** [Customize the notification templates](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)
-{% endhint %}
+    {% hint style="info" %}
+
+    If you did not create your own template, select the default template.
+
+    {% endhint %}
+    {% hint style="info" %}
+
+    **See also** [Customize the notification templates](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-notification-templates.md)
+
+    {% endhint %}
 7. Select a **language**.
 8. Click **Next.   ![](../../.gitbook/assets/EN-portal-create-session-preview-invitation.png)**
 9. Give a name to the conference , if you want it.

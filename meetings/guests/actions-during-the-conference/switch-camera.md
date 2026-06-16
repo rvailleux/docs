@@ -14,5 +14,7 @@ You are participating in an ongoing session and you want to switch your camera.
 The video of a different camera displays.
 {% endhint %}
 {% hint style="info" %}
+
 **See also** [Audio & video settings](../configure-my-video-conference-settings/audio-video-settings.md)
+
 {% endhint %}

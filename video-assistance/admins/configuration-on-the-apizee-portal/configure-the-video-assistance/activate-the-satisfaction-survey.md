@@ -21,5 +21,7 @@ The survey is activated.
 {% endhint %}
 
 {% hint style="info" %}
+
 **See also** [Respond to the satisfaction survey](../../respond-to-the-satisfaction-survey.md)
+
 {% endhint %}

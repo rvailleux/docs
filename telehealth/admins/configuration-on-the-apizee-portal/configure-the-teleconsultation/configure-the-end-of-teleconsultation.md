@@ -25,7 +25,9 @@ Now, the guests of each session will receivea message when the session ends.
 Of course, this automatic message is completely customizable from the **Notification templates** tab. You can choose whether you want to add more information or change the style.
 
 {% hint style="info" %}
+
 **See also** [Customize the notification templates](customize-the-notification-templates.md)
+
 {% endhint %}
 ## Display the shared files on the end of session page
 
@@ -83,6 +85,8 @@ The participant will receive a message with the code and will be asked to enter 
 From the teleconsultation page on the portal, the organizer will be able to send a download link to the participants.
 {% endhint %}
 
-{% hint style="info" %}
-**See also** [Share a file - after the session in the portal](../../actions-during-the-teleconsultation/share-and-download-files/share-a-file.md)
-{% endhint %}
+ {% hint style="info" %}
+
+ **See also** [Share a file - after the session in the portal](../../actions-during-the-teleconsultation/share-and-download-files/share-a-file.md)
+
+ {% endhint %}

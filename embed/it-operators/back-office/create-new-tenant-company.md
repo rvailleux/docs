@@ -30,7 +30,9 @@ N'abusez pas du bloc **Tip**, cela doit rester exceptionnel et doit concerner un
 Essayez d'abord d'insérer l'information sous forme d'étape dans la procédure.
 {% endhint %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Enter chapter title here.](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md) <br><br> C'est bien d'ajouter des liens externes ! Vérifiez cependant qu'ils ne sont pas déjà proposés dans le volet de droite **Related topics** dans la publication. |
+| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Enter chapter title here.](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
+ 
+C'est bien d'ajouter des liens externes ! Vérifiez cependant qu'ils ne sont pas déjà proposés dans le volet de droite **Related topics** dans la publication. |
 | --- | --- |
 
 {% hint style="warning" %}
