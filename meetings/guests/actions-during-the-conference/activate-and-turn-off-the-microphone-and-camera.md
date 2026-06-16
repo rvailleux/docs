@@ -1,10 +1,1 @@
-{% hint style="info" %}
-You are participating in an ongoing session and you want to deactivate your microphone and/or your camera.
-{% endhint %}
-
-On the upper side of the screen, there is the **call bar**.
-
-1. Click the **camera** and **microphone** buttons to deactivate them.
-2. When you want to activate them back, click again on the buttons.
-
-![](../../.gitbook/assets/call-bar-turn-off-camera.png)
+{% include "../../../shared/.gitbook/includes/activate-and-turn-off.md" %}
