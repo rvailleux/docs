@@ -1,5 +1,5 @@
-# I cannot add a new user to my company
+# Can't add a new user to your account?
 
 {% content-ref url="../platform/i-cannot-add-a-new-user-to-my-company.md" %}
-[I cannot add a new user to my company](../platform/i-cannot-add-a-new-user-to-my-company.md)
+[Can't add a new user to your account?](../platform/i-cannot-add-a-new-user-to-my-company.md)
 {% endcontent-ref %}

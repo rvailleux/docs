@@ -1,4 +1,6 @@
-# You are a guest
+# Can't join the session?
+
+## You are a guest
 
 Please check the following:
 
@@ -25,9 +27,7 @@ Still having an issue?
  Please, contact the [Support](https://apizee.atlassian.net/servicedesk/customer/portals) Team.
 {% endhint %}
 
-#  
-
-#  You are an organizer
+## You are an organizer
 
 Please check the following:
 

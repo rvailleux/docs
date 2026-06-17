@@ -1,3 +1,5 @@
+# Audio sounds strange or distorted
+
 ![](../.gitbook/assets/FAQ-audio-strange.png)
 
 {% hint style="success" %}

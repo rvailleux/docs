@@ -1,3 +1,5 @@
+# Video or audio keeps cutting out
+
 ![](../.gitbook/assets/FAQ-video-and-audio-cut-off.png)
 
 {% hint style="success" %}

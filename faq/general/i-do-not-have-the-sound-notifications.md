@@ -1,3 +1,5 @@
+# Sound notifications not working?
+
 ![](../.gitbook/assets/FAQ-sound-notifications.png)
 
 {% hint style="info" %}

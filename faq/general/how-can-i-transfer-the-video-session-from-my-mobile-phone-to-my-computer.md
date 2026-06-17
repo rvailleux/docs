@@ -1,3 +1,5 @@
+# Transfer a session from mobile to desktop
+
 ![](../.gitbook/assets/FAQ-transfer-session-phone-to-computer.png)
 
 1. On your mobile phone, copy the link of the session.
