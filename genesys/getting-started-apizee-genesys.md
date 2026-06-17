@@ -79,7 +79,7 @@ Before you start, make sure:
 
    Discover all the available visual engagement actions accessible through your Genesys platform in the dedicated article:
 
-   ➡️ [Visual engagement actions overview](../video-assistance/help-desk/actions-during-the-video-assistance/actions-overview.md)
+   ➡️ [Visual engagement actions overview](https://apizeelegacy.gitbook.io/apizeelegacy-docs/video-assistance/help-desk/actions-during-the-video-assistance/actions-overview)
 
 8. **After the video call.**
 
