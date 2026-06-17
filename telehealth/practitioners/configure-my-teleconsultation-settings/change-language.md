@@ -1,5 +1,5 @@
 # Change language
 
 {% content-ref url="../../../faq/platform/change-language.md" %}
-[Change language](/apizeelegacy-docs/faq/platform/change-language)
+[Change language](../../../faq/platform/change-language.md)
 {% endcontent-ref %}

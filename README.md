@@ -18,12 +18,12 @@ layout:
 
 | Quick task | Guide |
 | :--- | :--- |
-| 🎥 Start a video session | [Video Assistance →](/apizeelegacy-docs/video-assistance) |
-| 📧 Send an invitation | [Quick invitation →](/apizeelegacy-docs/video-assistance/admins/start-a-video-assistance/create-a-ticket-send-an-invitation) |
-| 🎤 Fix camera or microphone | [Check my mic & camera →](/apizeelegacy-docs/faq/general/how-to-check-my-microphone-and-camera-before-an-appointment) |
-| 🔐 Reset my password | [Forgot password →](/apizeelegacy-docs/faq/general/i-forgot-my-password-can-i-reset-it) |
-| 📊 Manage my subscription | [Change subscription →](/apizeelegacy-docs/faq/general/i-want-to-change-my-subscription) |
-| 💬 Contact support | [Support & requests →](/apizeelegacy-docs/faq/general/how-to-contact-the-support-team-and-follow-my-requests) |
+| 🎥 Start a video session | [Video Assistance →](video-assistance/README.md) |
+| 📧 Send an invitation | [Quick invitation →](video-assistance/admins/start-a-video-assistance/create-a-ticket-send-an-invitation/README.md) |
+| 🎤 Fix camera or microphone | [Check my mic & camera →](faq/general/how-to-check-my-microphone-and-camera-before-an-appointment.md) |
+| 🔐 Reset my password | [Forgot password →](faq/general/i-forgot-my-password-can-i-reset-it.md) |
+| 📊 Manage my subscription | [Change subscription →](faq/general/i-want-to-change-my-subscription.md) |
+| 💬 Contact support | [Support & requests →](faq/general/how-to-contact-the-support-team-and-follow-my-requests.md) |
 
 ---
 
@@ -39,37 +39,37 @@ Choose the product area that matches what you need help with today.
 
 One-to-one video assistance for agents, guests, and administrators.
 
-* [Set up and administer your account](/apizeelegacy-docs/video-assistance) — Invite users, configure services, manage subscriptions.
-* [Run a video assistance session](/apizeelegacy-docs/video-assistance) — Create tickets, send invitations, host sessions.
-* [Join as a guest](/apizeelegacy-docs/video-assistance) — Accept an invitation and start a video call.
+* [Set up and administer your account](video-assistance/README.md) — Invite users, configure services, manage subscriptions.
+* [Run a video assistance session](video-assistance/README.md) — Create tickets, send invitations, host sessions.
+* [Join as a guest](video-assistance/README.md) — Accept an invitation and start a video call.
 
 ### 👥 Multi-participant Assistance
 
 Group video sessions with multiple participants.
 
-* [Administrators](/apizeelegacy-docs/video-assistance-multi) — Configure users, services, and subscriptions.
-* [Agents](/apizeelegacy-docs/video-assistance-multi) — Schedule and run multi-participant sessions.
-* [Guests](/apizeelegacy-docs/video-assistance-multi) — Join a multi-participant call.
+* [Administrators](video-assistance-multi/README.md) — Configure users, services, and subscriptions.
+* [Agents](video-assistance-multi/README.md) — Schedule and run multi-participant sessions.
+* [Guests](video-assistance-multi/README.md) — Join a multi-participant call.
 
 ### 📅 Meetings
 
 Scheduled video meetings and conference rooms.
 
-* [Meeting guides](/apizeelegacy-docs/meetings) — Create, join, and manage meetings.
+* [Meeting guides](meetings/README.md) — Create, join, and manage meetings.
 
 ### 🏥 Telehealth
 
 Healthcare-specific video assistance.
 
-* [Telehealth guides](/apizeelegacy-docs/telehealth) — Appointment scheduling, session privacy, and compliance.
+* [Telehealth guides](telehealth/README.md) — Appointment scheduling, session privacy, and compliance.
 
 ### 🔌 Integrations
 
 Connect Apizee with your existing tools.
 
-* [Salesforce](/apizeelegacy-docs/salesforce) — Install, configure, and use the Salesforce integration.
-* [Genesys](/apizeelegacy-docs/genesys) — Set up the Genesys connector.
-* [ServiceNow](/apizeelegacy-docs/servicenow) — Configure the ServiceNow integration.
+* [Salesforce](salesforce/README.md) — Install, configure, and use the Salesforce integration.
+* [Genesys](genesys/README.md) — Set up the Genesys connector.
+* [ServiceNow](servicenow/README.md) — Configure the ServiceNow integration.
 
 ---
 
@@ -77,14 +77,14 @@ Connect Apizee with your existing tools.
 
 Quick answers to the most common questions.
 
-* [About Apizee solutions](/apizeelegacy-docs/faq/general/faq-about-apizee-solutions)
-* [Are the conferences confidential?](/apizeelegacy-docs/faq/general/the-conferences-are-they-confidential)
-* [Where are the servers?](/apizeelegacy-docs/faq/general/where-are-the-servers)
-* [I cannot join the session](/apizeelegacy-docs/faq/general/i-do-not-manage-to-join-the-session)
-* [People cannot see or hear me](/apizeelegacy-docs/faq/general/people-cannot-see-me)
-* [How to contact the Support Team](/apizeelegacy-docs/faq/general/how-to-contact-the-support-team-and-follow-my-requests)
+* [About Apizee solutions](faq/general/faq-about-apizee-solutions.md)
+* [Are the conferences confidential?](faq/general/the-conferences-are-they-confidential.md)
+* [Where are the servers?](faq/general/where-are-the-servers.md)
+* [I cannot join the session](faq/general/i-do-not-manage-to-join-the-session.md)
+* [People cannot see or hear me](faq/general/people-cannot-see-me.md)
+* [How to contact the Support Team](faq/general/how-to-contact-the-support-team-and-follow-my-requests.md)
 
-[Browse all FAQ →](/apizeelegacy-docs/faq)
+[Browse all FAQ →](faq/README.md)
 
 ---
 
@@ -96,7 +96,7 @@ Stay up to date with the latest improvements.
 | :--- | :--- |
 | 2026-06 | Full documentation migration to GitBook — improved search, cross-linking, and unified navigation. |
 
-[View the full changelog →](/apizeelegacy-docs/faq/reference/whats-new)
+[View the full changelog →](faq/reference/whats-new.md)
 
 ---
 
@@ -106,8 +106,8 @@ If you cannot find what you are looking for:
 
 * **Search** using the bar at the top of any page.
 * **Browse by product** using the sections above.
-* **Contact Support** — [Submit a request](/apizeelegacy-docs/faq/general/how-to-contact-the-support-team-and-follow-my-requests) and we will get back to you shortly.
+* **Contact Support** — [Submit a request](faq/general/how-to-contact-the-support-team-and-follow-my-requests.md) and we will get back to you shortly.
 
 ---
 
-> **Contributor note:** This repository is the GitBook mono-repo for Apizee documentation, synced via Git Sync. For internal development details, folder mapping, and migration history, see [ARCHITECTURE.md](/apizeelegacy-docs/architecture).
+> **Contributor note:** This repository is the GitBook mono-repo for Apizee documentation, synced via Git Sync. For internal development details, folder mapping, and migration history, see [ARCHITECTURE.md](architecture.md).
