@@ -1,7 +1,6 @@
 ![](../../.gitbook/assets/Apizee-FAQ.png)
 
-Here are all the **Frequently Asked Questions** about:
- **Diag Help Desk**
+Here are the **Frequently Asked Questions** about **Apizee Video Assistance**:
 
 * [Are the conferences confidential?](the-conference-are-they-confidential.md)
 * [Where are the servers?](where-are-the-servers.md)

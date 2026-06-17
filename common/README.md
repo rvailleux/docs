@@ -8,6 +8,10 @@ layout:
 
 # How can we help?
 
+{% hint style="warning" %}
+**You are viewing documentation for Apizee legacy products** (Video Assistance, Meetings, Telehealth, and integrations). If you are looking for the current Apizee platform, visit [apizee.com](https://www.apizee.com).
+{% endhint %}
+
 **Search for answers**, browse by topic, or jump to your most common tasks below.
 
 > 💡 *Try searching for:* "How do I send an invitation by SMS?" | "Camera not working" | "Reset my password"
