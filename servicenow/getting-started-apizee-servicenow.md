@@ -85,7 +85,7 @@ Before you start, make sure:
 
    Discover all the available visual engagement actions accessible through your ServiceNow platform in the dedicated article:
 
-   ➡️ [Visual engagement actions overview](https://apizeelegacy.gitbook.io/apizeelegacy-docs/video-assistance/help-desk/actions-during-the-video-assistance/actions-overview)
+   ➡️ [Visual engagement actions overview](/apizeelegacy-docs/video-assistance/help-desk/actions-during-the-video-assistance/actions-overview)
 
 ## FAQ and Troubleshooting
 
