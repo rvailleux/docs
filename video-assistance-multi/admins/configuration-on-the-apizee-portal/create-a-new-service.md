@@ -31,10 +31,6 @@
 **See also** [our Apizee for **Customer engagement** user guide](https://doc.apizee.com/smart/project-contact-customer-relationship/about-apizee-customer-engagement)
 {% endhint %}
 
-    **See also** [our Apizee for **Customer engagement** user guide](https://doc.apizee.com/smart/project-contact-customer-relationship/about-apizee-customer-engagement)
-
-    {% endhint %}
-
 \* The type of services displayed on your interface depends on the product you purchased.
 4. Enter the name of your service.
 
