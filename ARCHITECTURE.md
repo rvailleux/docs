@@ -40,7 +40,7 @@ Removed from top tabs. Linked via custom header menu item (top-right).
 5. Move sections: Salesforce, Genesys, ServiceNow into the group
 6. For FAQ space: uncheck "Show in navigation" to hide it from tabs
 7. Go to Settings → Customization → Header
-8. Add a link: `FAQ` → `https://apizeelegacy.gitbook.io/apizeelegacy-docs/faq` positioned on the right
+8. Add a link: `FAQ` → `/faq` positioned on the right
 
 **Alternative: Via GitBook API**
 - POST `/orgs/{orgId}/sites/{siteId}/section-groups` for each group
