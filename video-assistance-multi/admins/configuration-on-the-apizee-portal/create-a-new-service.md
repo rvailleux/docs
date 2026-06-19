@@ -10,7 +10,7 @@
 
     {% hint style="info" %}
 
-    **See also** [our **Apizee for Video assistance** user guide](../video-assistance/agents/about-apizee-video-assistance.md)
+    **See also** [our **Apizee for Video assistance** user guide](https://app.gitbook.com/s/uuE6D1BWLXQZZvYIYyYC/agents/about-apizee-video-assistance)
 
     {% endhint %}
     | --- | --- |

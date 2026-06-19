@@ -1,7 +1,7 @@
 # How to Share a PDF File by email
 
 {% hint style="info" %}
-- You are logged into the Apizee Portal.- You already <a href="https://doc.apizee.com/smart/project-diag-help-desk/export-session-information-into-pdf" target="_blank">export the session information into a PDF</a>.- You want to send by email this PDF export.
+- You are logged into the Apizee Portal.- You already <a href="export-session-information-into-pdf.md" target="_blank">export the session information into a PDF</a>.- You want to send by email this PDF export.
 {% endhint %}
 
 1. In the left-hand menu, click the service you want.
@@ -16,7 +16,7 @@
     {% endhint %}
     {% hint style="info" %}
 
-    As you already [exported the session information into PDF](../video-assistance/agents/follow-up-the-assistances-on-the-portal/export-session-information-into-pdf.md), the file is available in the shared files.
+    As you already [exported the session information into PDF](export-session-information-into-pdf.md), the file is available in the shared files.
 
     {% endhint %}
 3. Tick the box to select the PDF file

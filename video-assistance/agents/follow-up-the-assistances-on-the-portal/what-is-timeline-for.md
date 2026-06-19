@@ -117,11 +117,11 @@ In this case the guest **blocked** it. | 25 |
 
 {% hint style="info" %}
 
-**See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[Configure the triggers](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
+**See also** [Configure the triggers](../../admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)
 
 {% endhint %}
 {% hint style="info" %}
-**See also**https://doc.apizee.com/articles/project-diag-help-desk-diagnostic-center/attach-a-report-to-the-ticket[What status for my ticket?](video-assistance-ticket-status.md)
+**See also** [What status for my ticket?](video-assistance-ticket-status.md)
 {% endhint %}
 
 {% hint style="info" %}

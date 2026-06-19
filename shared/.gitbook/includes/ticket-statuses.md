@@ -29,7 +29,7 @@ The agent can invite the guest again, change the date and time of the video assi
 {% endhint %}
 | **Canceled** | The session can be **Canceled** **** by an agent when the status is: <br> - **Open**- **Invitation pending**- **Invitation accepted**- **In progress** <br> When a session is canceled it is as if it was closed. You cannot invite the guest to this session anymore. |
 | **Expired** | Here are the ways a ticket can expire:
-  -  The guest received the invitation and did not click the link in the message.  -  The ticket changes into **Expired **after a certain amount of time. The time is configured by the administrator (**<a href="https://doc.apizee.com/smart/project-diag-help-desk/customize-the-tickets/a/expiration-time-after-invite" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Expired</a>**). 
+  -  The guest received the invitation and did not click the link in the message.  -  The ticket changes into **Expired **after a certain amount of time. The time is configured by the administrator (**<a href="../../../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#expiration-time-after-invite" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Expired</a>**). 
    
 
 {% hint style="info" %}
@@ -42,7 +42,7 @@ The agent still can invite the guest again if the expiration time is over 0.
 *[Time trigger - Change status to Completed](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md/a/end-transfer-notification-delay "Check the article about the configuration of this trigger")**is configured by the administrator.
 {% endhint %}
 | **Closed** | Here are the ways a ticket can change to **Closed**:
-  -  The agent clicked **Close**.  -  If the guest did not click the link in the invitation after a certain amount of time. The time is configured by the administrator (**<a href="https://doc.apizee.com/smart/project-diag-help-desk/customize-the-tickets/a/max-expiration-time" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Closed after expiration</a>**).   |
+  -  The agent clicked **Close**.  -  If the guest did not click the link in the invitation after a certain amount of time. The time is configured by the administrator (**<a href="../../../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md#max-expiration-time" target="_blank" title="Check the article about the configuration of this trigger">Time trigger - Change status to Closed after expiration</a>**).   |
 
 {% hint style="info" %}
 **See also** [Customize the tickets](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md)

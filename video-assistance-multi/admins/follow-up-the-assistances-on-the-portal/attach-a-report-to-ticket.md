@@ -30,6 +30,6 @@ The report is attached and display at the bottom of the **Ticket request** menu.
 
 {% hint style="info" %}
 
-**See also** [Configure a report template](https://doc.apizee.com/smart/project-diag-help-desk/configure-a-report-template)
+**See also** [Configure a report template](../configuration-on-the-apizee-portal/configure-video-assistance/configure-pdf-export-template.md)
 
 {% endhint %}

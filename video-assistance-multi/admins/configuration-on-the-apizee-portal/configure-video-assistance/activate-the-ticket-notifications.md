@@ -36,7 +36,7 @@ Create a ticket for a scheduled assistance session.
  
 Subscribe to the **DIAG - Enterprise** offer
  - A user fills in the assistance form.  - When the assistance request is sent, the supervisor receives a message (email or SMS according to the notification preferences he checked in his user account). 
- <table class="seeAlso" cellspacing="0" cellpadding="0"> <tbody> <tr><td>  **See also&#160;**&#160;<a href="https://doc.apizee.com/smart/project-diag-help-desk/configure-the-agents/a/h1__984823644" target="_blank">Configure the agents - Define a user role and activate the notifications</a> 
+ <table class="seeAlso" cellspacing="0" cellpadding="0"> <tbody> <tr><td>  **See also&#160;**&#160;<a href="../configure-the-agents.md">Configure the agents - Define a user role and activate the notifications</a> 
  </td> </tr> </tbody> </table>   | New |
 | Ticket assistance started | Notify the requester that the video assistance started. | Agent | The requester and the agent | The notification is sent when the session starts with the requester and the agent. | In progress |
 | Ticket completed | Notify the requester that the assistance is finished. | Agent | Requester |  -  If there is a period of inactivity after an assistance session, the ticket automatically changes it status into&#160;**Done**. 
@@ -57,7 +57,7 @@ or- In the assistance page, the agent clicked **Cancel session**.
 
 {% hint style="info" %}
 
-**See also** [Cancel a session](../video-assistance/agents/follow-up-the-assistances-on-the-portal/cancel-a-session.md)
+**See also** [Cancel a session](../../follow-up-the-assistances-on-the-portal/cancel-session.md)
 
 {% endhint %}
 | Ticket rejected | Notify the requester that the assistance request is rejected. | Agent | Requester | Prerequisite:
@@ -78,7 +78,7 @@ Create a ticket for a scheduled assistance session.
  * If the agent does not send an invitation again with another appointment date/hour before the end of the idle time (defined by the administrators then, the ticket is transferred to the supervisor.
  
 
-| **See also** [Customize the tickets](../video-assistance/admins/configuration-on-the-apizee-portal/configure-the-video-assistance/customize-the-tickets.md) |
+| **See also** [Customize the tickets](customize-the-tickets.md) |
 | --- | | Expired |
 
 1. In the **Notifications tab**, click **Conference notifications** to open the menu.

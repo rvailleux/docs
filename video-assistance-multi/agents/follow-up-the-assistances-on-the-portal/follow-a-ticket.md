@@ -24,7 +24,7 @@ The guest receives a message with the new information.
 
 {% hint style="info" %}
 
-**See also** [Attach a report to the ticket](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
+**See also** [Attach a report to the ticket](attach-a-report-to-ticket.md)
 
 {% endhint %}
 | d. | Shared files | Files shared during the assistance.
@@ -38,8 +38,8 @@ The guest receives a message with the new information.
 
 <img src="../../.gitbook/assets/ok.png" alt=""> The information displays
 
-<img src="../../.gitbook/assets/EN-Diag-portal-ticket-page-file-information-location-time.png" alt="">- If you want to share the file or download it, tick the box and click **Share **or **Download**. | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Share a file with the requester](../video-assistance/agents/actions-during-the-video-assistance/share-and-download-files/share-a-file-with-a-requester.md) 
-**See also** [Download the files - After the session in the portal](../video-assistance/agents/actions-during-the-video-assistance/share-and-download-files/download-files-shared-during-assistance-session.md/a/h2__2077902823) |
+<img src="../../.gitbook/assets/EN-Diag-portal-ticket-page-file-information-location-time.png" alt="">- If you want to share the file or download it, tick the box and click **Share **or **Download**. | ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Share a file with the requester](https://app.gitbook.com/s/uuE6D1BWLXQZZvYIYyYC/agents/actions-during-the-video-assistance/share-and-download-files/share-a-file-with-a-requester) 
+**See also** [Download the files - After the session in the portal](https://app.gitbook.com/s/uuE6D1BWLXQZZvYIYyYC/agents/actions-during-the-video-assistance/share-and-download-files/download-files-shared-during-assistance-session#h2__2077902823) |
 | --- | --- |
 {% hint style="info" %}
 **See also** [Share a file](../actions-during-the-assistance/share-file.md) & [Download files - After the session in the portal](../actions-during-the-assistance/download-files.md)
@@ -57,10 +57,10 @@ The same link is sent by message to the guests. |
 
 {% hint style="info" %}
 
-**See also** [What is the Timeline for?](../video-assistance/agents/follow-up-the-assistances-on-the-portal/what-is-timeline-for.md)
+**See also** [What is the Timeline for?](what-is-timeline-for.md)
 
 {% endhint %}
-| i. | Buttons for several actions | -   <span>Join the session </span> -  Save your changes -  Download the information into PDF format -  Reinvite the guest -  Change the ticket status  | - Choose to directly **join** the video session or <a href="receive-an-incoming-assistance-call.md" target="_blank">wait for the guest to call you</a>.- **Save** the edited information added in the **Ticket request** part.- Need to retrieve the assistance information? <a href="https://doc.apizee.com/smart/project-diag-help-desk/export-session-information-into-pdf" target="_blank">Export into a PDF file</a>.- Click **Invite again** to&#160;add, delete or change the guests contact. You can also&#160;<a href="https://doc.apizee.com/smart/project-diag-help-desk/send-new-invitation-for-same-session" target="_blank">send a new invitation</a> to this assistance. The guests will receive a new invitation message with the link to join the session.- Change the session status, click:<li>**Complete session**. If needed the agent can still reinvite the guest.- **<a href="https://doc.apizee.com/smart/project-diag-help-desk/cancel-a-session" target="_blank">Cancel session</a>**- **Close session**- **Delete session**. Once deleted, the session disappears.<table class="seeAlso" cellspacing="0" cellpadding="0"> <tbody> <tr> <td class="seeAlsoImageCell "><img src="../../.gitbook/assets/Apizee-see-also-icon.png"> </td> <td>  **See also&#160;**&#160;<a href="https://doc.apizee.com/smart/project-diag-help-desk/video-assistance-ticket-status" target="_blank">What status for my ticket?</a> 
+| i. | Buttons for several actions | -   <span>Join the session </span> -  Save your changes -  Download the information into PDF format -  Reinvite the guest -  Change the ticket status  | - Choose to directly **join** the video session or <a href="receive-an-incoming-assistance-call.md" target="_blank">wait for the guest to call you</a>.- **Save** the edited information added in the **Ticket request** part.- Need to retrieve the assistance information? <a href="export-session-information-into-pdf.md" target="_blank">Export into a PDF file</a>.- Click **Invite again** to&#160;add, delete or change the guests contact. You can also&#160;<a href="send-new-invitation-for-same-session-or-modify-guest.md" target="_blank">send a new invitation</a> to this assistance. The guests will receive a new invitation message with the link to join the session.- Change the session status, click:<li>**Complete session**. If needed the agent can still reinvite the guest.- **<a href="cancel-session.md" target="_blank">Cancel session</a>**- **Close session**- **Delete session**. Once deleted, the session disappears.<table class="seeAlso" cellspacing="0" cellpadding="0"> <tbody> <tr> <td class="seeAlsoImageCell "><img src="../../.gitbook/assets/Apizee-see-also-icon.png"> </td> <td>  **See also&#160;**&#160;<a href="video-assistance-ticket-status.md" target="_blank">What status for my ticket?</a> 
  </td> </tr> </tbody>
 </table></li> |
 | j. | Participants | Contact of the guests invited to the session. |  |

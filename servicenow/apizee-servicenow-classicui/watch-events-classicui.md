@@ -5,7 +5,7 @@
  * You use the CSM or ITSM Workspace (**classicUI**)
 {% endhint %}
 
-When a Fulfiller [starts a new video call](https://doc.apizee.com/smart/apizee-for-servicenow/modernui-getting-started-servicenow), the start date and time of the call automatically appear in the Case's or Incident's activity feed. Similarly, when the Guest or the Agent hangs up, a timestamped 'call ended' event is inserted into the Case's or Incident's activity feed.
+When a Fulfiller [starts a new video call](../getting-started-apizee-servicenow.md), the start date and time of the call automatically appear in the Case's or Incident's activity feed. Similarly, when the Guest or the Agent hangs up, a timestamped 'call ended' event is inserted into the Case's or Incident's activity feed.
 
 {% hint style="info" %}
 The activity feed is to be found in the "Notes" tab in the Case or Incident's detail page.
