@@ -1,128 +1,144 @@
 ---
 description: >-
-  Apizee Help Center — Find answers, tutorials, and guides for Video Assistance,
-  Meetings, Telehealth, and integrations.
+  Find answers, tutorials, and guides for all Apizee products — Video
+  Assistance, Meetings, Telehealth, and integrations.
 icon: life-ring
 layout:
   width: wide
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
-    visible: true
+    visible: false
   actions:
-    visible: true
+    visible: false
 ---
 
-# Help Center Home
+# Apizee Help Center
 
-**Search for answers**, browse by topic, or jump to your most common tasks below.
+#### How can we help you?
 
-> 💡 _Try searching for:_ "How do I send an invitation by SMS?" | "Camera not working" | "Reset my password"
-
-***
-
-## 🚀 Quick Access
-
-| Quick task                  | Guide                                                                                                         |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 🎥 Start a video session    | [Video Assistance →](../video-assistance/)                                                                    |
-| 📧 Send an invitation       | [Quick invitation →](../video-assistance/admins/start-a-video-assistance/create-a-ticket-send-an-invitation/) |
-| 🎤 Fix camera or microphone | [Check my mic & camera →](../faq/general/how-to-check-my-microphone-and-camera-before-an-appointment.md)      |
-| 🔐 Reset my password        | [Forgot password →](../faq/general/i-forgot-my-password-can-i-reset-it.md)                                    |
-| 📊 Manage my subscription   | [Change subscription →](../faq/general/i-want-to-change-my-subscription.md)                                   |
-| 💬 Contact support          | [Support & requests →](../faq/general/how-to-contact-the-support-team-and-follow-my-requests.md)              |
+Search for answers, browse by product, or jump to a common task below.
 
 ***
 
-## 📚 Browse by Product
+## Products
 
-{% hint style="info" %}
-Choose the product area that matches what you need help with today.
-{% endhint %}
-
-### 🎥 Video Assistance
-
-One-to-one video assistance for agents, guests, and administrators.
-
-* [Set up and administer your account](../video-assistance/) — Invite users, configure services, manage subscriptions.
-* [Run a video assistance session](../video-assistance/) — Create tickets, send invitations, host sessions.
-* [Join as a guest](../video-assistance/) — Accept an invitation and start a video call.
-
-### 👥 Multi-participant Assistance
-
-Group video sessions with multiple participants.
-
-* [Administrators](../video-assistance-multi/) — Configure users, services, and subscriptions.
-* [Agents](../video-assistance-multi/) — Schedule and run multi-participant sessions.
-* [Guests](../video-assistance-multi/) — Join a multi-participant call.
-
-### 📅 Meetings
-
-Scheduled video meetings and conference rooms.
-
-* [Meeting guides](../meetings/) — Create, join, and manage meetings.
-
-### 🏥 Telehealth
-
-Healthcare-specific video assistance.
-
-* [Telehealth guides](../telehealth/) — Appointment scheduling, session privacy, and compliance.
-
-### 🔌 Integrations
-
-Connect Apizee with your existing tools.
-
-* [Salesforce](../salesforce/) — Install, configure, and use the Salesforce integration.
-* [Genesys](../genesys/) — Set up the Genesys connector.
-* [ServiceNow](../servicenow/) — Configure the ServiceNow integration.
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Video Assistance</strong></td>
+      <td>One-to-one video sessions for agents, guests, and administrators.</td>
+      <td><a href="../video-assistance/">video-assistance</a></td>
+    </tr>
+    <tr>
+      <td><strong>Multi-participant Assistance</strong></td>
+      <td>Group video sessions with multiple participants on a single call.</td>
+      <td><a href="../video-assistance-multi/">video-assistance-multi</a></td>
+    </tr>
+    <tr>
+      <td><strong>Meetings</strong></td>
+      <td>Scheduled video meetings and shared conference rooms.</td>
+      <td><a href="../meetings/">meetings</a></td>
+    </tr>
+    <tr>
+      <td><strong>Telehealth</strong></td>
+      <td>Healthcare-specific video assistance with appointment scheduling and session privacy.</td>
+      <td><a href="../telehealth/">telehealth</a></td>
+    </tr>
+    <tr>
+      <td><strong>Salesforce</strong></td>
+      <td>Install, configure, and use the Apizee integration for Salesforce.</td>
+      <td><a href="../salesforce/">salesforce</a></td>
+    </tr>
+    <tr>
+      <td><strong>Genesys</strong></td>
+      <td>Set up the Apizee connector for Genesys contact center.</td>
+      <td><a href="../genesys/">genesys</a></td>
+    </tr>
+    <tr>
+      <td><strong>ServiceNow</strong></td>
+      <td>Configure the Apizee integration for ServiceNow.</td>
+      <td><a href="../servicenow/">servicenow</a></td>
+    </tr>
+    <tr>
+      <td><strong>FAQ</strong></td>
+      <td>Answers to the most common questions about Apizee solutions and troubleshooting.</td>
+      <td><a href="../faq/">faq</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
-## ❓ Frequently Asked Questions
+## Popular topics
 
-Quick answers to the most common questions.
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Start a video session</strong></td>
+      <td>Create a ticket and send an invitation to a guest.</td>
+      <td><a href="../video-assistance/admins/start-a-video-assistance/create-a-ticket-send-an-invitation/">create-a-ticket-send-an-invitation</a></td>
+    </tr>
+    <tr>
+      <td><strong>Check mic &amp; camera</strong></td>
+      <td>Test your microphone and camera before joining a session.</td>
+      <td><a href="../faq/general/how-to-check-my-microphone-and-camera-before-an-appointment.md">how-to-check-my-microphone-and-camera-before-an-appointment</a></td>
+    </tr>
+    <tr>
+      <td><strong>Reset my password</strong></td>
+      <td>Recover access to your Apizee account.</td>
+      <td><a href="../faq/general/i-forgot-my-password-can-i-reset-it.md">i-forgot-my-password-can-i-reset-it</a></td>
+    </tr>
+    <tr>
+      <td><strong>Manage my subscription</strong></td>
+      <td>Change or upgrade your Apizee subscription plan.</td>
+      <td><a href="../faq/general/i-want-to-change-my-subscription.md">i-want-to-change-my-subscription</a></td>
+    </tr>
+    <tr>
+      <td><strong>I can't join the session</strong></td>
+      <td>Troubleshoot connection errors and browser compatibility issues.</td>
+      <td><a href="../faq/general/i-do-not-manage-to-join-the-session.md">i-do-not-manage-to-join-the-session</a></td>
+    </tr>
+    <tr>
+      <td><strong>Contact Support</strong></td>
+      <td>Submit a request and track your support tickets.</td>
+      <td><a href="../faq/general/how-to-contact-the-support-team-and-follow-my-requests.md">how-to-contact-the-support-team-and-follow-my-requests</a></td>
+    </tr>
+  </tbody>
+</table>
 
-* [About Apizee solutions](../faq/general/faq-about-apizee-solutions.md)
-* [Are the conferences confidential?](../faq/general/the-conferences-are-they-confidential.md)
-* [Where are the servers?](../faq/general/where-are-the-servers.md)
-* [I cannot join the session](../faq/general/i-do-not-manage-to-join-the-session.md)
+***
+
+## Frequently asked questions
+
+* [What is Apizee?](../faq/general/faq-about-apizee-solutions.md)
+* [Are sessions confidential?](../faq/general/the-conferences-are-they-confidential.md)
+* [Where are the servers located?](../faq/general/where-are-the-servers.md)
 * [People cannot see or hear me](../faq/general/people-cannot-see-me.md)
 * [How to contact the Support Team](../faq/general/how-to-contact-the-support-team-and-follow-my-requests.md)
 
 [Browse all FAQ →](../faq/)
-
-***
-
-## 🆕 What's New
-
-Stay up to date with the latest improvements.
-
-| Date    | Update                                                                                            |
-| ------- | ------------------------------------------------------------------------------------------------- |
-| 2026-06 | Full documentation migration to GitBook — improved search, cross-linking, and unified navigation. |
-
-[View the full changelog →](../faq/reference/whats-new.md)
-
-***
-
-## 🛠 Need More Help?
-
-If you cannot find what you are looking for:
-
-* **Search** using the bar at the top of any page.
-* **Browse by product** using the sections above.
-* **Contact Support** — [Submit a request](../faq/general/how-to-contact-the-support-team-and-follow-my-requests.md) and we will get back to you shortly.
-
-***
-
-> **Contributor note:** This repository is the GitBook mono-repo for Apizee documentation, synced via Git Sync. For internal development details, folder mapping, and migration history, see [ARCHITECTURE.md](../architecture.md).
