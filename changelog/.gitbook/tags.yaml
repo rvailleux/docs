@@ -1,0 +1,27 @@
+- tag: visual-engagement
+  label: Visual Engagement
+  icon: video
+
+- tag: embed
+  label: Embed
+  icon: code
+
+- tag: integration
+  label: Integrations
+  icon: puzzle-piece
+
+- tag: improvement
+  label: Improvement
+  icon: arrow-up
+
+- tag: new-feature
+  label: New Feature
+  icon: star
+
+- tag: fix
+  label: Fix
+  icon: wrench
+
+- tag: breaking-change
+  label: Breaking Change
+  icon: triangle-exclamation
