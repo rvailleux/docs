@@ -1,5 +1,7 @@
 # Summary
 
+* [Overview](README.md)
+
 ## Getting started
 
 * [Log in to the video tool](admins/video/log-in-to-video-tool.md)
@@ -40,3 +42,8 @@
 
 * [Log in and log out](it-operators/back-office/bo-log-in-and-log-out.md)
 * [Create a new Tenant (Company)](it-operators/back-office/create-new-tenant-company.md)
+
+## Need help?
+
+* [Troubleshooting — Embed](../faq/troubleshooting/embed.md)
+* [Contact support](https://apizee.atlassian.net/servicedesk/customer/user/login?destination=portals)

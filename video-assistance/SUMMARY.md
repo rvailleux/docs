@@ -1,5 +1,7 @@
 # Summary
 
+* [Overview](README.md)
+
 ## Getting started
 * [About Apizee solutions](admins/about-apizee-solutions.md)
 * [About Apizee for Video Assistance](admins/about-apizee-video-assistance.md)
@@ -35,7 +37,6 @@
   * [Scan the guest video](admins/actions-during-the-video-assistance/scan-the-guest-video.md)
 * [Actions overview](help-desk/actions-during-the-video-assistance/actions-overview.md)
 * [Respond to the satisfaction survey](admins/respond-to-the-satisfaction-survey.md)
-* [Respond to the satisfaction survey](help-desk/actions-during-the-video-assistance/respond-to-the-satisfaction-survey.md)
 
 ## Communicate with my coworkers
 * [Communicate with my coworkers](admins/communicate-with-my-coworkers/README.md)
@@ -51,8 +52,8 @@
 ## Follow-up on the portal
 * [Follow-up the assistances on the portal](admins/follow-up-the-assistances-on-the-portal/README.md)
   * [Follow a ticket](admins/follow-up-the-assistances-on-the-portal/follow-a-ticket.md)
-  * [What status for my ticket?](admins/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
-  * [What is the Timeline for?](admins/follow-up-the-assistances-on-the-portal/what-is-timeline-for.md)
+  * [Check ticket status](admins/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
+  * [Understand the Timeline](admins/follow-up-the-assistances-on-the-portal/what-is-timeline-for.md)
   * [Send a new invitation for the same session](admins/follow-up-the-assistances-on-the-portal/send-new-invitation-for-same-session.md)
   * [Cancel a session](admins/follow-up-the-assistances-on-the-portal/cancel-a-session.md)
   * [Export the session information into a PDF](admins/follow-up-the-assistances-on-the-portal/export-session-information-into-pdf.md)
@@ -102,19 +103,10 @@
   * [Audio & video settings](help-desk/configure-my-video-assistance-options-requester/configure-assistance-options-requester-audio-video-settings.md)
   * [Bandwidth & resolution settings](help-desk/configure-my-video-assistance-options-requester/configure-assistance-options-requester-bandwidth-resolution-settings.md)
 
-## FAQ
-* [FAQ](admins/faq/README.md)
-  * [Are the conferences confidential?](admins/faq/the-conference-are-they-confidential.md)
-  * [Where are the servers?](admins/faq/where-are-the-servers.md)
-  * [What language is available?](admins/faq/what-language-is-available.md)
-  * [I do not manage to join the video assistance](admins/faq/i-do-not-manage-to-join-the-video-assistance.md)
-  * [I do not have the sound notifications](admins/faq/i-do-not-have-the-sound-notifications.md)
-  * [I forgot my password, can I reset it?](admins/faq/i-forgot-my-password-can-i-reset-it.md)
-  * [Allow the Web browser to access the camera and the microphone on my computer](admins/faq/allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
-  * [I want to change my subscription](admins/faq/i-want-to-change-my-subscription.md)
-  * [I cannot add a new user to my company](admins/faq/i-cannot-add-a-new-user-to-my-company.md)
-  * [How to contact the Support Team and follow my requests?](admins/faq/how-to-contact-the-support-team-and-follow-my-requests.md)
-
 ## Tutorials
 * [Tutorials](admins/tutorials.md)
+
+## Need help?
+* [Troubleshooting — Visual Engagement](../faq/troubleshooting/visual-engagement.md)
+* [Contact support](https://apizee.atlassian.net/servicedesk/customer/user/login?destination=portals)
 

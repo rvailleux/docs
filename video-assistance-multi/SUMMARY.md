@@ -1,5 +1,7 @@
 # Summary
 
+* [Overview](README.md)
+
 ## Getting started
 * [About Apizee solutions](admins/about-apizee-solutions.md)
 * [About the video assistance for multi-participants](admins/about-the-video-assistance-for-multi-participants.md)
@@ -54,8 +56,8 @@
 ## Follow-up on the portal
 * [Follow-up the assistances on the portal](admins/follow-up-the-assistances-on-the-portal/README.md)
   * [Follow a ticket](admins/follow-up-the-assistances-on-the-portal/follow-a-ticket.md)
-  * [What status for my ticket?](admins/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
-  * [What is the Timeline for?](admins/follow-up-the-assistances-on-the-portal/what-is-timeline-for.md)
+  * [Check ticket status](admins/follow-up-the-assistances-on-the-portal/video-assistance-ticket-status.md)
+  * [Understand the Timeline](admins/follow-up-the-assistances-on-the-portal/what-is-timeline-for.md)
   * [Send a new invitation for the same session or modify a guest](admins/follow-up-the-assistances-on-the-portal/send-new-invitation-for-same-session-or-modify-guest.md)
   * [Cancel a session](admins/follow-up-the-assistances-on-the-portal/cancel-session.md)
   * [Export the session information into a PDF](admins/follow-up-the-assistances-on-the-portal/export-session-information-into-pdf.md)
@@ -98,22 +100,6 @@
   * [Reduce background noise](admins/configure-my-assistance-settings/reduce-background-noise.md)
 * [User roles](admins/user-roles.md)
 
-## FAQ
-* [FAQ](admins/assistance-multi-participants-faq/README.md)
-  * [Are the conferences confidential?](admins/assistance-multi-participants-faq/conferences-are-they-confidential.md)
-  * [Where are the servers?](admins/assistance-multi-participants-faq/where-are-servers.md)
-  * [How to check my microphone and camera before an appointment?](admins/assistance-multi-participants-faq/how-to-check-my-microphone-camera-before-appointment.md)
-  * [What language is available?](admins/assistance-multi-participants-faq/what-language-is-available.md)
-  * [How can I transfer the video session from my mobile phone to my computer?](admins/assistance-multi-participants-faq/how-can-i-transfer-video-session-from-my-mobile-phone-to-my-computer.md)
-  * [How can I switch from dark to light mode?](admins/assistance-multi-participants-faq/how-can-i-switch-from-dark-to-light-mode.md)
-  * [I do not manage to join the assistance](admins/assistance-multi-participants-faq/i-do-not-manage-to-join-the-assistance.md)
-  * [People cannot see me](admins/assistance-multi-participants-faq/people-cannot-see-me.md)
-  * [People cannot hear me](admins/assistance-multi-participants-faq/people-cannot-hear-me.md)
-  * [The video and the audio cut off](admins/assistance-multi-participants-faq/video-and-audio-cut-off.md)
-  * [The audio is strange](admins/assistance-multi-participants-faq/audio-is-strange.md)
-  * [I do not have the sound notifications](admins/assistance-multi-participants-faq/i-do-not-have-sound-notifications.md)
-  * [I forgot my password, can I reset it?](admins/assistance-multi-participants-faq/i-forgot-my-password-how-to-reset-it.md)
-  * [Allow the Web browser to access the camera and the microphone on my computer](admins/assistance-multi-participants-faq/allow-web-browser-to-access-camera-microphone-on-computer.md)
-  * [I want to change my subscription](admins/assistance-multi-participants-faq/i-want-to-change-my-subscription.md)
-  * [I cannot add a new user to my company](admins/assistance-multi-participants-faq/i-cannot-add-new-user-to-my-company.md)
-  * [How to contact the Support Team and follow my requests?](admins/assistance-multi-participants-faq/how-to-contact-support-team-and-follow-my-requests.md)
+## Need help?
+* [Troubleshooting — Visual Engagement](../faq/troubleshooting/visual-engagement.md)
+* [Contact support](https://apizee.atlassian.net/servicedesk/customer/user/login?destination=portals)

@@ -7,79 +7,84 @@ icon: code
 
 {% updates format="full" %}
 
-{% update date="2026-06-10" tags="embed,new-feature" %}
-## Widget v4.2 — floating button positioning
+{% update date="2026-06-03" tags="embed,new-feature,improvement" %}
+## v3.5.4 — Multilingual interface, guest profiles, Design System
 
-The floating launcher button can now be positioned at any corner of the viewport using the new `position` parameter. A custom offset from each edge is supported.
+**Multilingual support**
 
-```js
-ApizeeEmbed.init({
-  position: 'bottom-left',
-  offsetX: 24,
-  offsetY: 24,
-});
-```
+The Embed interface is now available in Spanish (`es`), Italian (`it`), and German (`de`), in addition to the existing English (`en`), French (`fr`), Dutch (`nl`). Language is auto-detected from the browser locale and can be overridden with the `?lang=` URL parameter.
 
-* Accepted values: `bottom-right` (default), `bottom-left`, `top-right`, `top-left`
-* Position is persisted across page navigations in single-page applications
+**Guest profiles**
+
+Agents can now attach a guest profile (name, email, phone) to a session before sending the invitation. Profile data is saved to the interaction record and visible in session history.
+
+**Design System alignment**
+
+The widget UI has been updated to align with the Apizee Design System — updated typography, spacing, and button styles. No functional changes.
 {% endupdate %}
 
-{% update date="2026-05-20" tags="embed,improvement" %}
-## Reduced bundle size
+{% update date="2026-05-20" tags="embed,improvement,security" %}
+## Keycloak permission refactor
 
-The embed script has been refactored to use dynamic imports. The initial payload is now 18 kB (gzipped), down from 42 kB.
+User permissions and role assignments are now managed through Keycloak, replacing the previous ad-hoc role system. This change affects:
 
-* Core widget logic loads eagerly; video and co-browsing modules load on demand
-* No API changes — existing integrations pick up the improvement automatically on next deploy
+* How agent roles are assigned in the Embed portal — use **Administration → Users → Roles** to reassign permissions.
+* SSO federation: if you use SAML/Entra ID, verify that your identity provider attribute mapping is still correct after the update.
+
+No changes are required for tenants not using SSO. Existing sessions and interaction data are unaffected.
 {% endupdate %}
 
-{% update date="2026-05-05" tags="embed,new-feature" %}
-## Dark mode support
+{% update date="2026-04-15" tags="embed,new-feature,fix,breaking-change" %}
+## v3.5.0 / v3.5.1 — Guest tracker, face-to-face mode, transcription improvements, security patch
 
-The widget now detects the visitor's OS color scheme preference (`prefers-color-scheme`) and switches to a dark theme automatically. The theme can also be forced via configuration.
+**New features (v3.5.0)**
 
-```js
-ApizeeEmbed.init({
-  theme: 'dark', // 'light' | 'dark' | 'auto' (default)
-});
-```
+* **Guest tracker**: Agents can now see the guest's current page URL and device type during a session, visible in the session side panel.
+* **Face-to-face mode**: A new display layout where both agent and guest cameras are shown side-by-side at equal size. Enable via the layout toggle in the session toolbar.
+* **Photo notifications**: Agents receive an in-app notification when the guest takes a photo during the session.
+* **Transcription speaker names**: Live transcription now labels each speaker by name instead of "Agent" / "Guest".
+
+**Architecture improvements**
+
+* Session creation now automatically creates a linked interaction record. Sessions started outside of an interaction context (e.g. direct API calls) will generate a new interaction automatically.
+* Agent authentication is now required to start a session. Unauthenticated sessions will be rejected.
+
+**Breaking changes**
+
+* The `nP` URL parameter and `number_of_participants` postMessage were removed — participant count is now managed exclusively through `interactionTemplate`.
+* The `onSessionEnd` callback signature changed: it now receives `{ sessionId, duration, rating }` instead of just `sessionId`.
+* postMessage events for invitations and transcriptions now follow the standardized format: `{ key, status, success, payload, timestamp }`.
+
+**Bug fixes (v3.5.1)**
+
+* Fixed a regression introduced in v3.5.0 (CVE-2026-2386) where guests were unable to join sessions between April and May 2026. Update to v3.5.1 or later.
+* Fixed a "429 Too Many Requests" error when sending invitations from Salesforce, Zendesk, or Sandbox integrations.
 {% endupdate %}
 
-{% update date="2026-04-15" tags="embed,improvement" %}
-## Contextual data pre-fill
+{% update date="2026-02-25" tags="embed,new-feature" %}
+## Webhook event delivery via Hook0
 
-Agents now receive the visitor's current page URL, page title, and any custom metadata passed via `context` at the start of the session, visible in the session panel.
+Embed now supports webhook subscriptions through Hook0. Configure event subscriptions in the Embed portal under **Administration → Webhooks** to receive real-time notifications for session start, session end, invitation sent, and transcription ready events.
 
-```js
-ApizeeEmbed.init({
-  context: {
-    plan: 'enterprise',
-    accountId: '12345',
-  },
-});
-```
+Each event follows the standardized payload format: `{ key, status, success, payload, timestamp }`.
+
+See the [webhooks troubleshooting guide](../faq/troubleshooting/embed.md#webhooks-not-receiving-events) if events are not arriving.
 {% endupdate %}
 
-{% update date="2026-03-25" tags="embed,fix" %}
-## Fix: widget initialization race condition on SPAs
+{% update date="2026-01-21" tags="embed,new-feature,improvement" %}
+## Agent authentication required; session–interaction auto-link
 
-When the embed script loaded after the route change event on React and Vue applications, the widget could initialize on the wrong page and display an incorrect button state. This is now resolved with a deferred init guard.
-{% endupdate %}
+**Agent authentication**
 
-{% update date="2026-02-14" tags="embed,breaking-change" %}
-## Breaking change: `onSessionEnd` callback signature update
+Starting from this release, agents must authenticate with their Apizee credentials before using the Embed widget. Unauthenticated access is no longer permitted. Ensure all agent accounts exist in the Embed portal before deploying.
 
-The `onSessionEnd` callback now receives a full session summary object instead of just the session ID. Update your integration if you use this callback.
+If you use SSO (SAML/Entra ID), configure federation metadata in **Administration → SSO** before enabling this release.
 
-**Before:**
-```js
-onSessionEnd: (sessionId) => { ... }
-```
+**Session–interaction auto-link**
 
-**After:**
-```js
-onSessionEnd: ({ sessionId, duration, rating }) => { ... }
-```
+Sessions created from the Embed widget are now automatically linked to an interaction record. This enables full session history, file access, and timeline tracking from the Embed portal.
+
+Sessions created before this release are not retroactively linked.
 {% endupdate %}
 
 {% endupdates %}
