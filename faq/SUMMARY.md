@@ -1,5 +1,7 @@
 # Summary
 
+* [FAQ & Help](README.md)
+
 ## General
 
 * [Welcome to the FAQ](general/welcome-to-the-faq.md)
