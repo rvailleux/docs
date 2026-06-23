@@ -1,5 +1,6 @@
 # Summary
 
+* [Overview](README.md)
 * [Getting started with Apizee for ServiceNow](getting-started-apizee-servicenow.md)
 * [List past video calls](list-past-video-calls.md)
 * [Watch the events](watch-events.md)
@@ -7,3 +8,8 @@
 * [About Apizee for ServiceNow in ClassicUI](apizee-servicenow-classicui/README.md)
   * [List past video calls](apizee-servicenow-classicui/video-calls-history-classicui.md)
   * [Watch the events](apizee-servicenow-classicui/watch-events-classicui.md)
+
+## Need help?
+
+* [Troubleshooting — ServiceNow](../faq/troubleshooting/servicenow.md)
+* [Contact support](https://apizee.atlassian.net/servicedesk/customer/user/login?destination=portals)

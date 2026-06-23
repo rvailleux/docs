@@ -1,5 +1,7 @@
 # Summary
 
+* [FAQ & Help](README.md)
+
 ## General
 
 * [Welcome to the FAQ](general/welcome-to-the-faq.md)
@@ -22,9 +24,17 @@
 * [Can't add a new user to your account?](general/i-cannot-add-a-new-user-to-my-company.md)
 * [Contact the Support Team](general/how-to-contact-the-support-team-and-follow-my-requests.md)
 
+## Troubleshooting
+
+* [Troubleshooting overview](troubleshooting.md)
+* [Visual Engagement](troubleshooting/visual-engagement.md)
+* [Embed](troubleshooting/embed.md)
+* [Salesforce](troubleshooting/salesforce.md)
+* [Genesys](troubleshooting/genesys.md)
+* [ServiceNow](troubleshooting/servicenow.md)
+
 ## Reference
 
-* [Troubleshooting](troubleshooting.md)
 * [Glossary](glossary.md)
 * [What's new](whats-new.md)
 

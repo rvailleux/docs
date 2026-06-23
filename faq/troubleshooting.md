@@ -5,31 +5,58 @@ icon: wrench
 
 # Troubleshooting
 
-Use this page to quickly find solutions to common issues.
+Select the product area below to find solutions to common issues.
 
-## Can't join a session
+---
 
-* [I do not manage to join the session](general/i-do-not-manage-to-join-the-session.md)
-* [People cannot see me](general/people-cannot-see-me.md)
-* [People cannot hear me](general/people-cannot-hear-me.md)
+## Video Assistance, Meetings & Telehealth
 
-## Audio or video issues
+Camera and microphone issues, session join problems, audio quality, and browser permissions.
 
-* [The video and the audio cut off](general/the-video-and-the-audio-cut-off.md)
-* [The audio is strange](general/the-audio-is-strange.md)
-* [I do not have the sound notifications](general/i-do-not-have-the-sound-notifications.md)
+{% content-ref url="troubleshooting/visual-engagement.md" %}
+[Troubleshooting — Visual Engagement](troubleshooting/visual-engagement.md)
+{% endcontent-ref %}
 
-## Browser and device setup
+---
 
-* [How to check my microphone and camera before an appointment](general/how-to-check-my-microphone-and-camera-before-an-appointment.md)
-* [Allow the Web browser to access the camera and the microphone on my computer](general/allow-the-web-browser-to-access-the-camera-and-the-microphone-on-my-computer.md)
+## Embed
 
-## Account and subscription
+Widget loading, agent authentication, guest join failures, webhooks, and SDK breaking changes.
 
-* [I forgot my password, can I reset it?](general/i-forgot-my-password-can-i-reset-it.md)
-* [I want to change my subscription](general/i-want-to-change-my-subscription.md)
-* [I cannot add a new user to my company](general/i-cannot-add-a-new-user-to-my-company.md)
+{% content-ref url="troubleshooting/embed.md" %}
+[Troubleshooting — Embed](troubleshooting/embed.md)
+{% endcontent-ref %}
 
-## Still having an issue?
+---
 
-[Contact the Support Team](https://apizee.atlassian.net/servicedesk/customer/portals).
+## Salesforce
+
+Video call not starting, Task logging, click-to-call, connector installation, and Agentforce.
+
+{% content-ref url="troubleshooting/salesforce.md" %}
+[Troubleshooting — Salesforce](troubleshooting/salesforce.md)
+{% endcontent-ref %}
+
+---
+
+## Genesys
+
+Integration connection, presence sync, queue transfers, and session data in conversation records.
+
+{% content-ref url="troubleshooting/genesys.md" %}
+[Troubleshooting — Genesys](troubleshooting/genesys.md)
+{% endcontent-ref %}
+
+---
+
+## ServiceNow
+
+Connector installation, video session from incident, auto-linking, metrics dashboard, and events log.
+
+{% content-ref url="troubleshooting/servicenow.md" %}
+[Troubleshooting — ServiceNow](troubleshooting/servicenow.md)
+{% endcontent-ref %}
+
+---
+
+{% include "../shared/.gitbook/includes/support-cta.md" %}

@@ -1,17 +1,3 @@
-# Choose your user guide
-
-![](../../.gitbook/assets/Choose-user-guide.png)
-
-**Are you?**
-
-* Admin
-* User
-* Guest
-
-Choose a user guide according to your profile and check the information relevant to your user role only.
-
-![](../../.gitbook/assets/choose-user-guide-video.gif)
-
 # Check the compatibility
 
 Apizee solutions are "Plug-in free".
@@ -44,17 +30,13 @@ The Apizee solutions are compatible with:
 
 ## System configuration
 
-{% hint style="warning" %}
-The compatibility data below is pending review against current OS and browser versions. Please check with your system administrator for the latest supported configurations.
-{% endhint %}
-
 | OS | Version | Characteristics |
 | :--- | :--- | :--- |
-| Windows | 8, 10 & 11 | Intel Core 2 Duo 4GB RAM  
+| Windows | 10 & 11 | Intel Core 2 Duo 4GB RAM  
 Recommended: I5 quad-core 8GB RAM |
 | macOS | 10.15+ | All Macs since 2012 |
-| iOS | 12+ | iPhone 6s, iPad Air 2 |
-| Android | 7+ | ARM or x86 Dual-core 3GB RAM  
+| iOS | 14+ | iPhone 6s, iPad Air 2 |
+| Android | 9+ | ARM or x86 Dual-core 3GB RAM  
 Recommended: octo-core 6GB RAM |
 | Bandwidth | -- | 300kb/s – 2.4MB/s  
 Recommended: 4G |
@@ -79,7 +61,7 @@ We recommend that you use the following Web browsers for a better experience wit
 | Whiteboard | ✓ | ✓ | ✓ | ✓ |  |  |
 | Screensharing | ✓\* | v52+ | ✓ | ✓ |  |  |
 | Conference | ✓ | ✓ | ✓ | ✓ |  |  |
-| Remote access (Windows 7, 8.1, 10 & 11) | ✓ | ✓ | N/A Win 8.1 |  |  |  |
+| Remote access (Windows 10 & 11) | ✓ | ✓ | N/A |  |  |  |
 
 ### macOS
 
@@ -94,7 +76,7 @@ We recommend that you use the following Web browsers for a better experience wit
 
 | Feature | Chrome | Firefox | Opera | Edge | Safari | Samsung |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Audio/video | -- | -- | -- | -- | iOS 11.2+ † |  |
+| Audio/video | -- | -- | -- | -- | iOS 14+ |  |
 | Whiteboard | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Screensharing | -- | -- | -- | -- | View ‡ |  |
 | Conference | -- | -- | -- | -- | ✓ |  |
@@ -121,6 +103,8 @@ We recommend that you use the following Web browsers for a better experience wit
 
 \* Screen sharing available with browser extension.
 
-† Safari 14.0.1 on macOS and 14.2 on iOS have sound issues.
+† Safari 14.0.1 on macOS has known sound issues.
 
 ‡ The user can see the screen shared by the other participants but cannot share their own screen.
+
+*Last reviewed: June 2026*

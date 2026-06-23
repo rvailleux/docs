@@ -1,5 +1,6 @@
 # Summary
 
+* [Overview](README.md)
 * [Getting started with video calls in Salesforce](send-an-invitation.md)
 * [Getting started with video calls in Agentforce](getting-started-with-video-calls-in-agentforce.md)
 * [Video call actions](video-call-actions/README.md)
@@ -13,3 +14,8 @@
   * [Leave a video session](video-call-actions/leave-video-session.md)
   * [Start and stop Transcription](video-call-actions/start-stop-transcription.md)
 * [Watch the events](watch-the-events.md)
+
+## Need help?
+
+* [Troubleshooting — Salesforce](../faq/troubleshooting/salesforce.md)
+* [Contact support](https://apizee.atlassian.net/servicedesk/customer/user/login?destination=portals)
