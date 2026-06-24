@@ -1,61 +1,36 @@
-# Title 1
+---
+description: Add a new company (Tenant) to the Apizee Embed platform from the Back-Office.
+---
+
+# Create a new Tenant (Company)
 
 {% hint style="info" %}
-*Enter your prerequisite here .*
+**Prerequisites**
+
+* You are logged in to the Back-Office.
+* You are on the **Tenants** list page.
 {% endhint %}
 
-1. step
-2. step
-3. step
-
-Ajoutez des **Quick Parts** : **Insert &gt; QuickParts &gt; Insert**
-
-{% hint style="success" %}
-*Insert step result here.*
- 
-Ajoutez un résultat pour rassurer l'utilisateur. Qu'est-ce qui est censé se produire ou s'afficher à la in de la dernière étape ?
-Exemple:L'invitation est envoyée. Vous êtes dirigé vers la page de la visio.
-{% endhint %}
-
-{% hint style="success" %}
-*Insert your tip here.*
- 
-Insérer une astuce, une information complémentaire pour aider l'utilisateur à aller plus loin.
-N'abusez pas du bloc **Tip**, cela doit rester exceptionnel et doit concerner uniquement les information qu'on ne peux pas insérer dans une étape de la procédure.
-{% endhint %}
+1. Click the **Create** button.
+2. Enter a **Name** for the tenant. This field is required and must contain at least 3 characters.
+3. Check the **Identification key** field. It is automatically filled with a slug generated from the name you entered. You can edit it if needed.
 
 {% hint style="info" %}
-*Enter your information here.*
-
-Essayez d'abord d'insérer l'information sous forme d'étape dans la procédure.
+The identification key must be lowercase and contain only letters, numbers, and hyphens.
 {% endhint %}
 
-| ![](../../.gitbook/assets/Apizee-see-also-icon.png) | **See also** [Enter chapter title here.](../video-assistance/agents/follow-up-the-assistances-on-the-portal/attach-a-report-to-the-ticket.md)
- 
-C'est bien d'ajouter des liens externes ! Vérifiez cependant qu'ils ne sont pas déjà proposés dans le volet de droite **Related topics** dans la publication. |
-| --- | --- |
+4. Click **Create**.
+
+{% hint style="success" %}
+A success notification confirms the tenant was created: **\[Tenant name\] added. See**.
+
+Click **See** to open the new tenant's information page.
+{% endhint %}
 
 {% hint style="warning" %}
-*Enter the warning here.*
+If an error occurs during creation, a notification is displayed:
 
-Les **Warning** peuvent faire peur à l'utilisateur et le freiner dans la réalisation des étapes. 
-Surtout, cela ne donne pas une bonne image de nos produits.
+**Impossible to create in \[Back-Office / Cloud / KeyCloak\]. Contact your administrator.**
 
-Servez-vous du **Warning** avec parcimonie et uniquement:- quand vous n&#39;avez pas reussi &#224; tourner l&#39;information de mani&#232;re positive dans la proc&#233;dure.- pour guider l&#39;utilisateur quand le fonctionnement n&#39;est pas intuitif.- quand il y a un danger.
+This message remains visible until you close it by clicking the **×** button.
 {% endhint %}
-
- [+] [Show More](javascript:void%280%29)
- [-] [Hide](javascript:void%280%29)
- *Put here the text for your expandable block.Scripts are disabled in the editing mode, so click**"Unlock & View"** to see the box in action.*
- *You can also edit the text for the "Show More" and "Hide" elements.*
- 
-La procédure a trop d'étapes (+ de 6) et vous n'avez pas réussi à remanier l'information ? Réécrivez l'article et insérer les information moins importantes dans ce bloc.
-
-* * *
-
-**Watch the tutorial**
-
-[More tutorials](../video-assistance/agents/tutorials.md)
-
-
-Click [here](/settings/topic-template) to change this template.
