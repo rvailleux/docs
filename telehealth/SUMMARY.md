@@ -10,11 +10,10 @@
 
 ## Start a teleconsultation
 
-* [Start a teleconsultation](admins/start-a-teleconsultation/README.md)
-  * [Send a quick invitation](admins/start-a-teleconsultation/send-a-quick-invitation.md)
-  * [Create a teleconsultation](admins/start-a-teleconsultation/create-a-new-teleconsultation-appointment.md)
-  * [Join and leave the teleconsultation as a practitioner](admins/start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-practitioner.md)
-  * [Join and leave the teleconsultation as a patient](admins/start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-patient.md)
+* [Send a quick invitation](admins/start-a-teleconsultation/send-a-quick-invitation.md)
+* [Create a teleconsultation](admins/start-a-teleconsultation/create-a-new-teleconsultation-appointment.md)
+* [Join and leave the teleconsultation as a practitioner](admins/start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-practitioner.md)
+* [Join and leave the teleconsultation as a patient](admins/start-a-teleconsultation/join-and-leave-the-teleconsultation-as-a-patient.md)
 
 ## Manage the teleconsultation
 
@@ -39,34 +38,32 @@
 
 ## Actions during the teleconsultation
 
-* [Actions during the teleconsultation](admins/actions-during-the-teleconsultation/README.md)
-  * [Activate and turn off the microphone and the camera](admins/actions-during-the-teleconsultation/activate-and-turn-off-the-microphone-and-the-camera.md)
-  * [Choose the screen display mode](admins/actions-during-the-teleconsultation/choose-the-screen-display-mode.md)
-  * [Share a screen](admins/actions-during-the-teleconsultation/share-a-screen.md)
-  * [Take a picture and draw on it](admins/actions-during-the-teleconsultation/take-a-picture-and-draw-on-it.md)
-  * [Draw on a video](admins/actions-during-the-teleconsultation/draw-on-a-video.md)
-  * [Share and download files](admins/actions-during-the-teleconsultation/share-and-download-files/README.md)
-    * [Share a file](admins/actions-during-the-teleconsultation/share-and-download-files/share-a-file.md)
-    * [Download the files shared during the teleconsultation](admins/actions-during-the-teleconsultation/share-and-download-files/download-the-files-shared-during-the-teleconsultation.md)
-  * [Switch camera](admins/actions-during-the-teleconsultation/switch-camera.md)
-  * [Share an additional camera](admins/actions-during-the-teleconsultation/share-an-additional-camera.md)
-  * [Share the pointer](admins/actions-during-the-teleconsultation/share-the-pointer.md)
-  * [Turn off a participant audio](admins/actions-during-the-teleconsultation/turn-off-participant-audio.md)
-  * [Hide a participant video](admins/actions-during-the-teleconsultation/hide-a-participant-video.md)
-  * [Record the session](admins/actions-during-the-teleconsultation/record-the-session.md)
-  * [Make a payment for a teleconsultation](admins/actions-during-the-teleconsultation/make-a-payment-for-a-teleconsultation.md)
-  * [Respond to the satisfaction survey](admins/actions-during-the-teleconsultation/respond-to-the-satisfaction-survey.md)
-  * [Allow the organizer to remotely access my computer](admins/actions-during-the-teleconsultation/allow-organizer-to-remotely-access-my-computer.md)
+* [Activate and turn off the microphone and the camera](admins/actions-during-the-teleconsultation/activate-and-turn-off-the-microphone-and-the-camera.md)
+* [Choose the screen display mode](admins/actions-during-the-teleconsultation/choose-the-screen-display-mode.md)
+* [Share a screen](admins/actions-during-the-teleconsultation/share-a-screen.md)
+* [Take a picture and draw on it](admins/actions-during-the-teleconsultation/take-a-picture-and-draw-on-it.md)
+* [Draw on a video](admins/actions-during-the-teleconsultation/draw-on-a-video.md)
+* [Share and download files](admins/actions-during-the-teleconsultation/share-and-download-files/README.md)
+  * [Share a file](admins/actions-during-the-teleconsultation/share-and-download-files/share-a-file.md)
+  * [Download the files shared during the teleconsultation](admins/actions-during-the-teleconsultation/share-and-download-files/download-the-files-shared-during-the-teleconsultation.md)
+* [Switch camera](admins/actions-during-the-teleconsultation/switch-camera.md)
+* [Share an additional camera](admins/actions-during-the-teleconsultation/share-an-additional-camera.md)
+* [Share the pointer](admins/actions-during-the-teleconsultation/share-the-pointer.md)
+* [Turn off a participant audio](admins/actions-during-the-teleconsultation/turn-off-participant-audio.md)
+* [Hide a participant video](admins/actions-during-the-teleconsultation/hide-a-participant-video.md)
+* [Record the session](admins/actions-during-the-teleconsultation/record-the-session.md)
+* [Make a payment for a teleconsultation](admins/actions-during-the-teleconsultation/make-a-payment-for-a-teleconsultation.md)
+* [Respond to the satisfaction survey](admins/actions-during-the-teleconsultation/respond-to-the-satisfaction-survey.md)
+* [Allow the organizer to remotely access my computer](admins/actions-during-the-teleconsultation/allow-organizer-to-remotely-access-my-computer.md)
 
 ## Follow-up on the portal
 
-* [Follow-up the teleconsultations on the portal](admins/follow-up-the-teleconsultations-on-the-portal/README.md)
-  * [Find the teleconsultation history](admins/follow-up-the-teleconsultations-on-the-portal/find-the-teleconsultation-history.md)
-  * [Check the files information](admins/follow-up-the-teleconsultations-on-the-portal/check-the-files-information.md)
-  * [Send a new invitation for the same session](admins/follow-up-the-teleconsultations-on-the-portal/send-new-invitation-for-same-session.md)
-  * [Check the statistics](admins/follow-up-the-teleconsultations-on-the-portal/check-the-statistics/README.md)
-    * [Statistics - Sessions](admins/follow-up-the-teleconsultations-on-the-portal/check-the-statistics/statistics-sessions.md)
-    * [Statistics - Survey](admins/follow-up-the-teleconsultations-on-the-portal/check-the-statistics/statistics-survey.md)
+* [Find the teleconsultation history](admins/follow-up-the-teleconsultations-on-the-portal/find-the-teleconsultation-history.md)
+* [Check the files information](admins/follow-up-the-teleconsultations-on-the-portal/check-the-files-information.md)
+* [Send a new invitation for the same session](admins/follow-up-the-teleconsultations-on-the-portal/send-new-invitation-for-same-session.md)
+* [Check the statistics](admins/follow-up-the-teleconsultations-on-the-portal/check-the-statistics/README.md)
+  * [Statistics - Sessions](admins/follow-up-the-teleconsultations-on-the-portal/check-the-statistics/statistics-sessions.md)
+  * [Statistics - Survey](admins/follow-up-the-teleconsultations-on-the-portal/check-the-statistics/statistics-survey.md)
 
 ## Administration
 

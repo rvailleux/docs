@@ -45,42 +45,42 @@ Search for answers, browse by product, or jump to a common task below.
     <tr>
       <td><strong>Video Assistance</strong></td>
       <td>One-to-one video sessions for agents, guests, and administrators.</td>
-      <td><a href="../video-assistance/admins/about-apizee-solutions.md">video-assistance</a></td>
+      <td><a href="../video-assistance/">video-assistance</a></td>
     </tr>
     <tr>
       <td><strong>Multi-participant Assistance</strong></td>
       <td>Group video sessions with multiple participants on a single call.</td>
-      <td><a href="../video-assistance-multi/admins/about-apizee-solutions.md">video-assistance-multi</a></td>
+      <td><a href="../video-assistance-multi/">video-assistance-multi</a></td>
     </tr>
     <tr>
       <td><strong>Meetings</strong></td>
       <td>Scheduled video meetings and shared conference rooms.</td>
-      <td><a href="../meetings/admins/about-apizee-solutions.md">meetings</a></td>
+      <td><a href="../meetings/">meetings</a></td>
     </tr>
     <tr>
       <td><strong>Telehealth</strong></td>
       <td>Healthcare-specific video assistance with appointment scheduling and session privacy.</td>
-      <td><a href="../telehealth/admins/about-apizee-solutions.md">telehealth</a></td>
+      <td><a href="../telehealth/">telehealth</a></td>
     </tr>
     <tr>
       <td><strong>Salesforce</strong></td>
       <td>Install, configure, and use the Apizee integration for Salesforce.</td>
-      <td><a href="../salesforce/send-an-invitation.md">salesforce</a></td>
+      <td><a href="../salesforce/">salesforce</a></td>
     </tr>
     <tr>
       <td><strong>Genesys</strong></td>
       <td>Set up the Apizee connector for Genesys contact center.</td>
-      <td><a href="../genesys/getting-started-apizee-genesys.md">genesys</a></td>
+      <td><a href="../genesys/">genesys</a></td>
     </tr>
     <tr>
       <td><strong>ServiceNow</strong></td>
       <td>Configure the Apizee integration for ServiceNow.</td>
-      <td><a href="../servicenow/getting-started-apizee-servicenow.md">servicenow</a></td>
+      <td><a href="../servicenow/">servicenow</a></td>
     </tr>
     <tr>
       <td><strong>FAQ</strong></td>
       <td>Answers to the most common questions about Apizee solutions and troubleshooting.</td>
-      <td><a href="../faq/general/welcome-to-the-faq.md">faq</a></td>
+      <td><a href="../faq/">faq</a></td>
     </tr>
   </tbody>
 </table>
@@ -101,7 +101,7 @@ Search for answers, browse by product, or jump to a common task below.
     <tr>
       <td><strong>Start a video session</strong></td>
       <td>Create a ticket and send an invitation to a guest.</td>
-      <td><a href="../video-assistance/admins/start-a-video-assistance/create-a-ticket-send-an-invitation/README.md">create-a-ticket-send-an-invitation</a></td>
+      <td><a href="../video-assistance/admins/start-a-video-assistance/create-a-ticket-send-an-invitation/">create-a-ticket-send-an-invitation</a></td>
     </tr>
     <tr>
       <td><strong>Check mic &amp; camera</strong></td>
@@ -141,4 +141,4 @@ Search for answers, browse by product, or jump to a common task below.
 * [People cannot see or hear me](../faq/general/people-cannot-see-me.md)
 * [How to contact the Support Team](../faq/general/how-to-contact-the-support-team-and-follow-my-requests.md)
 
-[Browse all FAQ →](../faq/general/welcome-to-the-faq.md)
+[Browse all FAQ →](../faq/)
